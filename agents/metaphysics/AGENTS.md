@@ -98,6 +98,10 @@ sessions_send(sessionKey="agent:<advisor>:discord:channel:1471251137280868683", 
 - Phenomenology: `<@1471342240726126807>`
 - Metaphysics: `<@1471518216265269372>`
 - Philosophy of Mind: `<@1471341440679284849>`
+- Epistemology: `<@1471551912636715213>`
+- Wittgenstein: `<@1471554298771931206>`
+- Chinese Philosophy: `<@1471557071823441983>`
+- Buddhism: `<@1471562953332621312>`
 - *(more IDs will be added as advisors come online)*
 
 ## Memory
