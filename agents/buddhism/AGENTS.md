@@ -91,6 +91,13 @@ sessions_send(sessionKey="agent:<advisor>:discord:channel:1471251137280868683", 
 - `agent:translator:discord:channel:1471251137280868683`
 - `agent:main:discord:channel:1471251137280868683` (Lumen)
 
+**Discord @mentions (use these to ping in chat):**
+- Lumen: `<@1468883404106760193>`
+- Existentialism: `<@1471317322995073266>`
+- Kantian: `<@1471323104595677236>`
+- Phenomenology: `<@1471342240726126807>`
+- *(more IDs will be added as advisors come online)*
+
 ## Memory
 Your `MEMORY.md` is your continuity.
 
