@@ -96,6 +96,8 @@ sessions_send(sessionKey="agent:<advisor>:discord:channel:1471251137280868683", 
 - Existentialism: `<@1471317322995073266>`
 - Kantian: `<@1471323104595677236>`
 - Phenomenology: `<@1471342240726126807>`
+- Metaphysics: `<@1471518216265269372>`
+- Philosophy of Mind: `<@1471341440679284849>`
 - *(more IDs will be added as advisors come online)*
 
 ## Memory
