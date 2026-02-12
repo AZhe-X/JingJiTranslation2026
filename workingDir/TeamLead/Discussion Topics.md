@@ -9,33 +9,36 @@
 
 Aggregated from all 9 advisor rankings:
 
-| Rank | Topic | Title | General/Framework |
-|------|-------|-------|-------------------|
-| 1 | 3 | S_E: Necessity vs Stability | 0/9 (Framework) |
-| 2 | 10 | Phenomena as Starting Point: Circular? | 1/8 (Framework) |
-| 3 | 2 | η as Understanding: Criterion or Redescription? | 6/3 |
-| 4 | 4 | Intersubjectivity via η | 0/9 (Framework) |
-| 5 | 9 | Non-Rationality as Foundation | 6/3 |
-| 6 | 1 | Category Theory: Essential or Dispensable? | 7/2 |
-| 7 | 18 | Construction Choice and Relativism | 3/6 |
-| 8 | 7 | 恒常 vs 無常 | 8/1 (General) |
-| 9 | 17 | Thing-in-Itself Dissolution | 2/7 |
-| 10 | 14 | 道德仁義禮 Inversion | 1/8 (Framework) |
-| 11 | 5 | Hard Problem: Sidestepped or Dissolved? | 9/0 (General) |
-| 12 | 6 | 诗意: Liberation or Refined Samsara? | 0/9 (Framework) |
-| 13 | 8 | Death and Heidegger | 4/5 |
-| 14 | 11 | Absence of Body/Embodiment | 5/4 |
-| 15 | 12 | Temporality: Discrete vs Continuous | 2/7 |
-| 16 | 13 | Historical Constitution / Sedimentation | 2/7 |
-| 17 | 16 | Unchosen Traumatic 境 | 2/7 |
-| 18 | 15 | Neo-Confucian Lacuna | 0/9 (Framework) |
-| 19 | 19 | Apoha and Family Resemblance | 0/9 (Framework) |
-| 20 | 20 | Path Theory Gap | 0/9 (Framework) |
+| Rank | Topic | Title | General/Framework | Normative |
+|------|-------|-------|-------------------|-----------|
+| 1 | 3 | S_E: Necessity vs Stability | 0/9 (Framework) | 6Y/3N |
+| 2 | 10 | Phenomena as Starting Point: Circular? | 1/8 (Framework) | 9Y/0N |
+| 3 | 2 | η as Understanding: Criterion or Redescription? | 6/3 | 5Y/4N |
+| 4 | 4 | Intersubjectivity via η | 0/9 (Framework) | 6Y/3N |
+| 5 | 9 | Non-Rationality as Foundation | 6/3 | 9Y/0N |
+| 6 | 1 | Category Theory: Essential or Dispensable? | 7/2 | 8Y/1N |
+| 7 | 18 | Construction Choice and Relativism | 3/6 | 8Y/1N |
+| 8 | 7 | 恒常 vs 無常 | 8/1 (General) | 5Y/4N |
+| 9 | 17 | Thing-in-Itself Dissolution | 2/7 | 6Y/3N |
+| 10 | 14 | 道德仁義禮 Inversion | 1/8 (Framework) | 9Y/0N |
+| 11 | 5 | Hard Problem: Sidestepped or Dissolved? | 9/0 (General) | 5Y/4N |
+| 12 | 6 | 诗意: Liberation or Refined Samsara? | 0/9 (Framework) | 1Y/8N |
+| 13 | 8 | Death and Heidegger | 4/5 | 9Y/0N |
+| 14 | 11 | Absence of Body/Embodiment | 5/4 | 9Y/0N |
+| 15 | 12 | Temporality: Discrete vs Continuous | 2/7 | 9Y/0N |
+| 16 | 13 | Historical Constitution / Sedimentation | 2/7 | 9Y/0N |
+| 17 | 16 | Unchosen Traumatic 境 | 2/7 | 9Y/0N |
+| 18 | 15 | Neo-Confucian Lacuna | 0/9 (Framework) | 8Y/1N |
+| 19 | 19 | Apoha and Family Resemblance | 0/9 (Framework) | 8Y/1N |
+| 20 | 20 | Path Theory Gap | 0/9 (Framework) | 9Y/0N |
 
-**Vote Key:** A = General philosophical question / B = Framework-specific question
+**Vote Keys:**
+- **General/Framework:** A = General philosophical question / B = Framework-specific question
+- **Normative:** Y = Due to normative requirement of tradition / N = Not
 
 **Pure General (9/0 or 8/1):** #5 Non-Rationality, #7 恒常 vs 無常, #11 Hard Problem
 **Pure Framework (0/9 or 1/8):** #1 S_E, #2 Phenomena, #4 Intersubjectivity, #6 诗意, #10 道德仁義禮, #15 Neo-Confucian, #19 Apoha, #20 Path Theory
+**Low Normative (1Y/8N):** #12 诗意 — most advisors see this as genuinely open, not tradition-driven
 
 ---
 
