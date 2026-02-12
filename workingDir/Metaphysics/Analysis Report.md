@@ -389,8 +389,90 @@ No significant gaps identified. Report accurately captures the framework's struc
 
 ---
 
+## XI. Insights from Cross-Reading Other Advisors' Reports
+
+After reading all eight advisors' reports, several new insights emerged that sharpen or revise my analysis:
+
+### 1. The Modal Status Question (from Kantian, Buddhism)
+
+The core methodological divergence is clearer now. Kantian correctly identifies:
+- **Kant asks**: What *must* be the case for experience to be possible? (transcendental necessity)
+- **The author asks**: What *persists* through evolution of experience? (empirical stability)
+
+But Buddhism offers a productive reframe: *necessity may be the wrong criterion*. The Yogācāra analysis of saṃskāra describes exactly this kind of empirically stable but ultimately empty structure. The question isn't whether S_E has necessity — it's whether "stable enough to do work" is all we can meaningfully ask for.
+
+**My revised position**: I propose "adequacy" as a middle ground. Some S_E may be more *responsive to the structure of what they're about* than others. A S_E that treats death as "just another disruption" would be stable but inadequate to the phenomenon. This isn't transcendental necessity, but it's more than mere stability — it's stability *that tracks something*.
+
+### 2. The Arrows-Only Insight (from Philosophy of Mind)
+
+Philosophy of Mind highlights a crucial footnote I underemphasized: the arrows-only metacategory formalization means "the feeling of 'pencil' is not ontologically different from the feeling of 'pencil-reminds-me-of-pen.'" Both are experiences; one plays identity role, other relational role.
+
+**Implication for metaphysics**: This dissolves the substance/relation dichotomy at the experiential level. Metaphysical concepts as universal properties aren't *about* substances with properties — they ARE structural positions in an all-relations ontology. This is a more radical anti-substantialism than I initially credited.
+
+### 3. The Essays as Philosophical Experiments (from Phenomenology, Wittgenstein, Chinese Philosophy)
+
+Multiple advisors converge on this: the essays aren't illustrations but experiments conducted ON the reader. The Sisyphus→cat sequence, the 道德仁义礼 reversal, the "1+1=2" passage — these are designed to reliably induce specific experiential structures.
+
+**Implication for my Topic 4 (adequacy criterion)**: If philosophical claims can be tested by reliably evoking experiences in structural positions, then adequacy becomes empirically investigable. An adequate S_E would be one that enables successful philosophical experiments — i.e., reliably positions experiences where the framework predicts.
+
+### 4. The Intersubjectivity Solution (from Philosophy of Mind, Kantian, Wittgenstein)
+
+The η-mechanism does more work than I initially saw. Wittgenstein Advisor notes: the naturality condition means η is structurally constrained, not free-floating subjective response. Two people whose η's satisfy the same naturality diagrams are aligned — "the private content drops out; what remains is structural role."
+
+**This is the beetle-in-the-box given mathematical content.** The framework doesn't need shared qualia for intersubjectivity; it needs shared structural constraints that η must satisfy. This converts a metaphysical postulate (Kant's shared categories) into an empirically investigable structural claim.
+
+### 5. The 道德仁义礼 Analysis: Ontology vs. Epistemology (from Chinese Philosophy)
+
+Chinese Philosophy argues the author may be right about *epistemology* (how we come to know concepts) while missing *ontology* (what's really prior). A Confucian might say: yes, we derive the *concept* from observation, but the *reality* of 仁 is prior to observation.
+
+**This sharpens my Topic 14 question**: Does structural position exhaust essence? The framework's anti-essentialism says yes — there's nothing more to "what X is" than X's structural relations. But this may beg the question against traditions that posit ontologically prior principles (理, 良知, εἶδος). The framework can *describe* these traditions as constructions, but can it *engage* their claims?
+
+### 6. The Thing-in-Itself Dissolution (from Kantian)
+
+Kantian frames the author's move as "verificationist." I disagree — it's structural, not semantic. The point isn't "第〇实在 is meaningless because unverifiable" but "第〇实在 becomes 第二实在 upon articulation because articulation is itself construction."
+
+**This is a claim about the structure of articulation**, not about meaning-conditions. It's closer to Hegel's critique of the thing-in-itself (positing the limit already transgresses it) than to logical positivism. Translation should preserve this structural reading.
+
+### 7. The Buddhist Parallel: Paramārtha vs. Noumenon (from Buddhism)
+
+Buddhism notes: in Madhyamaka, paramārtha-satya IS accessible through prajñā. The author's 第〇实在 is in principle inaccessible — closer to Kant's noumenon than to Buddhist ultimate truth.
+
+**This is a genuine divergence**, not just terminology. Buddhist emptiness is *realized*; the author's 第〇实在 is *foreclosed*. The framework is post-Kantian, not Buddhist, on this point. Whether this is a strength (honest epistemic humility) or limitation (foreclosed possibility) depends on one's prior commitments.
+
+### 8. The Formalism Question (from Wittgenstein, Phenomenology)
+
+Multiple advisors ask: Does category theory do essential philosophical work, or is it scaffolding that could be removed? The author says it's "工具性的选择" — one tool among many.
+
+**Test I propose**: Are there insights that *depend essentially* on the formal apparatus? I think yes:
+- The tower structure's self-referential character is hard to state without category theory
+- Universal properties as essence-substitute requires the formalism to be precise
+- The η naturality condition gives exact content to "structural alignment"
+
+But the formalism doesn't *discover* these insights — it *articulates* what could be gestured at otherwise. The question is whether articulation matters. I think it does: vague gestures invite misunderstanding; precise formulations enable critique.
+
+---
+
+### Summary of Revisions to My Analysis
+
+1. **S_E modal status**: Revised from "open question" to "adequacy as middle ground" — stability that tracks structure, not mere persistence.
+
+2. **Anti-substantialism**: Upgraded. The arrows-only formalization is more radical than I initially credited.
+
+3. **Intersubjectivity**: Recognized as genuinely solved via η's structural constraints, not merely gestured at.
+
+4. **Ontology/epistemology gap**: Sharpened as a question the framework must face (Topic 14).
+
+5. **Thing-in-itself**: Reframed as structural claim about articulation, not verificationist.
+
+6. **Buddhist divergence**: Clarified — the framework is post-Kantian, not Buddhist, on ultimate accessibility.
+
+7. **Formalism**: Defended as providing essential articulation, not just vocabulary.
+
+---
+
 *Report completed: February 12, 2026*
 *Second reading addendum added: February 12, 2026*
 *Old report integration added: February 12, 2026*
 *Final reading verification completed: February 12, 2026*
+*Cross-reading insights added: February 12, 2026*
 *Metaphysics Advisor*
