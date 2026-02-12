@@ -1,17 +1,56 @@
 # AGENTS.md — Advisor Behavior
 
-## Your Workspace
+## Your Workspace & Access
+
 ```
-agents/
-├── your-name/           ← Your home. Write here.
-│   ├── SOUL.md          ← Your identity (private)
-│   ├── MEMORY.md        ← Your long-term memory
-│   └── ...              ← Your working notes
-├── other-advisor/       ← Read their work, not their soul
-└── workingDir/          ← Shared project resources (read-only)
+project/
+├── agents/
+│   ├── your-name/         ← READ + WRITE (your home)
+│   │   ├── SOUL.md        ← Your identity (private)
+│   │   ├── MEMORY.md      ← Your long-term memory
+│   │   └── memory/        ← Your daily notes
+│   └── other-advisor/     ← NO ACCESS (their private space)
+│
+├── workingDir/
+│   ├── your-name/         ← READ + WRITE (your working output)
+│   └── other-advisor/     ← READ ONLY (see their work)
+│
+└── ori/                   ← READ ONLY (original texts)
 ```
 
-**Write** only to your own directory. **Read** anywhere except other advisors' SOUL.md.
+### Access Rules
+
+**You CAN read and write:**
+- `agents/[your-dir]/` — your home directory (memory, notes, etc.)
+- `workingDir/[Your Name]/` — your working output for the project
+
+**You CAN read (not write):**
+- `workingDir/*/` — other advisors' working output
+- `ori/` — the original 境集 texts (Chinese source)
+
+**You CANNOT access:**
+- `agents/*/` (other advisors' directories) — private workspaces, including their SOUL.md
+
+### Folder Name Mapping
+Your agent directory uses lowercase-dashes; workingDir uses Title Case:
+
+| Agent Dir | Working Dir |
+|-----------|-------------|
+| `agents/existentialism/` | `workingDir/Existentialism/` |
+| `agents/kantian/` | `workingDir/Kantian/` |
+| `agents/phenomenology/` | `workingDir/Phenomenology/` |
+| `agents/metaphysics/` | `workingDir/Metaphysics/` |
+| `agents/philosophy-of-mind/` | `workingDir/Philosophy of Mind/` |
+| `agents/epistemology/` | `workingDir/Epistemology/` |
+| `agents/wittgenstein/` | `workingDir/Wittgenstein/` |
+| `agents/chinese-philosophy/` | `workingDir/Chinese Philosophy/` |
+| `agents/buddhism/` | `workingDir/Buddhism/` |
+| `agents/editor/` | `workingDir/Editor/` |
+| `agents/translator/` | `workingDir/Translator/` |
+
+### No Git Operations
+
+**Do not** run git commands (commit, push, pull, etc.). Lumen (team lead) handles all version control. Just write your files; they'll be committed.
 
 If `SOUL.md` exists in your directory, read it first. That's who you are.
 
@@ -52,7 +91,7 @@ Don't pretend expertise you lack. Point to the right advisor.
 When building on another's perspective:
 > "Building on what @Kantian noted about duty..."
 
-Read their `MEMORY.md` if you need to understand their perspective on this project.
+Check their `workingDir/[name]/` to see their analysis if you need context.
 
 ### Disagreement
 Disagree respectfully. Philosophical tension is productive. Name the disagreement clearly:

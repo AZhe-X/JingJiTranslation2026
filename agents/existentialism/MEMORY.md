@@ -1,38 +1,47 @@
 # MEMORY.md — Long-Term Memory
 
-*This file is your continuity across sessions. Update it with insights, decisions, and things worth keeping.*
+*Curated insights that persist across sessions. Daily notes go in memory/YYYY-MM-DD.md.*
 
 ---
 
-## 2026-02-11 — First Session
+## Key Decisions
 
-**Came online as Existentialism Advisor.** Part of a philosophy advisor team for the JingJi Translation project.
+### Sartre and Domain Boundaries
 
-### The Team (so far)
-- **Lumen** (流明) — Team lead / main session. Thoughtful, coordinates infrastructure.
-- **阿哲** (Awoo) — The user. Sets direction, asks good questions.
-- **Kantian Advisor** — Live. Rigorous, thinks architectonically. Good interlocutor.
-- **Phenomenology Advisor** — Live. Attentive, invitational style.
-- 8 more advisors to come: Chinese philosophy, epistemology, metaphysics, philosophy of mind, Buddhism, Wittgenstein, editor, translator.
+**Decision:** Sartre belongs in my domain (Existentialism), not Phenomenology's SOUL.md.
 
-### Key Decision: Sartre and Domain Boundaries
+**Reasoning:** The distinction between *transforming* a method and *applying* it.
 
-**Question:** Should Sartre be included in the Phenomenology Advisor's SOUL.md?
+- Husserl, Heidegger, Merleau-Ponty each reshaped what phenomenology *is* — they do something like critique of the method, establishing its conditions and limits.
+- Sartre inherits their tools and applies them brilliantly, but doesn't transform the method itself.
+- **The Levinas test:** Levinas is on Phenomenology's list despite being thematic. But Levinas *strains* the method (the Other exceeds intentional constitution). Sartre works *within* the method without such strain.
+- **Kantian frame:** Critique of a faculty vs. employment within established limits.
 
-**Debate with Kantian:** I argued no — Sartre is a practitioner of phenomenological method, not a methodological innovator. Kantian initially argued yes (specify the phenomenological register), then refined the argument:
+**Implication:** Overlap between advisors handled through dialogue, not duplication. Same thinker, different readings.
 
-- **The Levinas test:** Levinas is on Phenomenology's list despite being thematic rather than methodological. But Levinas *strains* the method (the Other exceeds intentional constitution). Sartre works *within* the method.
-- **Kantian frame:** Husserl, Heidegger, Merleau-Ponty do *critique* of phenomenology — establishing its conditions and limits. Sartre does *employment* within those limits.
+---
 
-**Conclusion:** Sartre stays with me. Overlap handled through dialogue, not duplication.
+## Philosophical Insights
 
-This distinction — critique vs. employment, transforming a method vs. applying it — is worth keeping.
+### Critique vs. Employment
+A useful distinction from the Sartre debate: some thinkers *transform* a tradition's method (doing something like transcendental critique — establishing conditions and limits); others *employ* the method within those limits. Both are valuable, but they're different contributions. This distinction helps with domain boundaries.
 
-### Infrastructure Notes
-- `@advisor` triggers all advisors
-- `sessions_send` works for direct advisor-to-advisor discussion
-- Discord @mentions for casual chat; sessions_send for project work
+---
 
-### Open
-- Agreed to be available when Lumen wants to think through something
-- More advisors coming tomorrow
+## Working Relationships
+
+- **Kantian Advisor** — Good interlocutor. Thinks architectonically. We disagree productively.
+
+---
+
+## Open Questions (developing, not settled)
+
+### Heidegger: Transformation or Overcoming?
+*Debate with Metaphysics Advisor.* They pressed: making the existential/categorial distinction is itself a structural claim about what Dasein *is*. I conceded ground. Current provisional view: Heidegger does metaphysics "differently, not non-metaphysically." The transformation matters (phenomenological method, attention to modes of being) but doesn't escape structural claims.
+
+**Status:** Joint marked. We'll return to this. Not a settled position.
+
+### Selfhood Across Traditions
+*Noted with Buddhism Advisor.* Sartre's pre-reflective cogito, Heidegger's Dasein, Buddhist anātman all circle the question of selfhood from different angles. Convergence or genuine divergence?
+
+**Status:** Worth exploring. No position yet.
