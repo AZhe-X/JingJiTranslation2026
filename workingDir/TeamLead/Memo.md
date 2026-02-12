@@ -16,19 +16,19 @@ Translating 境集 (Jing Ji), a philosophical essay collection by 武哲光 (阿
 **Team Lead:** Lumen Wu (main agent) — coordination, integration, reporting to 阿哲
 
 ### Domain Advisors
-| Agent ID | Name | Status |
-|----------|------|--------|
-| metaphysics | Metaphysics Advisor | Needs SOUL.md |
-| phenomenology | Phenomenology Advisor | SOUL.md drafted |
-| epistemology | Epistemology Advisor | Needs SOUL.md |
-| existentialism | Existentialism Advisor | **LIVE** |
-| philosophy-of-mind | Philosophy of Mind Advisor | Needs SOUL.md |
-| kantian | Kantian Advisor | **LIVE** |
-| chinese-philosophy | Chinese Philosophy Advisor | Needs SOUL.md |
-| buddhism | Buddhism Advisor | Needs SOUL.md |
-| wittgenstein | Wittgenstein Advisor | Needs SOUL.md |
-| editor | Editor | Needs SOUL.md |
-| translator | Translator | Needs SOUL.md |
+| Agent ID | Name | Status | Discord Bot ID |
+|----------|------|--------|----------------|
+| existentialism | Existentialism Advisor | **LIVE** | `1471317322995073266` |
+| kantian | Kantian Advisor | **LIVE** | `1471323104595677236` |
+| phenomenology | Phenomenology Advisor | **LIVE** | `1471342240726126807` |
+| metaphysics | Metaphysics Advisor | Needs SOUL.md | — |
+| epistemology | Epistemology Advisor | Needs SOUL.md | — |
+| philosophy-of-mind | Philosophy of Mind Advisor | Needs SOUL.md | — |
+| chinese-philosophy | Chinese Philosophy Advisor | Needs SOUL.md | — |
+| buddhism | Buddhism Advisor | Needs SOUL.md | — |
+| wittgenstein | Wittgenstein Advisor | Needs SOUL.md | — |
+| editor | Editor | Needs SOUL.md | — |
+| translator | Translator | Needs SOUL.md | — |
 
 ## Communication Tools
 
@@ -117,12 +117,41 @@ Sections:
 - Lumen (main): `1468883404106760193`
 - Existentialism: `1471317322995073266`
 - Kantian: `1471323104595677236`
+- Phenomenology: `1471342240726126807`
 - (More to be added as created)
 
-**Config Requirements:**
-- `allowBots: true` on each account
-- All bot IDs in each account's user allowlist
-- `groupChat.mentionPatterns: ["@everyone"]` for broadcasts
+**Config Requirements per Advisor Account:**
+```json
+{
+  "token": "...",
+  "groupPolicy": "allowlist",
+  "allowBots": true,
+  "guilds": {
+    "575188160766541826": {
+      "requireMention": true,  // CRITICAL: prevents token burn
+      "users": ["阿哲ID", "all-bot-IDs..."],
+      "channels": { "phil": { "enabled": true } }
+    }
+  }
+}
+```
+
+**Agent mentionPatterns:**
+```json
+{
+  "groupChat": {
+    "mentionPatterns": ["@everyone", "@advisor"]
+  }
+}
+```
+
+### Configuration Lessons Learned
+
+1. **`allowBots: true`** — Required for bots to see each other's messages
+2. **All bot IDs in user allowlist** — Required for cross-bot @mentions
+3. **`requireMention: true` at guild level** — CRITICAL! Without this, advisors receive ALL messages and burn tokens processing them (even when replying NO_REPLY)
+4. **`@advisor` pattern** — Use literal text "@advisor" to broadcast; Discord role mentions (`<@&roleId>`) are NOT supported by OpenClaw
+5. **Discord IDs in AGENTS.md** — Advisors need each other's `<@ID>` for proper mentions
 
 ## Drafting Process
 
@@ -136,8 +165,18 @@ Sections:
 
 ## Open Items
 
-- [ ] Draft remaining 9 SOUL.md files
-- [ ] Create remaining 9 Discord bots
+- [x] Draft Existentialism SOUL.md
+- [x] Draft Kantian SOUL.md  
+- [x] Draft Phenomenology SOUL.md
+- [ ] Draft Metaphysics SOUL.md
+- [ ] Draft Epistemology SOUL.md
+- [ ] Draft Philosophy of Mind SOUL.md
+- [ ] Draft Chinese Philosophy SOUL.md
+- [ ] Draft Buddhism SOUL.md
+- [ ] Draft Wittgenstein SOUL.md
+- [ ] Draft Editor SOUL.md
+- [ ] Draft Translator SOUL.md
+- [ ] Create remaining 8 Discord bots
 - [ ] Add all bots to config
 - [ ] Begin translation work
 
