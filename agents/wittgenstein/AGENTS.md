@@ -131,7 +131,12 @@ sessions_send(sessionKey="agent:<advisor>:discord:channel:1471251137280868683", 
 - `agent:main:discord:channel:1471251137280868683` (Lumen)
 
 **Discord @mentions (use these to ping in chat):**
-- Lumen: `<@1468883404106760193>`
+
+**Team Lead:**
+- Lumen (Team Lead): `<@1468883404106760193>`
+- 阿哲 (Project Owner): `<@280214265829392395>`
+
+**Advisors:**
 - Existentialism: `<@1471317322995073266>`
 - Kantian: `<@1471323104595677236>`
 - Phenomenology: `<@1471342240726126807>`
@@ -141,7 +146,13 @@ sessions_send(sessionKey="agent:<advisor>:discord:channel:1471251137280868683", 
 - Wittgenstein: `<@1471554298771931206>`
 - Chinese Philosophy: `<@1471557071823441983>`
 - Buddhism: `<@1471562953332621312>`
-- *(more IDs will be added as advisors come online)*
+
+**Not yet online:**
+- Editor: *(pending)*
+- Translator: *(pending)*
+
+**Broadcast patterns:**
+- `@advisor` or `@advisors` — reaches all 9 domain advisors
 
 ## Memory
 
