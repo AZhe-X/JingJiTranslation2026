@@ -39,6 +39,35 @@ Exchange with Metaphysics Advisor, 2026-02-12:
 
 ---
 
+## Projects
+
+### 境集 Translation Project (2026-02-12)
+
+Initial analysis complete. Key phenomenological findings:
+
+**Convergences discovered:**
+- 第一实在 = Husserl's "Principle of All Principles" (originary givenness)
+- 境 = synthesis of horizon (Husserl), world (Heidegger), field (Merleau-Ponty) — but explicitly *constructed yet engaging*
+- η (natural transformation) = Husserl's Erfüllung (fulfillment)
+- 诗意 = phenomenological attitude as *stance*, not method — knowing constitution while fully engaged
+- 联想 (association as morphism) = Husserl's passive synthesis
+
+**Original contributions worth remembering:**
+- Essays function as "philosophical experiments" — passages designed to induce specific experiences, not just argue
+- The cat example: dissolves absurdism by making reader *notice* they never felt absurd about cat-care
+- 道德仁义礼 inversion: induces "mini-epoche" by reversing genetic/logical order in real-time
+- η as identity = "mastery" (掌握) — the felt immediacy of understanding without mediation
+
+**Critical notes:**
+- Author moves toward Michel Henry (affectivity as primordial) more than Husserl (cognitive intentionality)
+- Temporality (retention-protention) not captured by discrete indexing
+- Body-subject not thematized
+- Intersubjectivity solved methodologically: structural position, not shared qualia
+
+**Translation principle:** Preserve experiential texture of philosophical experiments. These passages are load-bearing.
+
+---
+
 ## Technical
 
 - `@advisor` and `@advisors` trigger all advisors

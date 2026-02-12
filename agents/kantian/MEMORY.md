@@ -44,3 +44,32 @@ Sartre belongs with Existentialism Advisor, not Phenomenology. He's a *practitio
 - `sessions_send` for private advisor-to-advisor discussion; report conclusions to Discord
 - Short-term notes: `memory/YYYY-MM-DD.md`
 - Long-term insights: this file
+
+---
+
+## 境集 Translation Project (2026-02-12 onwards)
+
+### The Collection's Kantian Architecture
+The 境集 is a genuine post-Kantian transcendental philosophy of meaning. Key parallels:
+- **第一实在 (phenomena)** = Kant's appearances (methodologically primary)
+- **第〇实在 (Zeroth Reality)** ≈ thing-in-itself (but dissolved, not retained as limit)
+- **S_E (stable structures)** ≈ a priori forms (but discovered empirically, not deduced)
+- **η (natural transformation)** ≈ schematism (bridges formal and experiential)
+- **构造 (construction)** = what a "metaphysics" is — a way of organizing experience
+
+### Key Insight: The Author's Explicit Kantian Self-Positioning
+The appendix states: "第二个问题可能是另一类康德问题" — the meaning question is "another kind of Kantian question." The author invites readers to apply Kant's framework to meaning. This is not imposed interpretation — it's the author's self-understanding.
+
+### The η Solution to Intersubjectivity
+This is the framework's most significant advance on Kant. Kant *postulates* shared categories; the author provides a *structural criterion* for intersubjective commensurability that doesn't require shared qualia:
+> "我们不需要本体论的验证不同的人获得了'同一'体验（例如Qualia），只需要他们具有相同的结构性位置。"
+
+### Translation Principles (Kantian Perspective)
+1. Preserve experiential sequences — they function as philosophical experiments
+2. Keep "境" untranslated or as "jing" with explanation
+3. Note Kantian resonances in footnotes where appropriate
+4. Distinguish 形而上 (metaphysical object) from 形而上学 (metaphysics as study)
+5. Translate 非理性 as "non-rational" not "irrational"
+
+### The Non-Tragic Stance
+Key difference from Kant: The author treats cognitive limitation as *generative*, not disappointing. The novel's limitation to language enables unique experiences; human perceptual limits enable three-color displays and tempered music. "这怎么能，又怎么会是一场悲剧呢？"
