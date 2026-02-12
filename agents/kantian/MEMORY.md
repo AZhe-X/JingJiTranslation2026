@@ -73,3 +73,47 @@ This is the framework's most significant advance on Kant. Kant *postulates* shar
 
 ### The Non-Tragic Stance
 Key difference from Kant: The author treats cognitive limitation as *generative*, not disappointing. The novel's limitation to language enables unique experiences; human perceptual limits enable three-color displays and tempered music. "这怎么能，又怎么会是一场悲剧呢？"
+
+---
+
+## Cross-Advisor Reading Insights (2026-02-12)
+
+### η Recognized Across All Traditions
+The natural transformation η is the collection's central innovation. Convergent mappings:
+- **Phenomenology**: η = Husserl's *Erfüllung* (fulfillment of intention by intuition)
+- **Wittgenstein**: η gives "mathematical content to beetle-in-the-box" — structural role, not private content
+- **Buddhism**: η parallels *arthakriyāsāmarthya* (capacity for effective action validating cognition)
+- **Philosophy of Mind**: η *constitutes* understanding phenomenally, not merely represents it
+
+This strengthens my assessment: η formalizes what Kant's schematism attempted with greater precision.
+
+### The Necessity/Stability Debate — Core Tension
+**Buddhism's challenge**: "The question isn't whether S_E has necessity — it's whether necessity itself is the right criterion."
+
+**My response**: Kant's transcendental arguments seek what must hold for *any possible experience* — modal force, not mere description. The question: can evolutionary stability achieve this modal force?
+
+**Epistemology's observation**: The author explicitly leaves the door open — "如果你认为这一时刻是某种𝔼_t首次出现的时刻... 则你可以将这种稳定结构当中的这一部分认定为'先天'." The transcendental argument form is present, awaiting content.
+
+### Thing-in-Itself Dissolution — Revised Assessment
+The dissolution is more sophisticated than I initially recognized. "当我们提出第〇实在时，这个我们所提出的东西就是第二实在" is not naive verificationism but structural insight: the act of positing transforms what is posited.
+
+**My maintained concern**: Kant's thing-in-itself serves as *limit concept* preserving epistemic humility. The dissolution risks collapsing this into mere methodology.
+
+### Intersubjectivity — Genuine Advance on Kant
+The η-mechanism converts Kant's metaphysical postulate (shared categories) into structurally verifiable claim. Two people "understand the same thing" when their experiential evolutions achieve commensurable η with shared external structure. This doesn't require identical qualia — only isomorphic structural alignment.
+
+### Neo-Confucian Lacuna (from Chinese Philosophy)
+良知 (Wang Yangming's innate moral knowledge) parallels Kant's "fact of reason" — immediate awareness of moral law. If the framework can accommodate 良知, it might accommodate Kant's practical a priori. Worth exploring.
+
+---
+
+## Open Questions (Persistent)
+
+### The Necessity/Stability Question
+Can "stable enough to do work" replace "transcendentally necessary"? Buddhism challenges whether necessity is the right criterion. The author's framework leaves the transcendental argument form present but unfilled.
+
+### The Thing-in-Itself Question  
+Is dissolution a philosophical advance or loss of epistemic humility? Kant's limit concept does work that methodology alone may not preserve.
+
+### The η Question
+Does η *demonstrate* shared structure or merely *describe* alignment? This determines whether intersubjectivity is solved or redescribed.

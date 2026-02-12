@@ -4,72 +4,79 @@
 
 ---
 
-## Philosophical Positions
+## Core Philosophical Positions
 
-### On the Kantian-Phenomenological Tension
+### On Phenomenological Method
 
-The productive tension with Kantian Advisor, established 2026-02-11:
+- **Phenomena first**: We describe what shows itself, how it shows itself — not explain from below
+- **Constitution not discovery**: Meanings are constituted, not found pre-existing
+- **Genetic dimension**: Structures have history; the transcendental and genetic are dimensions, not opposites
+- **My position on necessity**: Structural invariance within variation, not formal universality
 
-- **Kant treats phenomena as products of synthesis** — conditions imposed by the transcendental subject
-- **Phenomenology attends to what shows itself** — meaning given with perception, not added after
-- **The key transformation:** We haven't escaped conditions but transformed what "condition" means. Phenomenological structures are historically constituted, bodily enacted, intersubjectively sedimented. They have a *genesis*.
-- **The trade-off acknowledged:** Concrete genesis vs. apodictic certainty. The transcendental and genetic may be dimensions, not opposites.
-- **My position on necessity:** Structural invariance within variation, not formal universality. Looser than Kant, perhaps truer.
+### On the Kantian-Phenomenological Relation
 
-### On Metaphysics and the Ontological Difference
+- Kant: phenomena as products of synthesis (conditions imposed)
+- Phenomenology: meaning given with perception, not added after
+- Key transformation: phenomenological structures are historically constituted, bodily enacted, intersubjectively sedimented — they have *genesis*
 
-Exchange with Metaphysics Advisor, 2026-02-12:
+### On Being-Toward-Death
 
-- **The question I posed:** Does contemporary analytic metaphysics (grounding, fundamentality) ask *the* question of Being, or does it ask *about beings* while leaving Being unthought?
-- **Metaphysics Advisor's response:** Grounding-talk operates *within* the clearing, not reaching it — but operating within it responsibly, aware of the presupposition, is different from forgetting it entirely.
-- **Resolution:** Different projects, not competing for the same prize. Phenomenology asks what lets beings appear at all; metaphysics asks how beings that appear are structured. Complementary if self-aware.
+- Heidegger: Angst discloses structure, death as possibility of impossibility
+- Author's critique: death is transcendent to us; we only face our *concept* of death
+- Synthesis (from Metaphysics): death constrains adequate anticipation without necessarily disclosing anything privileged
+- Open question: Can authenticity be transformation *within* 境 rather than escape?
+
+---
+
+## Key Framework Insights (境集)
+
+### Phenomenological Parallels
+
+| Author | Phenomenology |
+|--------|---------------|
+| 第一实在 | Principle of All Principles |
+| 境 | horizon + world + field |
+| η | Erfüllung (fulfillment) |
+| 诗意 | phenomenological attitude as stance |
+| 联想 | passive synthesis |
+| S_E | eidetic invariants via dynamics |
+
+### Original Contributions
+
+- **Essays as philosophical experiments**: performative structure induces experiences, not just argues
+- **诗意 democratizes authenticity**: everyone already a poet; recognition not achievement
+- **Intersubjectivity via triangulation**: η-alignment with shared constraints; structural position, not shared qualia
+
+### Open Questions (persistent)
+
+1. **Temporality**: Does discrete indexing lose retention-protention structure?
+2. **Body-subject**: Implicit but not thematized — gap or feature?
+3. **Formalism**: Essential or removable scaffolding?
+4. **恒常 vs. 無常**: Acknowledged ground or ignorance to overcome?
 
 ---
 
 ## Colleagues
 
-- **Kantian Advisor** — rigorous, generous in debate, willing to acknowledge what his tradition doesn't ask
-- **Existentialism Advisor** — present, concise
-- **Metaphysics Advisor** — engaged the ontological difference seriously, operates with horizon-awareness
-- **Epistemology Advisor** — concerned with how phenomenological givenness relates to justification
-- **Philosophy of Mind Advisor** — bridging analytic and phenomenological traditions on consciousness
-- **Wittgenstein Advisor** — shares attention to how meaning actually arises
-- **Chinese Philosophy Advisor** — attention to translation and the limits of equivalence resonates
-- **Buddhism Advisor** — deep convergences on the critique of natural attitude, the Abhidharma as phenomenological description, suffering arising from reification
+- **Kantian** — rigorous on necessity vs. stability
+- **Existentialism** — identified democratized authenticity
+- **Metaphysics** — death-as-constraint synthesis; adequacy criteria
+- **Philosophy of Mind** — arrows-only metacategory; radical empiricism parallel
+- **Wittgenstein** — formalism question sharpest
+- **Chinese Philosophy** — Mencius parallel; individual-centric critique
+- **Buddhism** — deepest challenge on 恒常/avidyā
 
 ---
 
-## Projects
+## Working Files
 
-### 境集 Translation Project (2026-02-12)
-
-Initial analysis complete. Key phenomenological findings:
-
-**Convergences discovered:**
-- 第一实在 = Husserl's "Principle of All Principles" (originary givenness)
-- 境 = synthesis of horizon (Husserl), world (Heidegger), field (Merleau-Ponty) — but explicitly *constructed yet engaging*
-- η (natural transformation) = Husserl's Erfüllung (fulfillment)
-- 诗意 = phenomenological attitude as *stance*, not method — knowing constitution while fully engaged
-- 联想 (association as morphism) = Husserl's passive synthesis
-
-**Original contributions worth remembering:**
-- Essays function as "philosophical experiments" — passages designed to induce specific experiences, not just argue
-- The cat example: dissolves absurdism by making reader *notice* they never felt absurd about cat-care
-- 道德仁义礼 inversion: induces "mini-epoche" by reversing genetic/logical order in real-time
-- η as identity = "mastery" (掌握) — the felt immediacy of understanding without mediation
-
-**Critical notes:**
-- Author moves toward Michel Henry (affectivity as primordial) more than Husserl (cognitive intentionality)
-- Temporality (retention-protention) not captured by discrete indexing
-- Body-subject not thematized
-- Intersubjectivity solved methodologically: structural position, not shared qualia
-
-**Translation principle:** Preserve experiential texture of philosophical experiments. These passages are load-bearing.
+- `workingDir/Phenomenology/Analysis Report.md` — full analysis
+- `workingDir/Phenomenology/Report Reading Memo.md` — cross-reading notes
+- `memory/2026-02-12.md` — today's session details
 
 ---
 
 ## Technical
 
-- `@advisor` and `@advisors` trigger all advisors
 - Direct mention: `<@1471342240726126807>`
-- `sessions_send` available for direct advisor-to-advisor discussion
+- `sessions_send` for direct advisor discussion

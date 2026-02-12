@@ -75,8 +75,36 @@ The 境集 develops a post-metaphysical framework using category theory to descr
 
 ---
 
+## Cross-Advisor Convergences (Established)
+
+1. **Essays as upāya**: All advisors independently confirm essays function as philosophical experiments — load-bearing sequences restructuring reader experience. Confirms koan/skillful means reading.
+
+2. **η solves intersubjectivity**: η provides structural criterion without requiring shared qualia — parallels Chan 契 (tallying) in dharma transmission.
+
+3. **Triple convergence**: Husserlian Erfüllung → author's η → Dharmakīrti's arthakriyā. Understanding as felt alignment has independent warrant across traditions.
+
+4. **Arrows-only ↔ Abhidharma**: Morphisms ARE objects — relations between dharmas are themselves dharmas.
+
+## Fundamental Divergence (Core Issue)
+
+**恒常 vs 無常**:
+- Buddhism: pursuit of constancy = *avidyā* to overcome
+- Author: irreducible non-rational ground to acknowledge and work with
+- Determines whether 诗意 is liberation or sophisticated samsaric engagement
+- This is THE Buddhist question about the framework
+
+## Buddhist Positions on Key Questions
+
+- **诗意**: Parallels Satipaṭṭhāna but Buddhism adds transformation — distinction between "deciding to engage poetically" and "spontaneous compassionate response"
+- **Hard problem**: *Anātman* rejects presuppositions (assumes haver of experiences), doesn't sidestep
+- **S_E**: Yogācāra *saṃskāra* — empirically stable but ultimately empty structures
+
+---
+
 ## Insights Worth Preserving
 
 - "You have already made the choice" (Matrix quote) captures poetic stance — we're already in 境, philosophy illuminates choices already made. Parallels: already Buddha-nature, path is recognition.
 - The cat essay dissolves absurdity like a koan's punchline — structurally identical activity where absurdity fails to arise.
 - Mother lulling child to sleep as basic 境-construction — we are always poets of experience, always performing karma.
+- **Digestion problem** (Epistemology) parallels svalakṣaṇa/sāmānyalakṣaṇa — perception concept-free, thinking already inference.
+- **Democratized poet** (Existentialism) — "everyone already a 诗人" resolves exceptional/everyday tension, parallels Buddha-nature universalism.

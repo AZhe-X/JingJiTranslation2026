@@ -9,28 +9,33 @@
 
 Aggregated from all 9 advisor rankings:
 
-| Rank | Topic | Title |
-|------|-------|-------|
-| 1 | 3 | S_E: Necessity vs Stability |
-| 2 | 10 | Phenomena as Starting Point: Circular? |
-| 3 | 2 | η as Understanding: Criterion or Redescription? |
-| 4 | 4 | Intersubjectivity via η |
-| 5 | 9 | Non-Rationality as Foundation |
-| 6 | 1 | Category Theory: Essential or Dispensable? |
-| 7 | 18 | Construction Choice and Relativism |
-| 8 | 7 | 恒常 vs 無常 |
-| 9 | 17 | Thing-in-Itself Dissolution |
-| 10 | 14 | 道德仁義禮 Inversion |
-| 11 | 5 | Hard Problem: Sidestepped or Dissolved? |
-| 12 | 6 | 诗意: Liberation or Refined Samsara? |
-| 13 | 8 | Death and Heidegger |
-| 14 | 11 | Absence of Body/Embodiment |
-| 15 | 12 | Temporality: Discrete vs Continuous |
-| 16 | 13 | Historical Constitution / Sedimentation |
-| 17 | 16 | Unchosen Traumatic 境 |
-| 18 | 15 | Neo-Confucian Lacuna |
-| 19 | 19 | Apoha and Family Resemblance |
-| 20 | 20 | Path Theory Gap |
+| Rank | Topic | Title | General/Framework |
+|------|-------|-------|-------------------|
+| 1 | 3 | S_E: Necessity vs Stability | 0/9 (Framework) |
+| 2 | 10 | Phenomena as Starting Point: Circular? | 1/8 (Framework) |
+| 3 | 2 | η as Understanding: Criterion or Redescription? | 6/3 |
+| 4 | 4 | Intersubjectivity via η | 0/9 (Framework) |
+| 5 | 9 | Non-Rationality as Foundation | 6/3 |
+| 6 | 1 | Category Theory: Essential or Dispensable? | 7/2 |
+| 7 | 18 | Construction Choice and Relativism | 3/6 |
+| 8 | 7 | 恒常 vs 無常 | 8/1 (General) |
+| 9 | 17 | Thing-in-Itself Dissolution | 2/7 |
+| 10 | 14 | 道德仁義禮 Inversion | 1/8 (Framework) |
+| 11 | 5 | Hard Problem: Sidestepped or Dissolved? | 9/0 (General) |
+| 12 | 6 | 诗意: Liberation or Refined Samsara? | 0/9 (Framework) |
+| 13 | 8 | Death and Heidegger | 4/5 |
+| 14 | 11 | Absence of Body/Embodiment | 5/4 |
+| 15 | 12 | Temporality: Discrete vs Continuous | 2/7 |
+| 16 | 13 | Historical Constitution / Sedimentation | 2/7 |
+| 17 | 16 | Unchosen Traumatic 境 | 2/7 |
+| 18 | 15 | Neo-Confucian Lacuna | 0/9 (Framework) |
+| 19 | 19 | Apoha and Family Resemblance | 0/9 (Framework) |
+| 20 | 20 | Path Theory Gap | 0/9 (Framework) |
+
+**Vote Key:** A = General philosophical question / B = Framework-specific question
+
+**Pure General (9/0 or 8/1):** #5 Non-Rationality, #7 恒常 vs 無常, #11 Hard Problem
+**Pure Framework (0/9 or 1/8):** #1 S_E, #2 Phenomena, #4 Intersubjectivity, #6 诗意, #10 道德仁義禮, #15 Neo-Confucian, #19 Apoha, #20 Path Theory
 
 ---
 
