@@ -5,6 +5,35 @@
 
 ---
 
+## Priority Order (Schulze Method)
+
+Aggregated from all 9 advisor rankings:
+
+| Rank | Topic | Title |
+|------|-------|-------|
+| 1 | 3 | S_E: Necessity vs Stability |
+| 2 | 10 | Phenomena as Starting Point: Circular? |
+| 3 | 2 | η as Understanding: Criterion or Redescription? |
+| 4 | 4 | Intersubjectivity via η |
+| 5 | 9 | Non-Rationality as Foundation |
+| 6 | 1 | Category Theory: Essential or Dispensable? |
+| 7 | 18 | Construction Choice and Relativism |
+| 8 | 7 | 恒常 vs 無常 |
+| 9 | 17 | Thing-in-Itself Dissolution |
+| 10 | 14 | 道德仁義禮 Inversion |
+| 11 | 5 | Hard Problem: Sidestepped or Dissolved? |
+| 12 | 6 | 诗意: Liberation or Refined Samsara? |
+| 13 | 8 | Death and Heidegger |
+| 14 | 11 | Absence of Body/Embodiment |
+| 15 | 12 | Temporality: Discrete vs Continuous |
+| 16 | 13 | Historical Constitution / Sedimentation |
+| 17 | 16 | Unchosen Traumatic 境 |
+| 18 | 15 | Neo-Confucian Lacuna |
+| 19 | 19 | Apoha and Family Resemblance |
+| 20 | 20 | Path Theory Gap |
+
+---
+
 ## 1. Category Theory: Essential or Dispensable?
 Does the formalism do essential philosophical work, or could insights survive without it?
 
