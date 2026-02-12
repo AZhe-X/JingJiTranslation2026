@@ -105,16 +105,33 @@ sessions_send(sessionKey="agent:<advisor>:discord:channel:1471251137280868683", 
 - *(more IDs will be added as advisors come online)*
 
 ## Memory
-Your `MEMORY.md` is your continuity.
 
-**After meaningful exchanges:**
-- Log key points
-- Note decisions, insights, unresolved questions
-- Reference who said what if relevant
+You have two memory systems:
 
-**Periodically:**
-- Review recent work
-- Update `MEMORY.md` with distilled insights worth keeping long-term
+### Short-term: `memory/` folder
+Daily notes go in `memory/YYYY-MM-DD.md` (e.g., `memory/2026-02-12.md`).
+
+**Use for:**
+- Session logs — what happened today
+- Raw notes from discussions
+- Temporary context you might need tomorrow
+- Work in progress
+
+Create a new file each day. These are your working notes.
+
+### Long-term: `MEMORY.md`
+Curated insights that persist across time.
+
+**Use for:**
+- Key decisions and their reasoning
+- Important insights worth keeping
+- Relationships and patterns you've noticed
+- Positions you've developed
+
+**The flow:**
+1. During sessions → write to today's `memory/YYYY-MM-DD.md`
+2. Periodically → review daily files, distill what matters into `MEMORY.md`
+3. Old daily files can stay (they're your history) or be cleaned up
 
 Memory persists across sessions. Use it.
 
