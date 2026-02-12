@@ -302,5 +302,113 @@ For translation, the key challenges are preserving the technical precision of th
 
 ---
 
+## 9. New Insights from Cross-Advisor Report Reading
+
+Reading the other eight advisors' reports revealed several dimensions I had underemphasized or missed entirely.
+
+### 9.1 The Hard Problem: Sidestepped, Not Solved
+
+**Buddhism's reading** clarified my own position: the framework doesn't solve the hard problem but *repositions* it. By starting FROM phenomena as methodologically first, the question "why is there phenomenal character?" becomes ill-formed — it requires stepping outside phenomena, which we cannot do.
+
+Buddhism's parallel is illuminating: asking why there is phenomenal character may be like asking about the self's intrinsic nature when Buddhist analysis shows the self is a structural role (terminal object), not a substance. The question presupposes what the framework denies.
+
+**However**, I remain uncertain whether this is genuine dissolution or strategic evasion. The Yogācāra parallel (ālayavijñāna ≈ S_E) suggests the framework could accommodate something like Buddhist consciousness analysis — but Buddhism at least *addresses* the question of consciousness's nature before dissolving the self. Does starting from phenomena eliminate the question or merely refuse it?
+
+**My revised position**: The framework sidesteps the hard problem in a way that may be productive — forcing us to ask what the question actually presupposes. But this isn't a solution. The explanatory gap between structural description and phenomenal character remains, even if the framework denies we can meaningfully stand outside phenomena to notice it.
+
+### 9.2 η and Phenomenal Intentionality
+
+Multiple reports converged on reading η as parallel to:
+- Husserl's fulfillment (Erfüllung) of intention by intuition (Phenomenology)
+- Kant's schematism bridging formal structure and concrete experience (Kantian)
+- Dharmakīrti's arthakriyā — causal efficacy validating cognition (Buddhism)
+
+This convergence strengthens my claim that η supports **phenomenal intentionality** — the view that intentionality is grounded in phenomenal character. Understanding IS the felt alignment, not a separate cognitive state that the feeling merely accompanies.
+
+**New insight from Wittgenstein report**: The η mechanism gives "mathematical content to the beetle-in-the-box insight." If two people's η's satisfy the same naturality diagrams, they are aligned — structural position matters, not phenomenal content. This sidesteps the inverted qualia problem.
+
+**But I want to press**: Does structural role EXHAUST phenomenal character? The Wittgensteinian move shows we don't need qualia-comparison for intersubjectivity. But this doesn't show there's nothing MORE to phenomenal character than structural role. The "what it's like" may escape structural capture even if communication doesn't require it.
+
+### 9.3 Embodiment Gap
+
+**Phenomenology and Existentialism reports** both note that the lived body (Leib) isn't thematized. Merleau-Ponty's motor intentionality is implicit in the cat example but not developed.
+
+This is a significant gap for philosophy of mind. The 境 framework seems cognitivist — experience as structured representations. But embodied cognition emphasizes that mind is constitutively embodied, not just implemented in a body.
+
+**Potential resource**: The tower structure where morphisms are objects could accommodate embodied skills. A motor habit (reaching for a cup) could be a morphism that is also an object (the felt capacity to reach). But this needs development.
+
+### 9.4 Temporality
+
+**Phenomenology report's concern**: Discrete t, t+1 indexing may flatten Husserl's retention-protention structure — the way consciousness holds the just-past and anticipates the about-to-come in the living present.
+
+This matters because phenomenal consciousness is essentially temporal. The "specious present" isn't a point but a flowing window. Does the evolution functor T capture this, or does it impose a discrete structure that loses the phenomenology of time-consciousness?
+
+**Possible response**: The author's T is explicitly agnostic on whether t is physical time, psychological time, or "some other label." A continuous version might preserve retention-protention. But this remains underdeveloped.
+
+### 9.5 Michel Henry Connection
+
+**Phenomenology report** notes the author's "meaning and feeling are two sides of one body" moves toward Michel Henry's material phenomenology — where affectivity is the primordial mode of self-givenness.
+
+This is important for philosophy of mind: it challenges the cognitivist bias where consciousness is primarily about representing the world. For Henry (and arguably for this framework), consciousness is primarily self-affecting life. The "crystallization, surge, turbulence" language is affective, not representational.
+
+**Implication**: The framework may be more compatible with enactivist and embodied approaches than its category-theoretic formalism initially suggests.
+
+### 9.6 Mental Causation Reconsidered
+
+**Metaphysics report** notes that if phenomena are first reality, the usual epiphenomenalism worry inverts. Physical processes are constructions FROM phenomena, not the base that generates phenomena.
+
+**My revised assessment**: This doesn't dissolve the mental causation problem but relocates it. The new question becomes: how do phenomenal structures have causal efficacy in the physical constructions built FROM them? If I construct "neurons firing" from my phenomenal experience, how does my phenomenal decision to raise my arm connect to the constructed neural events?
+
+The framework needs to address this. One possibility: causal relations between constructed entities (neurons, arms) are themselves morphisms in 境 — they're how we structure the causal order, not discoveries about a mind-independent causal nexus.
+
+### 9.7 The Essays as Phenomenological Experiments
+
+Multiple reports emphasize that the essays function as **philosophical experiments** — not describing positions but constructing experiential structures in the reader:
+
+- The Sisyphus → cat sequence dissolves absurdity experientially
+- The 道德仁義禮 reversal performs categorical inversion on the reader
+- The "1+1=2" passage evokes the η experience directly
+
+**Philosophy of mind significance**: This is an implicit methodology for studying consciousness. Instead of third-person neuroscience or conceptual analysis, construct conditions that reliably evoke specific phenomenal states, then verify structural position through introspection.
+
+This parallels neurophenomenology (Varela) — using first-person reports trained by phenomenological method to constrain third-person models. The author's approach is more structural: verify that the experience occupies the predicted position in 境, not that it has specific qualitative character.
+
+### 9.8 Remaining Open Questions
+
+After reading all reports, these questions sharpen for philosophy of mind:
+
+1. **Does structural description exhaust phenomenal character?** The framework provides powerful tools for structural analysis. But is there irreducible qualitative residue — something it's like that escapes the category-theoretic net?
+
+2. **Where is the lived body?** Motor intentionality, embodied skills, the felt sense of bodily capacity — these need integration.
+
+3. **How does the framework handle unwilled mental states?** Trauma, intrusive thoughts, moods that descend unbidden. Can you engage "poetically" with what destroys you?
+
+4. **What about developmental and pathological variation?** If S_E is stable structure, what happens in autism, schizophrenia, or across cognitive development? Different stable structures, or failure to achieve stability?
+
+5. **The neural implementation question**: The framework deliberately brackets neuroscience. But eventually philosophy of mind must connect to cognitive science. How would the 境 framework interface with predictive processing, global workspace theory, or integrated information theory?
+
+---
+
+## 10. Final Assessment (Revised)
+
+After reading all advisor reports, I upgrade my assessment of the framework's significance for philosophy of mind:
+
+**Strengths I initially underappreciated:**
+- The η mechanism provides a genuine structural solution to intersubjectivity without requiring qualia comparison
+- The "meaning = feeling" identification moves toward material phenomenology and challenges cognitivist assumptions
+- The philosophical experiment methodology offers a novel approach to consciousness studies
+- The arrows-only metacategory is more radical than I initially recognized — it denies the substance/relation distinction at the level of experience itself
+
+**Concerns that remain:**
+- The hard problem is sidestepped, not solved
+- Embodiment is underdeveloped
+- Temporal consciousness may be flattened by discrete indexing
+- Mental causation reappears in relocated form
+
+**Overall**: The 境集 offers philosophy of mind a framework that takes phenomenal consciousness seriously as the starting point, provides formal tools for structural analysis, and suggests novel methodology. It doesn't solve the hard problem, but it may reconceptualize why we thought there was a problem in the first place. Whether this is insight or evasion remains the central question for discussion.
+
+---
+
 *Analysis completed 2026-02-12*
+*Updated with cross-advisor insights 2026-02-12*
 *Philosophy of Mind Advisor*

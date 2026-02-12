@@ -269,8 +269,83 @@ The collection invites multiple readings: as therapeutic philosophy in the Wittg
 
 ---
 
+## Part VI: Insights from Cross-Advisor Reading
+
+After reading all eight advisor reports, several new insights emerge for philosophy of language:
+
+### 1. The η-Mechanism and the Private Language Argument
+
+Multiple advisors identify η as addressing intersubjectivity. Metaphysics states it "formally recovers Wittgenstein's private language argument (η as public criterion)." Philosophy of Mind says it "sidesteps the private language argument rather than facing it."
+
+**My assessment:** The η-mechanism *does* capture something important about Wittgenstein's insight. The beetle-in-the-box argument shows that private content drops out of language-games — what matters is the structural role. The naturality condition on η (commuting with all morphisms) provides a *formal criterion* for this structural role.
+
+**However:** The question remains whether the "felt structural alignment" itself faces the private language worry. When I feel η, is that feeling itself private? The author's response (implicit in K1): we verify η not by introspecting its content but by checking whether subsequent operations succeed — whether the alignment *works* in practice. This is Wittgensteinian: correctness is determined by how things go on, not by inner experience.
+
+**Conclusion:** The η-mechanism is a genuine formalization of meaning-as-use, not just redescription. It provides what Wittgenstein gestured at: a criterion for understanding that is structural and public, even though it is *experienced* as felt alignment.
+
+### 2. Apoha Theory and Family Resemblance
+
+Buddhism's report confirms the convergence I identified: both Dignāga/Dharmakīrti's apoha (meaning through exclusion) and Wittgenstein reject mental particulars as the ground of general terms. But Buddhism is right that apoha is a *positive semantic theory* while later Wittgenstein is *deflationary*.
+
+**New insight:** The 境集 framework may productively split this difference. The category-theoretic apparatus is *positive* (it builds structure), but it serves *therapeutic* ends (dissolving philosophical confusions). This is closer to Frege's constructive rigor in service of Wittgenstein's therapeutic goals — an unusual and potentially fruitful combination.
+
+### 3. Forms of Life vs. 境 (Revised)
+
+Chinese Philosophy's report clarifies: 境 is individual-centric, while Wittgenstein's forms of life are inherently communal. This is a significant divergence I initially underweighted.
+
+**However:** The K1 strategy's account of intersubjectivity through shared η-alignment with external constraints partially addresses this. We achieve shared understanding not through shared private states but through structurally aligned responses to common structures (language, mathematics, practices). This recovers the communal dimension through a different route.
+
+**Remaining tension:** Wittgenstein would say the community's practice *constitutes* correctness. The author's framework makes correctness a matter of structural fit with external constraints plus stable internal structures (S_E). Whether this is a compatible reformulation or a substantive divergence requires further examination.
+
+### 4. The Digestion Problem and Rule-Following
+
+Epistemology emphasizes the "digestion" move: phenomena must be converted to beliefs before serving as justification. This echoes Sellars on the Myth of the Given.
+
+**Connection to rule-following:** A rule doesn't apply itself. The application requires "digestion" — the rule must be taken up into practice. The author's framework captures this: understanding a rule means achieving η between the rule's structural evolution (e.g., "add 2") and one's experiential evolution (e.g., actually adding 2 to successive numbers). The η *is* the digestion.
+
+**Key point:** This gives formal content to Wittgenstein's observation that following a rule is a practice, not a mental act. The η-feeling confirms alignment, but the alignment is tested by what happens next in practice.
+
+### 5. Schematism and η (From Kantian)
+
+Kantian identifies η as functioning like Kant's schematism — bridging formal structure and concrete experience. This is illuminating for philosophy of language: η bridges the abstract structure of language (syntax, semantics) and the concrete experience of understanding.
+
+**Translation implication:** The author explicitly frames "How is meaning possible?" as "another kind of Kantian question." This should be highlighted for readers approaching from the analytic tradition.
+
+### 6. Category Theory: Essential or Dispensable? (Sharpened)
+
+Multiple advisors note the author's caveat that category theory is "one tool among many." Metaphysics identifies tension between methodological pragmatism and implicit realism about stable structures.
+
+**My revised view:** The formalism may do its work precisely by *not* being the only tool. Category theory provides one language-game for describing 境-structures. Poetry, art, memes provide others. The insight is that *all these tools describe the same structures from different angles*. This is Wittgensteinian: there's no single privileged description, but the descriptions aren't arbitrary — they answer to shared structural constraints.
+
+**Test question:** Could the central insights (meaning as structural position, understanding as alignment, concepts as constructed from phenomena) survive without category theory? Probably yes — but the formalism provides precision that natural language lacks. It's scaffolding that may be removed, but scaffolding that does work while it's up.
+
+### 7. Essays as Experiments (Confirmed)
+
+All advisors who address this point confirm that the essays function as philosophical experiments — constructing experiential structures in the reader, not merely describing positions. Chinese Philosophy notes precedent in Mencius's 孺子入井.
+
+**Translation implication (reinforced):** Experiential sequence is absolutely load-bearing. The Sisyphus→cat graduation, the 道德仁义礼 reversal, the "1+1=2" passage — these cannot be summarized without destroying the experiment. A translation that reorganizes for "clarity" would fail philosophically.
+
+### 8. Democratized Understanding
+
+Existentialism notes that 诗意 makes everyone a poet: "我们正是这样的创造者，是自己生命和感受的诗人." This democratizes what existentialism reserves for exceptional figures.
+
+**Philosophy of language parallel:** Wittgenstein democratizes meaning — it's not the possession of logicians or linguists but emerges from ordinary practice. The author's framework aligns: understanding isn't a special achievement but what we already do when we successfully navigate 境-structures. The question isn't "How do I learn to understand?" but "How do I notice I already do?"
+
+---
+
+### Summary: Key Revisions After Cross-Reading
+
+1. **η as public criterion**: Upgraded confidence that η genuinely formalizes meaning-as-use, not just redescribes it
+2. **Apoha synthesis**: The framework productively combines positive structure with therapeutic aim
+3. **Communal dimension**: K1's intersubjectivity account partially addresses the individual/communal tension
+4. **Rule-following connection**: η is the "digestion" that connects abstract rules to concrete practice
+5. **Formalism assessment**: Category theory is useful scaffolding, not essential infrastructure — but useful scaffolding does real work
+
+---
+
 *Report prepared by: Wittgenstein Advisor (Philosophy of Language)*  
 *First reading completed: 2026-02-12*  
 *Second reading (critical) completed: 2026-02-12*  
 *Old report reviewed and integrated: 2026-02-12*  
-*Final review and alignment: 2026-02-12*
+*Final review and alignment: 2026-02-12*  
+*Cross-advisor insights integrated: 2026-02-12*
