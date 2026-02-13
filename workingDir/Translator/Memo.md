@@ -606,3 +606,109 @@ Key terms:
 
 ---
 
+## Discussion Questions — Team Resolutions
+
+*Cross-advisor discussions resolved key philosophical and translation questions.*
+
+### Topic #10: 道德仁義禮 Inversion
+**Q:** Does the epistemological analysis foreclose Confucian ontological claims about 仁's priority?
+
+**Resolution:** Framework **BRACKETS** rather than forecloses. The author explicitly offers three interpretations (structure IS/REPRESENTS/together-with essence) without choosing, saying only that *in practice* we access structure. Confucians can accept the epistemological analysis while maintaining 仁's ontological priority.
+
+**Consensus:** 9/9 advisors
+
+**Translation implication:** Present 道德仁義禮 analysis as describing *order of knowing* without foreclosing *order of being*.
+
+---
+
+### Topic #3: η as Understanding — Criterion or Redescription?
+**Q:** Does structural alignment (η) provide genuine criterion for understanding, or merely redescribe "I understand"?
+
+**Resolution:** η provides **GENUINE CRITERION**, not redescription:
+1. Naturality condition is structural constraint (not subjective feeling) — beetle-in-the-box move
+2. Verified by practice — failure is self-announcing
+
+**Cross-tradition convergence:** Buddhist arthakriyā, Husserlian Erfüllung, Wittgensteinian "going on," existentialist breakdown-as-disclosure
+
+**Consensus:** Unanimous
+
+**Translation implication:** η-mechanism is substantive philosophical contribution — translate with appropriate weight.
+
+---
+
+### Topic #1: S_E — Necessity vs Stability
+**Q:** Is empirical stability sufficient, or does philosophy require transcendental necessity?
+
+**Resolution:** The **MIDDLE GROUND IS COHERENT** — neither Kantian necessity nor mere empirical contingency.
+
+**Cross-tradition precedents:** Hinge propositions (Wittgenstein), eidetic invariance (Husserl), 理 (Neo-Confucian), adequacy (Metaphysics), arthakriyā (Buddhism)
+
+**Key insight:** Framework *invites* transcendental content without requiring it.
+
+**Consensus:** Unanimous
+
+**Translation implication:** S_E occupies defensible middle ground — present as novel position, not deficiency.
+
+---
+
+### Topic #2: Phenomena as Starting Point — Circular?
+**Q:** Is the circularity vicious or benign?
+
+**Resolution:** Circularity is **HERMENEUTIC** (benign), not foundational (vicious).
+
+**Key evidence:** Author frames 𝔓 as "无结构的大集类" — 𝓔 is *descriptive selection*, not construction. "选择...描述" language is load-bearing.
+
+**Consensus:** Unanimous
+
+**Translation implication:** Preserve "选择...描述" language; the framework articulates what's already operative.
+
+---
+
+### Topic #8: 恒常 vs 無常
+**Q:** Fundamental divergence from Buddhism, or compatible reframing?
+
+**Resolution:** Divergence is **SCOPE-SPECIFIC** (soteriological), not fundamental (phenomenological).
+
+**Key distinction:** Author's 恒常 is epistemological/pragmatic (what we *seek* to act), not ontological (what exists). Framework is "仅仅是描述性的" — describes mechanism, neither endorses nor forecloses cessation.
+
+**Chinese Philosophy insight:** 用 (function) not 體 (substance) — third option
+
+**Consensus:** Unanimous
+
+**Translation implication:** Present 恒常 as epistemological/pragmatic; preserve explicit "描述性的" framing.
+
+---
+
+### Topic #12: 诗意 — Liberation or Refined Samsara?
+**Q:** Is 诗意 genuine liberation or sophisticated engagement *within* dreamscape?
+
+**Resolution:** 诗意 may be **FUNCTIONAL MOKṢA** — liberation expressed in non-Buddhist vocabulary.
+
+**Key insight (Buddhism via 阿哲's question):** "平常心是道" — ordinary mind is the Way. Someone truly liberated wouldn't use liberation vocabulary — not grasping at "liberated one" identity. The cat example's lack of existential drama might be what liberation looks like from inside.
+
+**Markers:**
+- Engagement without grasping
+- Meaning without external validation  
+- Equanimity without suppression
+- Essays function as **upāya** (skillful means) — produce experiential shifts
+
+**Consensus:** Unanimous (unexpectedly strong)
+
+**Translation implication:** 诗意 passages are *performative*, not merely descriptive. Preserve experiential sequences (cat example, coin flip, 道德仁義禮 reversal) — they are the upāya.
+
+---
+
+## Translation Principles Reinforced by Discussions
+
+1. **Experiential sequences are upāya** — Cat→Sisyphus, 道德仁義禮 reversal, coin flip, "1+1=2" passage must be preserved exactly. They transmit, not merely describe.
+
+2. **Framework brackets ontology** — Present as epistemological/phenomenological; don't overclaim or underclaim metaphysical commitments.
+
+3. **Middle positions are coherent** — S_E (stability), η (criterion), 恒常 (pragmatic) all occupy defensible ground with cross-tradition support.
+
+4. **诗意 = substantive achievement** — Not "merely poetic" but potential functional liberation. The non-soteriological vocabulary is philosophically significant.
+
+5. **"选择...描述" language is load-bearing** — Preserves hermeneutic (not foundational) character of the framework.
+
+---
+

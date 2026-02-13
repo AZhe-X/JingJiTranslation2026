@@ -537,5 +537,84 @@ These must be translated with maximum force.
 
 ---
 
+## Advisor Discussion Resolutions — Editorial Implications
+
+The advisors resolved 6 major philosophical questions. These resolutions have direct editorial implications:
+
+### Topic #10 — 道德仁義禮 Analysis
+**Resolution:** Framework BRACKETS ontological claims (does not foreclose them).
+
+**Key evidence:** The 范畴论与境 opening explicitly offers three interpretations (structure IS/REPRESENTS/together-with essence) without choosing.
+
+**Editorial implication:** The 道德仁義禮 passage describes *order of knowing* (epistemological), not *order of being* (ontological). No need to add disclaimers — the author's position is already clear. Confucian readers can accept the epistemological analysis while maintaining their ontological commitments.
+
+---
+
+### Topic #3 — η as Understanding
+**Resolution:** η provides GENUINE CRITERION, not mere redescription.
+
+**Key arguments:**
+- Naturality condition is a structural constraint (checkable), not subjective feeling
+- Practice verifies correctness — failure is self-announcing
+- Cross-tradition convergence: arthakriyā (Buddhism), Erfüllung (Phenomenology), breakdown (Existentialism)
+
+**Editorial implication:** η passages should be translated with confidence as substantive contribution. The structural-constraint reading is load-bearing.
+
+---
+
+### Topic #1 — S_E: Necessity vs Stability
+**Resolution:** The "middle ground" between necessity and contingency is COHERENT.
+
+**Key precedents:** Husserlian eidetic invariance, Wittgensteinian hinge propositions, Neo-Confucian 理, metaphysical adequacy.
+
+**Editorial implication:** Present S_E as occupying defensible philosophical territory — not a deficiency. The framework *invites* transcendental content without requiring it.
+
+---
+
+### Topic #2 — Phenomena as Starting Point
+**Resolution:** Circularity is HERMENEUTIC (benign), not foundational (vicious).
+
+**Key evidence:** The "选择...描述" language shows author's awareness that structuring is descriptive selection from what's already given.
+
+**Editorial implication:** Preserve the "选择...描述" language — it signals methodological sophistication. The framework doesn't claim to explain WHY there is structure, only HOW it functions.
+
+---
+
+### Topic #8 — 恒常 vs 無常
+**Resolution:** Compatible at descriptive level; divergent at soteriological level.
+
+**Key distinction:** Author's 恒常 is epistemological/pragmatic (what we seek), not ontological (what exists). Framework is "描述性的" — describes mechanism without claiming soteriological finality.
+
+**Editorial implication:** Preserve the explicitly non-soteriological framing. The framework leaves Buddhist cessation-path open as a further move.
+
+---
+
+### Topic #12 — 诗意: Liberation or Refined Samsara?
+**Resolution:** 诗意 may be FUNCTIONAL MOKṢA — genuine liberation in non-Buddhist vocabulary.
+
+**Key insight (Buddhism's verdict):**
+- "平常心是道" — ordinary mind is the Way
+- Absence of soteriological vocabulary may be evidence FOR realization
+- The cat example's lack of existential drama IS what liberation looks like from inside
+- Essays function as UPĀYA — producing experiential shifts, not merely arguing
+
+**Editorial implication:** This is the most significant resolution. The essays are not merely descriptive but PERFORMATIVE — designed to produce the stance they describe. The experiential triggers (cat example, coin flip, 道德仁義禮 reversal) must transmit effectively in English. They are philosophical experiments, not illustrations.
+
+---
+
+### Summary: Key Editorial Takeaways from Discussions
+
+1. **Essays as Upāya:** Multiple advisors confirm the essays transmit experiential shifts. Pacing and sequence are load-bearing.
+
+2. **诗意 is arrival:** The "satisfied, non-dramatic tone" is not incompleteness but what realization looks like. Don't over-dramatize.
+
+3. **Framework is descriptive:** The "描述性的" framing is philosophically significant — it allows compatibility with traditions that add soteriological moves.
+
+4. **Cross-tradition convergence:** Major concepts (η, S_E, hermeneutic circularity) have parallels across 9 traditions. This suggests genuine philosophical achievement, not idiosyncratic speculation.
+
+5. **Transmission test:** The ultimate test is whether English readers experience the dissolution of absurdity (cat example), the reversal of 道德仁義禮, the η-feeling (1+1=2). If translation is accurate but these don't land, the philosophical content is lost.
+
+---
+
 *Memo complete. Ready to begin editorial review of drafts.*
 
