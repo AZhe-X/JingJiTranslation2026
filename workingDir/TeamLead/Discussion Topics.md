@@ -18,7 +18,7 @@ Aggregated from all 9 advisor rankings:
 | 5 | 9 | Non-Rationality as Foundation | 6/3 | 9Y/0N |
 | 6 | 1 | Category Theory: Essential or Dispensable? | 7/2 | 8Y/1N |
 | 7 | 18 | Construction Choice and Relativism | 3/6 | 8Y/1N |
-| 8 | 7 | 恒常 vs 無常 | 8/1 (General) | 5Y/4N |
+| 8 | 7 | 恒常 vs 無常 | 8/1 (General) | 5Y/4N | ✅ RESOLVED |
 | 9 | 17 | Thing-in-Itself Dissolution | 2/7 | 6Y/3N |
 | 10 | 14 | 道德仁義禮 Inversion | 1/8 (Framework) | 9Y/0N | ✅ RESOLVED |
 | 11 | 5 | Hard Problem: Sidestepped or Dissolved? | 9/0 (General) | 5Y/4N |
@@ -123,7 +123,7 @@ Is the poetic stance genuine liberation, or sophisticated engagement *within* th
 
 ---
 
-## 7. 恒常 vs 無常
+## 7. 恒常 vs 無常 — ✅ RESOLVED
 Buddhism treats pursuit of constancy as avidyā; author treats it as irreducible ground. Fundamental divergence or reframing?
 
 **Participants:** Buddhism, Chinese Philosophy, Kantian
@@ -133,6 +133,8 @@ Buddhism treats pursuit of constancy as avidyā; author treats it as irreducible
 - Buddhism: pursuit of permanence is rooted in avidyā to be *overcome*
 - Author: irreducible non-rational ground to *acknowledge and work with*
 - Is this compatible reframing or fundamental divergence?
+
+**Resolution (2026-02-12):** Divergence is **scope-specific**, not fundamental. Framework is descriptive/phenomenological (how 恒常-seeking operates), not soteriological. Buddhism's cessation-path remains open as further move. Compatible at descriptive level; genuinely different projects at soteriological level. **9/9 consensus.**
 
 ---
 

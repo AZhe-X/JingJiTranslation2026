@@ -101,6 +101,33 @@ The author declines to choose between them, saying only that *in practice* we ca
 
 ---
 
+### #8 — 恒常 vs 無常
+
+**Question:** Buddhism treats pursuit of constancy as *avidyā* (ignorance) to overcome; author treats it as irreducible non-rational ground to acknowledge. Fundamental divergence or compatible reframing?
+
+**Resolution:** The divergence is one of **scope**, not **contradiction**. The framework is compatible with Buddhism as phenomenology of conventional engagement.
+
+**Key Distinction:**
+- Author's 恒常 is *epistemological/pragmatic* — what we seek to structure meaningful action
+- NOT ontological claim that permanence exists
+- NOT soteriological claim that this is the final word
+- Framework describes *mechanism* of 恒常-seeking without endorsing it as path
+
+**Cross-Tradition Convergence:**
+- **Buddhism:** Framework is compatible as phenomenology of bondage; cessation-path remains open as further move
+- **Chinese Philosophy:** Author's position is 用 (function) not 體 (substance) — third option between Daoist 常 and Buddhist 無常
+- **Phenomenology:** Describes structure of constancy-seeking without claiming to overcome or endorse
+- **Existentialism:** Legitimate stance — clarity about human condition, not escape from it (cf. Kierkegaard, Nietzsche)
+- **Epistemology:** "仅仅是描述性的" means mechanism-description, not soteriological finality
+
+**Consensus:** All advisors agreed. The framework neither endorses nor forecloses Buddhist cessation — it describes the conventional structure within which both grasping and liberation occur.
+
+**Implication for Translation:** 恒常 should be translated to preserve the epistemological/pragmatic framing, not ontological permanence. Translator's notes should clarify the distinction from Buddhist 無常.
+
+**Buddhist Assessment:** The framework provides accurate phenomenology of *prapañca* (conceptual proliferation) and *tṛṣṇā* (craving) mechanism. Buddhism accepts this as conventional analysis while maintaining that *nirodha* (cessation) is possible — a further move the framework's silence permits but doesn't address.
+
+---
+
 ## Pending Questions
 
 *(To be populated as discussion proceeds)*

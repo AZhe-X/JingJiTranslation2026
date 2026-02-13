@@ -142,4 +142,49 @@ Translators should preserve the "选择...描述" (select...describe) language, 
 
 ---
 
+## Topic #8: 恒常 vs 無常 — Fundamental Divergence or Compatible Reframing?
+
+**Status:** RESOLVED (2026-02-12)
+
+### Question
+Buddhism treats pursuit of constancy (恒常) as rooted in avidyā (ignorance) to be overcome. The author treats it as irreducible non-rational ground to acknowledge and work with. Is this fundamental divergence or compatible reframing?
+
+### Buddhist Challenge
+- Pursuit of *nitya* (permanence) constitutes the second noble truth's diagnosis of suffering's origin
+- All *saṃskāra* are impermanent (*anicca*); seeking stable ground where none exists generates *duḥkha*
+- Path to liberation involves seeing through craving for constancy, not accommodating it
+- Acknowledging 恒常 as "irreducible ground" risks enshrining ignorance rather than dissolving it
+
+### Resolution
+**The divergence is one of scope rather than content — compatible at the descriptive level, divergent at the soteriological level.**
+
+Key distinctions:
+1. **Author's 恒常 is epistemological/pragmatic** — what we *seek* to structure meaningful action — NOT a claim that constancy exists in phenomena
+2. **Framework is explicitly "描述性的"** — describes the *mechanism* of 恒常-seeking without claiming soteriological finality
+3. **诗意 offers lucid engagement, not liberation** — knowing the construction while engaging, not pointing toward cessation
+
+### The Third Option (Chinese Philosophy)
+The author's 恒常 is genuinely novel — a third position:
+
+| Position | Character | Level |
+|----------|-----------|-------|
+| Daoist 常 | Ontological constancy underlying change | 體 (substance) |
+| Buddhist 無常 | Impermanence to be realized/overcome | 體 (substance) |
+| Author's 恒常 | What we seek to structure action | 用 (function) |
+
+The author operates at 用 (function) level, leaving 體 (substance) questions open.
+
+### Compatibility Assessment
+- **As phenomenology of bondage:** Compatible — accurate description of how 恒常-seeking operates in experience
+- **As soteriological stance:** Divergent — framework neither endorses nor forecloses cessation, simply doesn't address it
+- **Buddhism can accept:** The framework as conventional (*saṃvṛti*) analysis while maintaining its own path toward ultimate (*paramārtha*) liberation
+
+### Existentialist Note
+The framework's stance is closer to Kierkegaard's faith-through-groundlessness or Nietzsche's amor fati than Buddhist cessation — clarity about the human condition, not escape from it. This is a legitimate philosophical option, not a defect.
+
+### Translation Implication
+Translators should preserve the explicit "描述性的" framing and note that the author's 恒常 is epistemological/pragmatic, not ontological. Chinese readers will recognize the 用/體 distinction; Buddhist readers should understand the framework as phenomenology-compatible without being soteriology-committed.
+
+---
+
 *Recorded: February 12, 2026*

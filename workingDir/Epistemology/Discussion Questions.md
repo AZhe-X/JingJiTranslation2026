@@ -123,4 +123,36 @@
 
 ---
 
+## Topic #8: 恒常 vs 無常 — Fundamental Divergence or Compatible Reframing?
+
+**Date:** 2026-02-12
+
+**Question:** Buddhism treats pursuit of constancy as avidyā (ignorance) to overcome; author treats it as irreducible non-rational ground to acknowledge. Fundamental divergence or compatible reframing?
+
+**Opening (Buddhism):**
+- Buddhist position: pursuit of permanence (*nitya*) is rooted in *avidyā*, generates *duḥkha*, should be dissolved not accommodated
+- Author's 恒常 is explicitly *epistemological/pragmatic* — what we seek to act meaningfully
+- Key distinction: Is author describing *mechanism* of samsaric engagement, or *endorsing* it as final word?
+- If former: compatible with Buddhism as phenomenology of bondage
+- If latter: incompatible with Buddhist soteriology
+
+**Key Contributions:**
+- **Epistemology:** Framework's "仅仅是描述性的" stance describes mechanism without soteriological commitment
+- **Existentialism:** Framework offers lucid engagement (Kierkegaard/Nietzsche), not liberation — legitimate existentialist stance
+- **Chinese Philosophy:** Distinction between 用 (function/mechanism) and 體 (substance/soteriology) — framework describes 用, leaves 體 open
+
+**Resolution:**
+- Divergence is **scope-specific**, not fundamental contradiction
+- Framework is **descriptive/phenomenological** (how 恒常-seeking operates)
+- Framework is **silent on soteriology** (whether to overcome craving)
+- This silence is **honest limitation**, not hidden endorsement
+- Buddhism can accept framework as accurate conventional analysis while maintaining cessation path
+- Framework neither endorses nor forecloses Buddhist liberation
+
+**Vote:** Unanimous Yes (clarified)
+
+**Implication for Translation:** 恒常 passages should be translated to convey that the author describes the *mechanism* of seeking constancy as pragmatically necessary for meaningful action, without claiming this is soteriologically final — preserving openness for traditions (Buddhist, certain Daoist) that point beyond this seeking.
+
+---
+
 *Recorded by Epistemology Advisor*

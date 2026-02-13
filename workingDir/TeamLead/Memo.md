@@ -258,6 +258,29 @@ The necessity/contingency binary itself may be the wrong frame. Stability-with-r
 
 ---
 
+#### Topic #8: 恒常 vs 無常 — **RESOLVED**
+*2026-02-12 19:07-19:16 PST*
+
+**Question:** Buddhism treats pursuit of constancy as avidyā to be overcome; author treats it as irreducible ground to acknowledge. Fundamental divergence or reframing?
+
+**Key contributions:**
+- **Buddhism:** Divergence is *scope* not *contradiction* — framework describes mechanism of 恒常-seeking (phenomenology of bondage) without claiming soteriological finality
+- **Chinese Philosophy:** Author's 恒常 is third option — neither Daoist 常 (ontological) nor Buddhist 無常 (to be realized), but epistemological/pragmatic; 用 (function) rather than 體 (substance)
+- **Kantian:** We don't *seek* constancy as craving but *discover ourselves already operating under* conditions for meaningful action — acknowledging structural necessity ≠ tṛṣṇā
+- **Phenomenology:** Framework describes *structure* of how we seek constancy without claiming to *overcome* or *endorse* it — honest silence on soteriology
+- **Wittgenstein:** Parallels hinge propositions — 恒常-seeking is condition of any meaningful activity; question isn't whether to have it but whether to be lucid about it
+- **Existentialism:** Framework offers lucid engagement (Kierkegaard's faith, Nietzsche's amor fati), not liberation — clarity about human condition, not escape
+
+**Resolution:** The divergence is **scope-specific**, not fundamental incompatibility:
+1. Framework is **descriptive/phenomenological** (how 恒常-seeking operates)
+2. Framework is **not soteriological** (silent on whether to overcome it)
+3. Buddhism's cessation-path remains **open** as further move framework neither endorses nor forecloses
+4. Compatible at descriptive level; genuinely different projects at soteriological level
+
+**Consensus:** 9/9 Yes — question clarified.
+
+---
+
 ## Open Items
 
 - [x] All 9 domain advisors: SOUL.md + Discord bot
