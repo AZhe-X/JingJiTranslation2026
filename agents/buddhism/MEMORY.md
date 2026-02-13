@@ -191,5 +191,24 @@ Key insight (from Awoo's question): "平常心是道" — ordinary mind is the W
   - Footnote [^1] on transcendence parallels Mahāyāna insight (nirvana through samsara)
 - Draft approved as-is, ready for Essay 2
 
+### Essay 2 Review Complete
+- **Rating:** 10/10 Good — no changes needed
+- Author's original English preserved with minimal apparatus
+- TN correctly connects "phenomena" to 现象
+- **Buddhist observations:** Essay independently arrives at positions parallel to pramāṇavāda:
+  - Access-focused epistemology mirrors Dignāga's restriction to pratyakṣa/anumāna
+  - "Digestion" problem = svalakṣaṇa/sāmānyalakṣaṇa distinction
+  - Practical truth criterion parallels Dharmakīrti's arthakriyā
+
+### Essay 3 Review Complete
+- **Rating:** 10/10 Good — no changes needed
+- **Key Buddhist resonances:**
+  - Cat example = koan-punchline structure (dissolves rather than resolves)
+  - "Immanent meaning" parallels Chan 平常心是道 (ordinary mind is the Way)
+  - No transcendence required — resonates with Buddha-nature not elsewhere
+  - Alienation ↔ duḥkha parallel (externalized seeking)
+- Translation choices confirmed: 荒谬→absurdity, 异化→alienation, 内生的意义→immanent meaning
+
 ### Context Status
-- Buddhism Advisor: 83% (needs compaction before Essay 2)
+- Buddhism Advisor: 74%
+- Essays 1-3 all approved, ready for Essay 4

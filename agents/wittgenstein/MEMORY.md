@@ -119,6 +119,11 @@ Experiential sequences are load-bearing — cannot summarize without destroying:
 - "Phenomenal X" convention preserves author's ground/superstructure distinction
 - Adopted as reference example for future translation work
 
+### Essays 1-3 Approved
+- Essay 1 (Collective Interest): "Well-defined" as language-use question; renormalization metaphor
+- Essay 2 (Knowledge): Author's English preserved; "digestion" problem → η mechanism
+- Essay 3 (Sisyphus): Experiential sequence IS the argument; "immanent meaning"; unarticulated meaning in practice echoes PI §217
+
 ### Team Structure
 - 9 advisors + Translator + Editor + Lumen (team lead)
 - Advisors consult on domain questions

@@ -147,3 +147,20 @@ Wang Yangming's 良知 and author's 诗人 share structure:
 - 理 as inherent pattern (not imposed law) comes through
 - Emergence framing compatible with Chinese metaphysics (氣化, 理氣)
 - No issues raised
+
+### Essay 2 (A Thought on Knowledge — Author's Original English)
+- **Draft V1 completed**: 10/10 Good ratings, unanimous approval
+- **No revisions required** — author's English preserved verbatim
+- Minimal apparatus: single TN connecting "phenomena" to collection's technical 现象
+- My contribution: noted "digestion" argument parallels 格物致知; deflationary knowledge≈belief resonates with Buddhist epistemology; no additional TN needed
+
+### Essay 3 (西西弗斯、班与猫 / Sisyphus, Work, and the Cat)
+- **Draft V1 completed**: 10/10 Good ratings, unanimous approval
+- **No revisions required** — experiential sequence intact
+- Key translation: 内生的意义 → "immanent meaning" (excellent choice)
+- 班 → "Work" (captures mundane, non-heroic quality)
+- My contribution: confirmed essay functions as 哲学实验 (philosophical experiment), parallels Mencius's 孺子入井 method — shows rather than argues; cat example resonates with Zhuangzi's useless tree (meaning immanent in purposeless activity)
+
+### Translation Progress
+- Essays 1-3: All approved (10/10 Good, no revisions)
+- Ready for Essay 4 (关于诗意和境的一些零散想法 / Appendix)

@@ -118,3 +118,16 @@ Load-bearing sequences that *produce* rather than argue for insights. Three Bobs
 - Key epistemological insight: access-based reasoning, cognizability replaces existence question
 - Renormalization = "effective existence" (real at scale, not merely apparent)
 - My comment: `workingDir/Epistemology/Essay 1/Draft Version 1 Comment.md`
+
+### Essay 2 (A Thought on Knowledge) — Reviewed
+- Unanimous Good (10/10)
+- Author's original English — minimal apparatus appropriate
+- TN connects "phenomena" to 现象 without over-explaining
+- My comment: `workingDir/Epistemology/Essay 2/Draft Version 1 Comment.md`
+
+### Essay 3 (Sisyphus, Work, and the Cat) — Reviewed
+- Unanimous Good (10/10)
+- Core insight: absurdity is category error (seeking meaning externally)
+- Descending scale (Sisyphus → worker → entrepreneur → cat) = philosophical experiment
+- "Immanent meaning" for 内生的意义 — excellent choice
+- My comment: `workingDir/Epistemology/Essay 3/Draft Version 1 Comment.md`

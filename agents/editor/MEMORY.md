@@ -39,5 +39,16 @@
 
 ## Current Status (2026-02-13)
 - Read all essays and advisor reports ✓
-- Dictionary review ~50% complete
-- Awaiting translation drafts
+- Dictionary review complete (95 entries approved)
+- **Translation review in progress:**
+  - Essay 1: ✓ Approved (10/10)
+  - Essay 2: ✓ Approved (10/10, native English, minimal apparatus)
+  - Essay 3: ✓ Approved (10/10)
+  - Essays 4-8 + Appendix: Pending
+
+## Translation Quality Notes
+- Translator's work consistently strong
+- All advisor reviews aligned — no disagreements
+- "Immanent meaning" (内生的意义) endorsed as excellent
+- Experiential sequences preserved across all essays
+- TNs illuminate without over-explaining
