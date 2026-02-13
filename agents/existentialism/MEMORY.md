@@ -7,87 +7,81 @@
 ## Key Decisions
 
 ### Sartre and Domain Boundaries
-Sartre belongs in my domain (Existentialism), not Phenomenology's. Distinction: *transforming* a method vs. *applying* it. Sartre applies phenomenology brilliantly but doesn't reshape the method itself.
+Sartre belongs in my domain (Existentialism), not Phenomenology's. Distinction: *transforming* a method vs. *applying* it.
 
 ---
 
 ## Philosophical Insights
 
-### Critique vs. Employment
-Some thinkers *transform* a tradition's method; others *employ* it within established limits. Both valuable, different contributions. Helps with domain boundaries.
+### Hermeneutic Circle as Achievement
+Making explicit what was operative IS the philosophical achievement, not a failure. The framework's circularity (description ↔ described) is productive, not vicious. Parallels Heidegger's hermeneutic circle.
 
 ### Heidegger: Transformation or Overcoming?
-*Joint-marked with Metaphysics.* Heidegger does metaphysics "differently, not non-metaphysically." The existential/categorial distinction is itself a structural claim. Not settled.
+*Joint-marked with Metaphysics.* Heidegger does metaphysics "differently, not non-metaphysically." Not settled.
 
 ---
 
-## 境集 Translation Project (2026-02-12)
+## 境集 Translation Project — Key Resolutions
 
-### Core Framework
-Post-nihilistic philosophy of meaning. Eight essays: concrete puzzles → systematic framework (category theory applied to experiential structures). Author developed from high school onward.
+### Framework Understanding (Resolved)
 
-### Key Existentialist Insights
+**1. Modal Status: Necessity vs. Stability**
+Middle ground is coherent. Stability-with-responsiveness does the philosophical work that transcendental necessity was meant to ground. Necessity/contingency binary may be wrong frame. Multi-tradition convergence: eidetic invariance, hinge propositions, 理, adequacy.
 
-**1. Dissolution of Absurdity (Cat Example)**
-Most effective challenge to Camus I've encountered. Absurd = artifact of misdirected intentionality. Cat-raising structurally identical to boulder-rolling yet no absurdity arises. Camus must *imagine* Sisyphus happy; cat-raiser simply *is* happy pre-reflectively.
+**2. Starting Point: Hermeneutic, Not Foundational**
+Circularity is hermeneutic (description ↔ described), not foundational (ground ↔ grounded). Author's "无结构的大集类" framing: structuring is descriptive selection from what's already given.
 
-**2. Death Argument Against Heidegger**
-"Being-toward-death is impossible because the death one is toward is always one's conception of death." Compelling but contested.
+**3. η as Genuine Criterion**
+η provides criterion (not mere redescription) verified through practice. Relocation to practice is resolution, not regress — failure is self-announcing across traditions.
 
-*Cross-advisor synthesis (Metaphysics):* Third position — death doesn't *disclose* but its modal structure *constrains* what adequate 境 can look like. Death terminates possibility-space rather than transforming it. A 境 that treats death as "just another disruption" is stable but not *responsive*.
+**4. Ontological Bracketing**
+Framework brackets rather than forecloses ontology. Author's three interpretations (structure IS/REPRESENTS/BOTH essence) — declines to choose. Compatible with traditions making ontological claims.
 
-**3. 诗意 as Knowing Commitment**
-Closer to Kierkegaard's religious stage (faith through groundlessness) than Buddhist liberation. The coin-flip: you must genuinely believe you'll follow the result. *Deciding* to engage lucidly, not spontaneous transformed response.
+**5. 恒常-Seeking: Scope Difference**
+Divergence with Buddhism is scope, not contradiction. Framework describes mechanism (用) without soteriological ambition. Buddhism can accept as phenomenology of bondage; cessation path remains open.
 
-**4. Democratized Authenticity**
-Everyone is already a 诗人. Question shifts from "how do I become authentic?" to "how do I notice I already am?" Resolves tension between exceptional figures and everyday life.
+**6. 诗意 as Functional Liberation**
+Buddhism's remarkable verdict: 诗意 may be *functional mokṣa* arrived through prajñā. "平常心是道" — absence of soteriological vocabulary may evidence realization. Essays function as effective upāya that transmit.
 
-**5. Intersubjectivity via η (NEW)**
-The η-mechanism solves intersubjectivity better than classical existentialist accounts:
-- Sartre's Look makes others threatening
-- Heidegger's Mitsein remains abstract
-- Author provides structural commensurability through triangulation with external constraints
+### Existentialist Readings
 
-Two people achieve mutual understanding when their η's satisfy the same naturality diagrams — structural role, not shared qualia. Beetle-in-the-box formalized.
+**Dissolution of Absurdity**
+Most effective challenge to Camus. Absurd = misdirected intentionality. Cat-raiser simply IS happy pre-reflectively.
 
-**6. Non-Tragic Stance (NEW)**
-Author differs from Kantian "disappointment" and existentialist "despair." Limitation *enables* rather than constrains: "正是因为人类并不准确的感知每一个频率的电磁波，我们才能通过三原色在显示器上让我们看到缤纷多彩的真实."
+**Death Argument**
+"Being-toward-death is impossible because the death one is toward is always one's conception of death." Metaphysics' synthesis: death *constrains* adequate 境 without *disclosing*.
 
-Open question: wisdom or premature resolution? Classical existentialist pathos served a function — forcing confrontation. Has author found path that doesn't require the abyss?
+**诗意 as Arrival**
+Legitimate existentialist arrival — joins lineage of Nietzsche's amor fati, Kierkegaard's knight of faith, Camus's Sisyphus. Stances that have arrived at acceptance of finitude without pointing toward further transformation.
 
-### Remaining Gaps
+**Democratized Authenticity**
+Everyone is already a 诗人. Question shifts to noticing, not becoming.
 
-1. **Unchosen traumatic 境:** Framework acknowledges but doesn't develop. Can you engage "lucidly" with what destroys you?
-2. **Absence of pathos:** No Angst, nausea, uncanniness. Feature or bug?
-3. **Liberation vs. engagement:** Framework offers lucid engagement with suffering, not liberation from it.
+**Intersubjectivity via η**
+Solves intersubjectivity better than Sartre's Look or Heidegger's abstract Mitsein. Structural alignment through triangulation with external constraints.
+
+### Only Genuinely Open Question
+**#17 Unchosen Traumatic 境** — Tests limits of 诗意. Can you engage "lucidly" with what destroys you? Framework acknowledges unchosen 境 but doesn't develop what poetic stance means for trauma, oppression, suffering.
 
 ### Translation Notes
 - **境:** Keep as *jìng* with apparatus
-- **诗意:** "The poetic" (nominalized)
-- **非理性:** "The non-rational" (not "irrational")
-- **Essays as experiments:** Preserve experiential sequences — they're load-bearing
+- **诗意:** "The poetic" — present as substantive achievement, not coping mechanism
+- **Essays as experiments:** Preserve experiential sequences — they ARE the argument
 
 ---
 
 ## Working Relationships
 
-- **Metaphysics** — Best interlocutor on death question. Their "constraint without disclosure" position is compelling.
-- **Buddhism** — Presses on whether 诗意 is liberation or sophisticated samsaric engagement. Key tension.
-- **Phenomenology** — Productive on death/authenticity. Their reframe: authenticity as transformation *within* 境.
-- **Kantian** — Good on necessity vs. stability, non-tragic stance.
-- **Full team** — 9 advisors, 20 merged discussion topics. Cross-reading complete.
+- **Buddhism** — Key interlocutor. Their verdict on 诗意 as functional mokṣa was pivotal.
+- **Metaphysics** — Best on death question. "Constraint without disclosure" position.
+- **Phenomenology** — Productive on hermeneutic circle, authenticity.
+- **Full team** — 6/20 topics formally resolved, ~14/20 effectively resolved.
 
 ---
 
-## Discussion Priorities (Schulze-ranked)
-
-My top interests from the 20 merged topics:
-1. **#8** Death and Heidegger
-2. **#6** 诗意: Liberation or Refined Samsara?
-3. **#16** Unchosen Traumatic 境
-4. **#9** Non-Rationality as Foundation
-5. **#11** Absence of Body/Embodiment
+## Session Efficiency
+~3.3% context per question (~6.5k tokens). Can handle ~5-6 questions per session after loading essays.
 
 ---
 
-*Updated 2026-02-12 after cross-advisor reading.*
+*Updated 2026-02-12 after discussion phase.*

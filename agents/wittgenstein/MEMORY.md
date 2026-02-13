@@ -19,6 +19,7 @@ Navigate between therapeutic deflation, constructive theorizing, and patient des
 - Both reject mental particulars as ground of general terms
 - Divergence: apoha is positive semantic theory; Wittgenstein is deflationary
 - η connects to arthakriyā (practical success) — grounds understanding in efficacy
+- **New:** 诗意 may be "functional mokṣa" — Buddhism endorsed framework as potentially "what effective dharma looks like outside Buddhist vocabulary"
 
 ### Phenomenology
 - η parallels Husserl's Erfüllung (fulfillment of intention by intuition)
@@ -27,52 +28,92 @@ Navigate between therapeutic deflation, constructive theorizing, and patient des
 ### Kantian
 - η functions like schematism — bridging formal structure and concrete experience
 - Author frames "How is meaning possible?" as "another kind of Kantian question"
-- Key divergence: necessity (Kant) vs. stability (author)
+- **New:** Middle ground between necessity and contingency is coherent — hinge propositions, eidetic invariance, 理 all provide precedents
 
 ## Project Context
 
 Translation project (Jing Ji). My role: questions of meaning, reference, translatability, rule-following.
 
-## Jing Ji Framework — Key Findings
+## Jing Ji Framework — Key Findings (Confirmed by Discussion)
 
-### η as Public Criterion (Core Finding)
-η provides genuine public criterion for understanding. The "felt alignment" is verified by practice (whether subsequent operations succeed), not introspection of content. This formalizes meaning-as-use.
+### η as Public Criterion (CONFIRMED)
+η provides genuine public criterion for understanding — not redescription.
+- Naturality condition is structural constraint
+- Verified by practice (whether subsequent operations succeed)
+- Multi-tradition convergence: arthakriyā, Erfüllung, schematism
+- Relocation to practice is grounding, not regress — failure is self-announcing
 
-Metaphysics: "formally recovers Wittgenstein's private language argument (η as public criterion)"
+### Framework Brackets Ontology (CONFIRMED)
+Author offers three interpretations (structure IS/REPRESENTS/both essence) without choosing.
+- "描述性的" stance explicitly suspends ontological claims
+- Compatible with traditions that have ontological commitments (Confucianism, etc.)
+- Footnote 25: "只是名称，而不是本体论上具有实在地位的论断"
 
-### Understanding as Structural Alignment
-- 理解 (understanding): η exists between paths
-- 掌握 (mastery): η is identity — direct confirmation without mediation
+### Circularity is Hermeneutic (CONFIRMED)
+Taking phenomena as starting point is not vicious circularity.
+- 𝔓 as "无结构的大集类" with 𝓔 as descriptive selection
+- Author's "选择...描述" language shows methodological self-awareness
+- Parallels language-games — describing from within is only clarification available
 
-### Essays as Philosophical Experiments
-Experiential sequences are load-bearing — cannot summarize without destroying the experiment:
+### Stability Suffices (CONFIRMED)
+Middle ground between necessity and mere contingency is coherent.
+- Hinge propositions in *On Certainty* are "groundless grounds"
+- Multiple traditions converge: eidetic invariance, 理, adequacy, arthakriyā
+- Framework invites transcendental content without requiring it
+
+### 诗意 as Functional Liberation (NEW)
+Buddhism concluded 诗意 may be genuine realization:
+- "平常心是道" — ordinary mind is the Way
+- Absence of liberation vocabulary may evidence realization (not grasping at "liberated one" identity)
+- Essays function as upāya that transmit experiential shifts
+- Cat example's lack of existential drama might be what liberation looks like from inside
+
+### Essays as Philosophical Experiments (CONFIRMED)
+Experiential sequences are load-bearing — cannot summarize without destroying:
 - Sisyphus → cat: staged dissolution of absurdity
-- 道德仁义礼 reversal: categorical inversion performed on reader
+- 道德仁義禮 reversal: categorical inversion performed on reader
 - "1+1=2" passage: evoking η directly
-
-### Key Resonances
-- Meaning as structural position ≈ meaning as use
-- 恒常 (constancy) ≈ rule-following considerations
-- 非理性 acknowledgment ≈ hinge propositions (On Certainty)
-- K1 intersubjectivity partially recovers communal dimension of forms of life
-
-### Apoha Synthesis
-Framework may productively split apoha/Wittgenstein difference: positive structure (category theory) serving therapeutic ends.
-
-### Category Theory Assessment
-Useful scaffolding, not essential infrastructure — but scaffolding does real work while up. One language-game among many for describing 境-structures.
+- These are upāya designed to produce the stance they describe
 
 ### Key Terms for Translation
 | Chinese | English | Note |
 |---------|---------|------|
 | 境 | 境 (retain) | No English equivalent |
 | 非理性 | non-rational | Not "irrational" |
-| 诗意 | the poetic | Technical term |
+| 诗意 | the poetic | Technical term; may be functional liberation |
 | 掌握 | mastery | Distinct from 理解 |
 | η | alignment experience | Gloss on first use |
 
 ## Open Questions
 
-1. Does η provide *criterion* or just *redescription*? (My view: genuine criterion)
-2. Does "felt alignment" face private language worry? (My view: no — verified by practice)
-3. Does framework synthesize apoha and family resemblance productively? (My view: yes)
+### Resolved
+1. Does η provide *criterion* or just *redescription*? — **Criterion** (verified by practice)
+2. Does "felt alignment" face private language worry? — **No** (verified by practice, not introspection)
+3. Is category theory essential? — **No** (one tool among many, but does real work)
+4. Does framework bracket or foreclose ontology? — **Brackets** (three interpretations offered)
+
+### Resolved Topics (by number)
+- #1: Necessity vs Stability — Middle ground coherent (hinge propositions, eidetic invariance, 理)
+- #2: Phenomena as Starting Point — Hermeneutic circularity, not vicious
+- #3: η as Criterion — Verified by practice; failure self-announcing
+- #8: 恒常 vs 無常 — Compatible at descriptive level; divergence only soteriological
+- #10: 道德仁義禮 Inversion — Framework brackets ontology (3 interpretations offered)
+
+### In Progress
+- #12: 诗意 — Liberation or Refined Samsara? (Buddhism opening)
+
+### Genuinely Open
+- #17: Unchosen Traumatic 境 — Can you engage "lucidly" with what destroys you?
+- 14 remaining topics from Discussion Questions.md
+
+## Collaboration Notes
+
+### Key Advisors for My Domain
+- Epistemology: rule-following, digestion problem
+- Buddhism: arthakriyā, apoha, mokṣa question
+- Phenomenology: Erfüllung, lived time
+
+### Discussion Methodology
+- STV voting for opening speakers works well
+- 1-sentence statements keep discussion focused
+- Cross-tradition convergence is strong signal of resolution

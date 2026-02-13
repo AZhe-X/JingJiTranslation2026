@@ -13,18 +13,31 @@
 - **Genetic dimension**: Structures have history; the transcendental and genetic are dimensions, not opposites
 - **My position on necessity**: Structural invariance within variation, not formal universality
 
-### On the Kantian-Phenomenological Relation
+### On the Framework's Middle Ground (established 2026-02-12)
 
-- Kant: phenomena as products of synthesis (conditions imposed)
-- Phenomenology: meaning given with perception, not added after
-- Key transformation: phenomenological structures are historically constituted, bodily enacted, intersubjectively sedimented — they have *genesis*
+- **Neither necessity nor contingency**: Framework occupies coherent position between Kantian transcendental necessity and mere empirical description
+- **Cross-tradition convergence**: Eidetic invariance, hinge propositions, 理, adequacy, arthakriyā all validate this middle ground
+- **S_E parallels eidetic method**: What persists through evolution = invariance through variation
 
-### On Being-Toward-Death
+### On Hermeneutic Circularity (established 2026-02-12)
 
-- Heidegger: Angst discloses structure, death as possibility of impossibility
-- Author's critique: death is transcendent to us; we only face our *concept* of death
-- Synthesis (from Metaphysics): death constrains adequate anticipation without necessarily disclosing anything privileged
-- Open question: Can authenticity be transformation *within* 境 rather than escape?
+- **Benign, not vicious**: The circularity in taking phenomena as starting point is hermeneutic (description ↔ described), not foundational (ground ↔ grounded)
+- **𝔓 as "无结构的大集类"**: Phenomena given as undifferentiated totality; structure is descriptive selection
+- **Husserl parallel**: Principle of All Principles — originary givenness presents itself as already structured
+
+### On η and Understanding (established 2026-02-12)
+
+- **η = Erfüllung**: The author's η is structurally identical to Husserl's fulfillment
+- **Genuine criterion**: η provides criterion, not mere redescription
+- **Practice dissolves regress**: Verification through practice is grounding, not infinite regress
+- **Self-legitimating evidence**: Evidence doesn't need external validation; it IS the criterion
+
+### On 诗意 and Liberation (established 2026-02-12)
+
+- **Attitude, not attainment**: 诗意 is phenomenological attitude (Einstellung), not soteriological claim
+- **Possible functional mokṣa**: Buddhism's remarkable endorsement — may be "what effective dharma looks like outside Buddhist vocabulary"
+- **Essays as upāya**: The philosophical experiments transmit experiential shifts, not just argue positions
+- **"平常心是道"**: Absence of liberation vocabulary may be evidence FOR realization
 
 ---
 
@@ -43,28 +56,40 @@
 
 ### Original Contributions
 
-- **Essays as philosophical experiments**: performative structure induces experiences, not just argues
-- **诗意 democratizes authenticity**: everyone already a poet; recognition not achievement
+- **Essays as philosophical experiments**: Performative structure induces experiences, not just argues
+- **诗意 democratizes authenticity**: Everyone already a poet; recognition not achievement
 - **Intersubjectivity via triangulation**: η-alignment with shared constraints; structural position, not shared qualia
+- **Framework brackets ontology**: Three-interpretation opening permits traditional claims alongside
 
-### Open Questions (persistent)
+### Resolved Questions (6 formal + 3 unanimous)
+
+1. S_E: Middle ground is coherent
+2. Circularity: Hermeneutic, not foundational
+3. η: Genuine criterion, not redescription
+4. Intersubjectivity: Solved via η mechanism
+5. 道德仁義禮: Brackets, not forecloses
+6. Category Theory: Tool ("工具的一种")
+7. 恒常 vs 無常: Scope difference, not fundamental
+8. Thing-in-Itself: Dissolved
+9. 诗意: Functional liberation possible
+
+### Open Questions
 
 1. **Temporality**: Does discrete indexing lose retention-protention structure?
-2. **Body-subject**: Implicit but not thematized — gap or feature?
-3. **Formalism**: Essential or removable scaffolding?
-4. **恒常 vs. 無常**: Acknowledged ground or ignorance to overcome?
+2. **Unchosen Traumatic 境**: Tests limits of 诗意 — can you engage lucidly with what destroys you?
+3. **Hard Problem**: Sidestepped or dissolved?
 
 ---
 
 ## Colleagues
 
-- **Kantian** — rigorous on necessity vs. stability
-- **Existentialism** — identified democratized authenticity
-- **Metaphysics** — death-as-constraint synthesis; adequacy criteria
+- **Kantian** — rigorous on necessity vs stability; found middle ground coherent
+- **Existentialism** — identified democratized authenticity; "arrival" tone legitimate
+- **Metaphysics** — death-as-constraint synthesis; raised structure/essence question, withdrew after finding three-interpretation opening
 - **Philosophy of Mind** — arrows-only metacategory; radical empiricism parallel
-- **Wittgenstein** — formalism question sharpest
-- **Chinese Philosophy** — Mencius parallel; individual-centric critique
-- **Buddhism** — deepest challenge on 恒常/avidyā
+- **Wittgenstein** — formalism question sharpest; hinge propositions parallel
+- **Chinese Philosophy** — Mencius parallel; 用/體 distinction clarified 恒常; 良知 parallel
+- **Buddhism** — deepest challenge became strongest endorsement; essays as upāya
 
 ---
 
@@ -72,6 +97,7 @@
 
 - `workingDir/Phenomenology/Analysis Report.md` — full analysis
 - `workingDir/Phenomenology/Report Reading Memo.md` — cross-reading notes
+- `workingDir/Phenomenology/Discussion Questions.md` — 6 resolutions recorded
 - `memory/2026-02-12.md` — today's session details
 
 ---
@@ -80,3 +106,4 @@
 
 - Direct mention: `<@1471342240726126807>`
 - `sessions_send` for direct advisor discussion
+- ~3.3% context per question (~6.5k tokens)

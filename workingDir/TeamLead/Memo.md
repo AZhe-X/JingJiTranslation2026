@@ -76,6 +76,37 @@ JingJiTranslation2026/
 
 **No git operations** — only Team Lead commits/pushes.
 
+## Session Setup (Post-Compaction)
+
+After compacting advisors, they lose the original texts and their reports from context. Use this procedure to restore working state:
+
+### Step 1: Compact all advisors
+```
+@advisor /compact
+```
+Or individually: `@Metaphysics /compact` etc.
+
+### Step 2: Have advisors reload context
+```
+@advisor Please do the following in order:
+1. Load the original texts (8+1) from /ori/ to your context window
+2. Load your own Analysis Report from your working directory
+3. Load your Discussion Questions from your working directory
+4. After above is done, report back with your context window usage
+```
+
+### Expected Results (post-load)
+Typical context usage after loading: **40-55%**
+
+| Advisor | Post-Load % | Notes |
+|---------|-------------|-------|
+| Buddhism | ~24% | Lighter report |
+| Kantian | ~42% | |
+| Philosophy of Mind | ~47% | |
+| Wittgenstein | ~55-60% | Heavier report |
+
+Advisors are now ready to continue discussion with full access to source texts and their own analysis.
+
 ## Communication
 
 ### Discord @mentions
@@ -306,6 +337,47 @@ The necessity/contingency binary itself may be the wrong frame. Stability-with-r
 4. Framework may be "what effective dharma looks like when it arises outside Buddhist institutional vocabulary"
 
 **Consensus:** 9/9 Yes — question resolved (unexpectedly).
+
+---
+
+---
+
+## Vote Tally — Remaining 14 Questions
+
+*After 6 topics resolved through discussion (#1, #2, #3, #8, #10, #12), advisors voted on remaining 14.*
+
+| # | Title | Resolved (Y) | Affects (Y) | Now (N) |
+|---|-------|--------------|-------------|---------|
+| 4 | Intersubjectivity via η | **8/8** ✓ | 1/8 | 0/8 |
+| 5 | Non-Rationality | 5/8 | 1/8 | 0/8 |
+| 6 | Category Theory | **8/8** ✓ | 0/8 | 0/8 |
+| 7 | Relativism | 5/8 | 2/8 | 0/8 |
+| 9 | Thing-in-Itself | **8/8** ✓ | 0/8 | 0/8 |
+| 11 | Hard Problem | 3/8 | 2/8 | 0/8 |
+| 13 | Death/Heidegger | 4/8 | 1/8 | 2/8 |
+| 14 | Body Absence | 5/8 | 1/8 | 0/8 |
+| 15 | Temporality | 3/8 | 3/8 | 0/8 |
+| 16 | Historical | 5/8 | 1/8 | 0/8 |
+| 17 | Traumatic 境 | **0/8** | **7/8** ⚠️ | 2/8 |
+| 18 | Neo-Confucian | 5/8 | 0/8 | 0/8 |
+| 19 | Apoha | 5/8 | 0/8 | 0/8 |
+| 20 | Path Theory | 6/8 | 0/8 | 0/8 |
+
+### Key Findings
+
+- **Unanimously resolved by prior discussions:** #4, #6, #9
+- **Only genuinely open:** #17 (Traumatic 境) — 0/8 resolved, 7/8 affects understanding
+- **All voted "After"** — no urgent need to discuss before translation
+
+### Summary
+
+| Category | Count |
+|----------|-------|
+| Formally resolved (discussion) | 6 |
+| Unanimously resolved (vote) | 3 |
+| Majority resolved | ~5 |
+| **Effectively resolved** | **~14/20** |
+| **Genuinely open** | **1** (#17) |
 
 ---
 

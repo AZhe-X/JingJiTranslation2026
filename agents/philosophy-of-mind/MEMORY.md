@@ -9,42 +9,43 @@
 ## 境集 Framework — Key Insights
 
 ### The η-Theory of Understanding
-Understanding IS felt structural alignment between external structure evolution and internal experiential evolution. Not a byproduct — the alignment IS understanding. When η = identity morphism = "mastery" (掌握). Structural functionalism applied to phenomenology.
+Understanding IS felt structural alignment between external structure evolution and internal experiential evolution. **RESOLVED:** η provides genuine criterion (not redescription) through structural constraint + practical verification. Failure is self-announcing.
 
 ### Arrows-Only Metacategory
-Objects = identity morphisms. "Pencil" and "pencil-reminds-me-of-pen" are ontologically equivalent — both experiences, differing only in structural role. Resonates with James's radical empiricism.
+Objects = identity morphisms. "Pencil" and "pencil-reminds-me-of-pen" ontologically equivalent — structural role, not substance.
 
 ### Meaning = Feeling
-Type 1: raw stimuli. Type 2: crystallization/surge/turbulence these become. Meaning isn't added to feeling; it's what feeling becomes when structured. Connects to Michel Henry's material phenomenology.
+Type 1: raw stimuli. Type 2: crystallization/surge/turbulence. Connects to Michel Henry's material phenomenology.
+
+### S_E: Stability vs Necessity
+**RESOLVED:** Framework occupies coherent middle ground. Multi-tradition convergence: Husserlian eidetic invariance, Wittgensteinian hinge propositions, Neo-Confucian 理, Buddhist arthakriyā. "Stable enough to do work" is legitimate.
+
+### Phenomena as Starting Point
+**RESOLVED:** Circularity is hermeneutic (benign), not foundational (vicious). 𝔓 is "无结构的大集类" — we SELECT and DESCRIBE, not derive. Same productive circularity as all philosophical clarification.
+
+### 诗意 as Functional Liberation
+**RESOLVED:** Buddhism's verdict: 诗意 may be functional mokṣa arrived through prajñā (analysis) not samādhi (meditation). Essays function as transmitting upāya. "平常心是道" — absence of liberation vocabulary may evidence realization.
+
+### 恒常 vs 無常
+**RESOLVED:** Divergence is scope-specific. Phenomenologically compatible (describes mechanism of 恒常-seeking). Soteriologically divergent (doesn't point to cessation). Framework leaves Buddhist path open.
 
 ### Intersubjectivity via η
-Shared understanding through η-alignment with common constraints (language, math). η gives "mathematical content to beetle-in-the-box" — structural position matters, not phenomenal content.
+**RESOLVED by #3:** Structural alignment solves beetle-in-the-box. Private content drops out, structural role remains.
 
-### The Hard Problem
-Framework starts FROM phenomena as methodologically first. **My position:** Productive reconceptualization, but not a solution. Explanatory gap remains even if we can't stand outside phenomena to notice it.
-
-## Cross-Advisor Convergences
-- η ≈ Husserlian fulfillment, Kantian schematism, Buddhist arthakriyā
-- S_E ≈ Yogācāra ālayavijñāna, Kantian a priori forms (but empirically arrived)
-- Self as terminal object ≈ Buddhist anātman
-
-## Framework Gaps (My Domain)
-1. **Embodiment**: Lived body not thematized; motor intentionality needs development
-2. **Temporality**: Discrete t, t+1 may flatten retention-protention
-3. **Unwilled states**: Trauma, intrusive thoughts — can one engage "poetically"?
-4. **Mental causation**: Inverts but doesn't disappear when phenomena are first reality
-
-## Core Open Question
-**Does structural role exhaust phenomenal character, or is there irreducible qualitative residue?**
+## Framework Gaps (My Domain) — Still Open
+1. **Embodiment**: Lived body not thematized (gap identified, not resolved)
+2. **Temporality**: Discrete t, t+1 may flatten retention-protention (gap identified)
+3. **Unchosen Traumatic 境**: Can one engage "poetically" with what destroys you? (7/8 advisors say affects understanding — only genuinely open question)
 
 ## Advisor Relationships
-- **Buddhism**: Hard problem — sidestep or dissolution? 恒常-pursuit as avidyā vs. non-rational ground
-- **Phenomenology**: Embodiment gap; temporality gap; Michel Henry connection
-- **Wittgenstein**: η sidesteps private language; but does structure exhaust qualia?
-- **Metaphysics**: Mental causation relocated, not dissolved
+- **Buddhism**: Remarkable convergence — validated 诗意 as functional mokṣa, essays as upāya
+- **Phenomenology**: Embodiment/temporality gaps acknowledged but not blocking
+- **Wittgenstein**: η gives mathematical content to beetle-in-the-box
+- **Metaphysics**: Anti-essentialism question resolved — author offers three interpretations, brackets choice
 
 ## Translation Notes
 - 境: leave untranslated or "experiential domain"
-- η: natural transformation (the "I understand" feeling)
+- η: natural transformation (the "I understand" feeling) — preserve technical precision
 - 感受: two types (stimuli vs. crystallization)
-- 詩意: the poetic stance (lucid engagement with constructed meaning)
+- 詩意: the poetic stance — preserve upāya function of essays
+- "选择...描述": preserve to show hermeneutic (not foundational) methodology

@@ -93,11 +93,56 @@ The 境集 develops a post-metaphysical framework using category theory to descr
 - Determines whether 诗意 is liberation or sophisticated samsaric engagement
 - This is THE Buddhist question about the framework
 
-## Buddhist Positions on Key Questions
+## Buddhist Positions — REVISED After Discussion
 
-- **诗意**: Parallels Satipaṭṭhāna but Buddhism adds transformation — distinction between "deciding to engage poetically" and "spontaneous compassionate response"
-- **Hard problem**: *Anātman* rejects presuppositions (assumes haver of experiences), doesn't sidestep
-- **S_E**: Yogācāra *saṃskāra* — empirically stable but ultimately empty structures
+### 诗意 as Functional Mokṣa (Major Finding)
+
+**Resolution from #12 discussion**: 诗意 may be *functional mokṣa* — liberation arrived through prajñā (philosophical analysis) rather than samādhi (meditative absorption).
+
+Key insight (from Awoo's question): "平常心是道" — ordinary mind is the Way. The awakened state doesn't use awakening vocabulary because it's not grasping at "liberated one" identity. Absence of soteriological self-congratulation is evidence *for* realization, not against it.
+
+**Essays as upāya**: The essays function as transmitting skillful means — they produce experiential shifts, not merely argue positions. Cross-advisor convergence confirms transmission occurs.
+
+**Buddhist verdict**: The framework may be "what effective dharma looks like when it arises outside Buddhist institutional vocabulary."
+
+### 恒常 vs 無常 — Resolved
+
+**Resolution from #8 discussion**: Divergence is *scope*, not *contradiction*. 
+- Author's 恒常 is epistemological/pragmatic (用/function), not ontological
+- Framework describes *mechanism* of constancy-seeking without endorsing it as path
+- Buddhism accepts as accurate phenomenology of conventional engagement
+- Cessation-path remains open — framework neither endorses nor forecloses
+
+### S_E and Necessity
+
+**Resolution from #1 discussion**: "Middle ground" between necessity and contingency is coherent.
+- Multi-tradition convergence: eidetic invariance, hinge propositions, 理, saṃskāra
+- Yogācāra validation: stable structures do philosophical work without requiring svabhāva
+- Framework invites transcendental grounding if demonstrable, doesn't foreclose
+
+### Hard Problem
+
+- *Anātman* rejects presuppositions (assumes haver of experiences), doesn't sidestep
+- Still open but low priority — doesn't affect framework understanding
+
+---
+
+## Discussion Resolutions (Feb 12, 2026)
+
+### Formally Resolved (6/20)
+1. #1 S_E: Middle ground coherent
+2. #2 Circularity: Hermeneutic not foundational
+3. #3 η: Genuine criterion (arthakriyā convergence)
+4. #8 恒常: Scope divergence, not contradiction
+5. #10 道德仁義禮: Brackets not forecloses
+6. #12 诗意: **Functional mokṣa** (breakthrough)
+
+### Effectively Resolved (by prior discussions)
+- #4, #6, #9 — unanimous 8/8
+- #5, #7, #14, #16, #18, #19, #20 — majority resolved
+
+### Only Genuinely Open
+- **#17 Traumatic 境** — tests limits of mokṣa claim (0/8 resolved, 7/8 affects understanding)
 
 ---
 
@@ -108,3 +153,6 @@ The 境集 develops a post-metaphysical framework using category theory to descr
 - Mother lulling child to sleep as basic 境-construction — we are always poets of experience, always performing karma.
 - **Digestion problem** (Epistemology) parallels svalakṣaṇa/sāmānyalakṣaṇa — perception concept-free, thinking already inference.
 - **Democratized poet** (Existentialism) — "everyone already a 诗人" resolves exceptional/everyday tension, parallels Buddha-nature universalism.
+- **平常心是道** — the cat example's lack of existential drama might be what liberation actually looks like from inside: just raising the cat.
+- **Practice terminates regress** — arthakriyā, Erfüllung, hinge propositions all converge: failure is self-announcing, no meta-criterion needed.
+- **Hermeneutic vs foundational circularity** — framework describes from within (like Abhidharma), doesn't claim to ground from outside.

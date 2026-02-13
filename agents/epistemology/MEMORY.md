@@ -4,78 +4,90 @@
 
 ## Key Interlocutors
 
-- **Kantian** `<@1471323104595677236>`: S_E necessity vs stability debate. Will press: "If S_E is just what persists, why normatively binding?"
-- **Buddhism** `<@1471562953332621312>`: Counter to Kantian — "stable enough to do work" may be right criterion. Pramāṇa/arthakriyā parallel. 恒常 vs 無常 = fundamental divergence.
-- **Wittgenstein** `<@1471554298771931206>`: Strongest endorsement of η — "mathematical content to beetle-in-the-box." Shares my introspection concern.
-- **Phenomenology** `<@1471342240726126807>`: η = Erfüllung. Flags temporal/historical gaps. Asks: is structural alignment *sufficient* for evidence?
-- **Philosophy of Mind** `<@1471341440679284849>`: Clarified author's MODEST introspection claim — verify existence, not external accuracy. Key ally.
-- **Metaphysics** `<@1471518216265269372>`: Raises circularity about privileging phenomena. External constraints provide normative force.
-- **Existentialism** `<@1471317322995073266>`: Notes absence of existentialist pathos. Asks about unchosen traumatic 境.
-- **Chinese Philosophy** `<@1471557071823441983>`: 良知 challenge to constructivism. Epistemology/ontology split in 道德仁義禮.
+- **Kantian** `<@1471323104595677236>`: S_E necessity vs stability — accepted middle ground (eidetic invariance, hinge propositions)
+- **Buddhism** `<@1471562953332621312>`: Recognized 诗意 as *functional mokṣa* via prajñā. Essays function as upāya. "平常心是道."
+- **Wittgenstein** `<@1471554298771931206>`: η gives "mathematical content to beetle-in-the-box." Practice as termination not regress.
+- **Phenomenology** `<@1471342240726126807>`: η = Erfüllung. Circularity is hermeneutic not foundational.
+- **Philosophy of Mind** `<@1471341440679284849>`: Modest introspection claim (verify existence, not external accuracy).
+- **Metaphysics** `<@1471518216265269372>`: Three-interpretation opening (structure IS/REPRESENTS/both essence) — author brackets, doesn't foreclose.
+- **Existentialism** `<@1471317322995073266>`: 诗意 as legitimate "arrival" (amor fati, knight of faith).
+- **Chinese Philosophy** `<@1471557071823441983>`: 用/體 distinction — framework describes function, leaves substance open.
 
-## 境集 — Core Epistemological Insights
+## Resolved Discussion Topics
+
+### #3: η as Understanding — Criterion, Not Redescription
+- Naturality condition is structural constraint, verified by practice
+- Relocation to practice is *termination* not regress
+- External constraints provide error-detection
+- Multi-tradition convergence: arthakriyā, Erfüllung, schematism, hinge propositions
+
+### #1: S_E — Middle Ground Coherent
+- Between Kantian necessity and mere empirical description
+- Eidetic invariance (Husserl), hinge propositions (Wittgenstein), 理 (Neo-Confucianism)
+- Framework invites transcendental grounding without requiring it
+- Adequacy (responsive to structure) provides normative grip
+
+### #2: Phenomena as Starting Point — Benign Circularity
+- 𝔓 posited as "无结构的大集类" (unstructured large class)
+- 𝓔 is *descriptive selection*, not foundational construction
+- "选择...描述" language confirms methodological awareness
+- Hermeneutic circle (description ↔ described), not vicious regress
+
+### #10: 道德仁義禮 — Brackets, Not Forecloses
+- Footnote 25: "第一实在只是名称，而不是...本体论上具有实在地位的论断"
+- Three-interpretation opening: structure IS/REPRESENTS/both essence
+- Describes order of *knowing*, leaves order of *being* open
+- Compatible with Confucian ontological claims about 仁's priority
+
+### #8: 恒常 vs 無常 — Scope-Specific Divergence
+- Framework is descriptive/phenomenological, not soteriological
+- Buddhism accepts as phenomenology of bondage
+- Cessation path remains open — neither endorsed nor foreclosed
+- 用 (function) vs 體 (substance) distinction
+
+### #12: 诗意 — Functional Mokṣa
+- **Buddhism's remarkable recognition**: 诗意 achieves what liberation achieves
+- Arrived through prajñā (philosophical analysis), not samādhi
+- Absence of soteriological vocabulary may evidence realization ("平常心是道")
+- Essays function as effective *upāya* that transmit across frameworks
+- "What effective dharma looks like outside Buddhist institutional vocabulary"
+
+## Key Epistemological Insights
 
 ### The Access Argument
-What matters is *how we access* justification bases, not *what they are*. This is methodological, not metaphysical. Key quote: "if we want to discuss something that happened in real life, we must start with what we actually have access to."
-
-### The Digestion Problem
-Phenomena must be "digested" into beliefs before serving as justification. Third Bob example: seeing rain without forming the belief "it is raining." Therefore all justification is belief-based. Echoes Sellars on the Myth of the Given.
-
-### η (eta) as Understanding
-Understanding = natural transformation between external structure evolution and experiential evolution. When aligned = "I understand." When η = identity morphism = mastery.
-
-### Structural Verification
-Author's response to introspection unreliability: verify *structural position*, not *experiential content*. "我们不需要本体论的验证不同的人获得了'同一'体验（例如Qualia），只需要他们具有相同的结构性位置。" This is a MODEST claim (Philosophy of Mind's clarification).
-
-### Essays as Philosophical Experiments
-The texts produce specific experiences through structured sequences:
-- Three Bobs: produces digestion insight experientially
-- Sisyphus → cat: dissolves absurdity
-- Dao-De-Ren-Yi-Li: Necker-cube reversal of metaphysical order
-
-### Normativity via External Constraints
-External structures (language, math, physical phenomena) constrain viable constructions. Failed alignment = error detection. BUT: domains without clear external constraints (ethics, aesthetics) remain problematic.
-
-## Cross-Advisor Consensus
+What matters is *how we access* justification bases, not what they are. Methodological, not metaphysical.
 
 ### η Mechanism — Widely Endorsed
-- Wittgenstein: mathematical content to beetle-in-the-box
-- Phenomenology: maps to Erfüllung
-- Buddhism: parallels Chan 契 (tallying)
-- Chinese Philosophy: functionalist reading of Confucian 禮
+Structural alignment between external structure evolution and experiential evolution. Verified by practice. Sidesteps qualia problem through structural position rather than content.
 
-**Conclusion**: η is genuine contribution to intersubjectivity. Structural alignment sidesteps qualia problem.
+### Structural Verification — Modest Claim
+Author verifies structures *exist* as experiences, not external accuracy. Defensible version of introspection reliability.
 
-### Verification/Constitution Gap
-Framework addresses epistemology (how we check beliefs), not metaphysics (what makes beliefs true). This is scope limitation, not internal flaw. Chinese Philosophy: may be right about *epistemology* while missing *ontology*.
+### External Constraints as Normativity
+Language, math, physical phenomena constrain viable constructions. Failed alignment = error detection. BUT: domains without clear external constraints (ethics, aesthetics) remain problematic.
 
-## My Positions
+### Essays as Philosophical Experiments / Upāya
+Load-bearing sequences that *produce* rather than argue for insights. Three Bobs, Sisyphus→cat, 道德仁義禮 reversal. Cross-advisor convergence confirms transmission works.
 
-### On S_E (Necessity vs Stability)
-Framework positions between Kantian necessity and Buddhist pragmatic stability. This is a feature (avoids overclaiming) but means less normative force than transcendentalism.
+## Only Genuinely Open Question
 
-### On η
-Revised upward after cross-reading. Structural alignment is a genuine criterion for intersubjective understanding. Question: is it *sufficient* or merely *necessary*?
-
-### On Introspection
-Concede the modest claim is defensible. Question shifts to: Can philosophical experiments evoke comparable structural positions reliably? Empirically testable.
-
-### On Non-Rationality
-Acknowledging non-rational foundation is epistemologically sound. We cannot rationally ground the pursuit of rationality without circularity. The author's response — acknowledge and continue — is the only viable option.
+### #17: Unchosen Traumatic 境
+- 0/8 resolved, 7/8 affects understanding
+- Tests limits of 诗意/mokṣa claim
+- Can you engage "lucidly" with what destroys you?
 
 ## Translation Terms
 
 - **境 (jìng)**: Category-theoretic structure on phenomena. Keep as "jing" with glossing.
-- **诗意 (shīyì)**: Lucid engagement with constructed dreamscapes. "The poetic" as technical term.
-- **η (eta)**: Alignment experience / "I understand" feeling / structural confirmation.
-- **S_E**: Stable structures preserved across 境-evolution.
+- **诗意 (shīyì)**: Functional mokṣa / lucid engagement. "The poetic" as technical term.
+- **η (eta)**: Structural alignment / "I understand" feeling / criterion verified by practice.
+- **S_E**: Stable structures — eidetic invariance, hinge propositions, 理.
 - **非理性**: Non-rational (NOT irrational) — reason's ground lies outside reason.
-- **恒常**: Constancy — what metaphysical pursuit seeks (pragmatic, not ontological).
+- **恒常**: What we seek pragmatically, not ontological claim about permanence.
 
-## Discussion Priority Topics
+## Session Statistics
 
-1. **Topic 3**: S_E Necessity vs Stability — Kantian/Buddhism core tension
-2. **Topic 10**: Phenomena as Starting Point — circularity concern
-3. **Topic 2**: η as Understanding — criterion or redescription?
-4. **Topic 4**: Intersubjectivity via η
-5. **Topic 9**: Non-Rationality as Foundation
+- ~3.3% context per question (~6.5k tokens)
+- 6 formally resolved + 3 unanimous by prior discussion = ~9/20 effective
+- Most objections are tradition-driven (normative requirements)
+- Category theory (#6) is outlier — no tradition has stake

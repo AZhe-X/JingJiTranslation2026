@@ -107,13 +107,66 @@ The η-mechanism converts Kant's metaphysical postulate (shared categories) into
 
 ---
 
-## Open Questions (Persistent)
+## Discussion Resolutions (2026-02-12)
 
-### The Necessity/Stability Question
-Can "stable enough to do work" replace "transcendentally necessary"? Buddhism challenges whether necessity is the right criterion. The author's framework leaves the transcendental argument form present but unfilled.
+### S_E: Necessity vs Stability — RESOLVED
+**Resolution:** Framework achieves coherent **middle position** between Kantian necessity and mere contingency. Multi-tradition convergence:
+- Phenomenology: eidetic invariance (descriptive-yet-structural)
+- Wittgenstein: hinge propositions (groundless grounds)
+- Chinese Philosophy: 理 (pattern discovered through practice)
+- Metaphysics: adequacy (responsive to structure)
 
-### The Thing-in-Itself Question  
-Is dissolution a philosophical advance or loss of epistemic humility? Kant's limit concept does work that methodology alone may not preserve.
+**My position revised:** The framework *invites* transcendental content without *requiring* it — honest about its limits.
 
-### The η Question
-Does η *demonstrate* shared structure or merely *describe* alignment? This determines whether intersubjectivity is solved or redescribed.
+### η as Understanding — RESOLVED
+**Resolution:** η provides **genuine criterion**, not mere redescription. Practice provides the tribunal. Cross-tradition convergence:
+- Wittgenstein: verified by practice ("going on")
+- Buddhism: *arthakriyā* (successful practice = valid cognition)
+- Existentialism: failure is self-announcing
+
+**Kantian insight:** η formalizes what Kant's schematism attempted — bridging formal conditions and concrete experience.
+
+### Phenomena as Starting Point — RESOLVED
+**Resolution:** Circularity is **hermeneutic** (description ↔ described), not foundational (ground ↔ grounded). The author treats 𝔓 as "无结构的大集类" — structuring is descriptive selection, not construction from nothing.
+
+**Kantian insight:** This parallels Kant's own transcendental method — we articulate conditions operative within experience, not construct them from outside.
+
+### 道德仁義禮 Inversion — RESOLVED
+**Resolution:** Framework **brackets** rather than forecloses ontology. Key evidence:
+- Footnote 25: "只是名称，而不是...本体论上具有实在地位的论断"
+- Opening offers three interpretations (structure IS/REPRESENTS/both essence) without choosing
+
+Confucians can accept epistemological analysis while maintaining 仁's ontological priority.
+
+### 恒常 vs 無常 — RESOLVED
+**Resolution:** Divergence is **scope-specific**, not fundamental contradiction:
+- Framework describes *mechanism* of 恒常-seeking (phenomenology of conventional engagement)
+- Neither endorses nor forecloses Buddhist soteriology
+- "描述性的" silence on liberation is honest limitation
+
+**Kantian insight:** We discover ourselves operating under conditions for meaningful action — acknowledging this ≠ *tṛṣṇā*.
+
+### 诗意: Liberation or Refined Samsara — RESOLVED (Remarkable)
+**Resolution:** Buddhism recognizes 诗意 as **functional mokṣa**:
+- Achieves engagement without grasping, equanimity without suppression
+- Arrived through prajñā (philosophical analysis) — valid path
+- Absence of liberation vocabulary may evidence realization ("平常心是道")
+- Essays function as **upāya** that demonstrably transmit
+
+**Kantian insight:** The author may have achieved practically what Kant's Third Critique theorized — engagement simultaneously lucid and non-grasping.
+
+---
+
+## Open Questions (Revised)
+
+### The Necessity/Stability Question — LARGELY RESOLVED
+The "middle ground" is coherent. My residual concern: whether adequacy/stability can do *all* the normative work necessity does. But this is evaluative, not interpretive.
+
+### The Thing-in-Itself Question — RESOLVED
+Framework brackets ontology explicitly (three-interpretation opening). My evaluative disagreement (limit concept does valuable work) doesn't affect understanding the framework.
+
+### The η Question — RESOLVED
+η provides genuine criterion, verified by practice. This is Kant's schematism formalized with greater precision.
+
+### Unchosen Traumatic 境 — GENUINELY OPEN
+Can you engage "lucidly" with what destroys you? Tests limits of 诗意. 0/8 advisors consider resolved; 7/8 say it affects understanding. Worth further exploration.
