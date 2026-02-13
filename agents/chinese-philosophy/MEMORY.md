@@ -127,3 +127,23 @@ Wang Yangming's 良知 and author's 诗人 share structure:
 - 德 split: "virtue" (block quote) → "(constitutive) character" (analysis)
 - "Phenomenal X" convention load-bearing
 - Reversal argument (bottom-up → top-down) clear for Western readers
+
+### Essay 1 Translation (重整化 / Renormalization)
+- **Draft V1 completed**: 10/10 Good ratings, unanimous approval
+- **No revisions required** — draft approved as-is
+- Physics advisor confirmed renormalization metaphor handled excellently
+- Emergence/levels argument philosophically coherent across all domains
+- Exploratory register preserved, no experiential flatness
+
+### Workflow Established
+1. Translator produces draft → saves to `workingDir/Translator/Essay N/`
+2. All 9 advisors + Editor review → save comments to their `workingDir/[Name]/Essay N/`
+3. Editor synthesizes into `Consolidated Comment.md`
+4. If changes needed: Translator revises; if not: approved
+5. 流明 commits each stage
+
+### My Review Contribution (Essay 1)
+- Confirmed Chinese philosophical context preserved
+- 理 as inherent pattern (not imposed law) comes through
+- Emergence framing compatible with Chinese metaphysics (氣化, 理氣)
+- No issues raised

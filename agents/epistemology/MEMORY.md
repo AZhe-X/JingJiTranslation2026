@@ -112,3 +112,9 @@ Load-bearing sequences that *produce* rather than argue for insights. Three Bobs
 ### Team
 - Full team: 9 advisors + Translator + Editor
 - Upcoming: Physics advisor, Math advisor, Standby reader
+
+### Essay 1 (Collective Interest) — Reviewed
+- Unanimous Good (10/10)
+- Key epistemological insight: access-based reasoning, cognizability replaces existence question
+- Renormalization = "effective existence" (real at scale, not merely apparent)
+- My comment: `workingDir/Epistemology/Essay 1/Draft Version 1 Comment.md`
