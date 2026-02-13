@@ -101,4 +101,29 @@ The author declines to choose, saying only that *in practice* we can access stru
 
 ---
 
+## Topic #8 — 恒常 vs 無常
+
+**Question:** Buddhism treats pursuit of constancy as avidyā (ignorance) to be overcome; the author treats it as irreducible non-rational ground to acknowledge. Fundamental divergence or compatible reframing?
+
+**Opening:** Buddhism articulated the challenge: pursuit of constancy (*nitya*) is rooted in *avidyā* and constitutes suffering's origin. When the author says 恒常-seeking is "非理性的" and "应当被承认," Buddhism would say: yes, it's non-rational — it's ignorance that binds beings to saṃsāra. Acknowledging it as "irreducible ground" risks enshrining ignorance rather than dissolving it.
+
+**Key distinction:** Is the author *describing* the mechanism of samsaric engagement (how ignorance operates), or *endorsing* it as the final word (how we should live)?
+
+**Resolution:** The divergence is one of **scope**, not **contradiction**:
+1. The author's 恒常 is explicitly *epistemological/pragmatic* — what we seek to act meaningfully — not ontological claim that constancy exists
+2. The framework is *descriptive* ("描述性的") — it describes how 恒常-seeking operates without soteriological commitment
+3. This makes it compatible with Buddhism as **phenomenology of bondage** — accurate description of conventional operation
+4. The framework neither endorses nor forecloses cessation — honest silence on liberation, not hidden endorsement of grasping
+5. Buddhist soteriology remains open as a **further move** the framework doesn't require but doesn't prevent
+
+**Cross-tradition notes:**
+- **Existentialism:** The framework offers lucid engagement (Kierkegaard's faith, Nietzsche's amor fati), not liberation — a legitimate stance: clarity about condition, not escape from it
+- **Chinese Philosophy:** 體/用 distinction — framework describes 用 (function) while leaving 體 (substance) questions open
+
+**Consensus:** Clarified. The divergence is genuine but well-defined: different projects (engagement vs. liberation) that are compatible at the descriptive level.
+
+**Translation implication:** Present the framework's stance on 恒常 as descriptive/phenomenological, noting that soteriological traditions may add further moves the framework leaves open.
+
+---
+
 *Updated 2026-02-12*

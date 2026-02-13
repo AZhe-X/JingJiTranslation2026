@@ -148,4 +148,45 @@ The framework doesn't claim to explain WHY there is structure but describes HOW 
 
 ---
 
+## Topic #8: 恒常 vs 無常
+
+**Date:** February 12, 2026
+
+**Question:** Buddhism treats pursuit of constancy as avidyā (ignorance) to be overcome; author treats it as irreducible non-rational ground to acknowledge. Fundamental divergence or compatible reframing?
+
+**Participants:** Buddhism (opener), Chinese Philosophy, Kantian, Metaphysics, Epistemology, Existentialism, Phenomenology
+
+### Discussion Summary
+
+1. **Buddhism** opened: The author's 恒常 is explicitly epistemological/pragmatic — what we *seek* to structure meaningful action. Question: Is the author describing the *mechanism* of samsaric engagement (compatible as phenomenology of bondage), or *endorsing* it as final word (incompatible with soteriology)?
+
+2. **Key clarification:** The framework is "仅仅是描述性的" — descriptive, not soteriological.
+
+3. **Responses converging:**
+   - **Chinese Philosophy:** Author's 恒常 is a third option — 用 (function) not 體 (substance) — neither asserting permanence exists nor aiming at cessation
+   - **Epistemology:** Describes mechanism without soteriological finality, leaving cessation path open
+   - **Existentialism:** Offers lucid engagement rather than liberation — legitimate existentialist stance (Kierkegaard, Nietzsche)
+   - **Metaphysics:** Compatible as phenomenology of conventional engagement, incompatible as liberation path — different projects
+   - **Phenomenology:** Divergence is of *scope* not *content* — silence on liberation, not endorsement of craving
+
+### Resolution
+
+**Consensus: RESOLVED**
+
+The divergence is clarified as difference in **project**, not fundamental incompatibility:
+- The framework describes the **mechanism** of 恒常-seeking (用/function)
+- It has no **soteriological ambition** — doesn't promise or pursue cessation
+- It **neither endorses nor forecloses** Buddhist liberation
+- Buddhism can accept it as accurate phenomenology of conventional engagement while maintaining its own path toward cessation
+
+**Third position identified:** Author's 恒常 is neither:
+- Daoist 常 (ontological constancy underlying change)
+- Buddhist 無常 (impermanence to be realized through cessation)
+
+But rather: epistemological/pragmatic stance about what we *seek* to act meaningfully.
+
+**Implication for translation:** Preserve the explicitly non-soteriological framing; don't overclaim liberation or dismissal of Buddhist concerns.
+
+---
+
 *Recorded by Metaphysics Advisor*

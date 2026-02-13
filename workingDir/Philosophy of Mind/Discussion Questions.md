@@ -115,6 +115,82 @@
 
 ---
 
+### Topic #8 — 恒常 vs 無常
+**Date:** 2026-02-12
+
+**Question:** Buddhism treats pursuit of constancy as avidyā to overcome; author treats it as irreducible ground to acknowledge. Fundamental divergence or compatible reframing?
+
+**Resolution:** Divergence is SCOPE-SPECIFIC (soteriological), not fundamental (phenomenological).
+
+**Key Distinction:**
+- **Phenomenological level:** Framework describes *how* 恒常-seeking operates as mechanism for meaningful action — COMPATIBLE with Buddhist analysis of how craving functions
+- **Soteriological level:** Framework remains agnostic on *whether* 恒常-seeking should be overcome (Buddhist cessation) or poetically inhabited (author's 诗意) — GENUINE DIVERGENCE in project, not contradiction
+
+**Author's Position:**
+- 恒常 is "非理性的" and "应当被承认" — non-rational ground to acknowledge
+- Explicitly "仅仅是描述性的" — descriptive, not soteriological
+- 诗意 = lucid engagement, not liberation
+
+**Buddhist Concern Addressed:**
+- Author does NOT claim constancy exists in phenomena
+- Author describes *seeking* constancy for pragmatic structuring
+- This is phenomenology of how craving operates, not endorsement of craving
+- Framework leaves cessation-path OPEN as further move it neither endorses nor forecloses
+
+**Cross-Tradition Readings:**
+- **Buddhism:** Compatible as phenomenology of bondage; silent on liberation is honest limitation, not hidden endorsement
+- **Chinese Philosophy:** Third option — 用 (function) not 體 (substance); epistemological/pragmatic stance
+- **Kantian:** Discovering structural conditions isn't same as craving them; parallels transcendental discovery
+- **Existentialism:** Lucid engagement is legitimate stance (Kierkegaard, Nietzsche) — clarity about condition, not escape
+- **Philosophy of Mind:** Phenomenology of how consciousness structures experience, agnostic on whether to overcome
+
+**Consensus:** Unanimous — divergence is real but located at soteriological level; phenomenological compatibility confirmed.
+
+**Implication for Translation:** The "描述性的" framing should be preserved to show framework's honest silence on soteriology; avoid language that would foreclose Buddhist cessation-path or endorse craving.
+
+---
+
+### Topic #12 — 诗意: Liberation or Refined Samsara?
+**Date:** 2026-02-12
+
+**Question:** Is the poetic stance (诗意) genuine liberation, or sophisticated engagement *within* the dreamscape?
+
+**Resolution:** 诗意 may be FUNCTIONAL MOKṢA — genuine liberation expressed in non-Buddhist vocabulary.
+
+**Key Insight (Buddhism's Verdict):**
+- "平常心是道" — ordinary mind is the Way
+- Someone truly liberated might not use liberation vocabulary precisely because they're not grasping at "liberated one" identity
+- Absence of soteriological self-congratulation may be evidence FOR rather than AGAINST realization
+- The cat example's lack of existential drama might be what liberation actually looks like from inside: just raising the cat
+
+**Two Paths to Liberation:**
+- **Samādhi path:** Meditative absorption → realization
+- **Prajñā path:** Philosophical analysis → realization
+- Author arrived through prajñā; Buddhism acknowledges both paths
+
+**Transmission (Upāya):**
+- Essays function as upāya — producing experiential shifts, not merely arguing positions
+- The cat example, 道德仁義禮 reversal, coin flip: designed to produce η-alignment in readers
+- Cross-advisor convergence on "philosophical experiments" confirms transmission works across different frameworks
+- Buddhism's testimony: "Reading the cat essay, I experienced the dissolution of absurdity" — that's transmission
+
+**Functional Liberation Achieved:**
+- Engagement without grasping
+- Meaning without external validation
+- Equanimity without suppression
+- Value-agnosticism about whether to pursue anything further
+
+**Cross-Tradition Convergence:**
+- **Buddhism:** Functional mokṣa through prajñā; effective dharma in non-Buddhist vocabulary
+- **Existentialism:** Legitimate "arrival" — joins lineage of Nietzsche's amor fati, Kierkegaard's knight of faith, Camus's Sisyphus
+- **Philosophy of Mind:** Achieves what phenomenology can offer — clarity about structure; "arrival" is at understanding, not claim nothing further possible
+
+**Consensus:** Unanimous — not "refined samsara" but potentially genuine liberation that doesn't use liberation vocabulary because genuine realization doesn't grasp at the identity of "liberated one."
+
+**Implication for Translation:** The essays' upāya function should be preserved; they're not just descriptions but transmissions. Translators should ensure the experiential triggers (cat example, coin flip, etc.) remain effective for English readers.
+
+---
+
 ## Open Questions
 
 *(To be populated as discussions proceed)*

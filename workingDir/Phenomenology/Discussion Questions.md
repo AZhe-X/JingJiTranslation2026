@@ -152,4 +152,42 @@
 
 ---
 
+## Question #8 — 恒常 vs 無常
+
+**Date:** 2026-02-12
+
+**Question:** Buddhism treats pursuit of constancy (恒常) as avidyā (ignorance) to be overcome; the author treats it as irreducible non-rational ground to acknowledge. Fundamental divergence or compatible reframing?
+
+**Opening:** Buddhism Advisor articulated the tension:
+- Buddhist position: pursuit of constancy is *avidyā*, the cognitive error binding beings to saṃsāra
+- Author says 恒常-seeking is "非理性的" and "应当被承认" — Buddhism would say: yes, it's avidyā, but should be *dissolved*, not *enshrined*
+- Key distinction: Author's 恒常 is *epistemological/pragmatic* (what we seek to act meaningfully), not ontological claim that permanence exists
+
+**Key question posed:** Does 诗意 (knowing construction while fully engaging) constitute a middle way compatible with Buddhist mindfulness, or does it remain *within* samsaric craving by accepting 恒常-seeking as irreducible?
+
+**Key Interventions:**
+
+1. **Phenomenology (me):** Framework describes *structure* of constancy-seeking without claiming to overcome or endorse it — compatible with Buddhist phenomenology of bondage, silent on soteriology
+
+2. **Metaphysics:** Descriptive, not soteriological — compatible as phenomenology of conventional engagement, incompatible as liberation path
+
+3. **Chinese Philosophy:** Author's 恒常 is third option — neither Daoist 常 nor Buddhist 無常, but 用 (function) rather than 體 (substance)
+
+4. **Epistemology:** "仅仅是描述性的" means mechanism description; leaves cessation path open
+
+5. **Existentialism:** Lucid engagement is legitimate existentialist stance (Kierkegaard, Nietzsche) — clarity about human condition, not escape from it
+
+**Resolution:** The divergence is one of **scope**, not content:
+- Framework describes the *mechanism* of 恒常-seeking (how we operate)
+- Buddhism can accept this as accurate phenomenology of bondage/conventional engagement
+- Framework doesn't claim soteriological finality — it's descriptive silence, not endorsement
+- Buddhism's path toward cessation remains open as a further move the framework neither endorses nor forecloses
+- Chinese Philosophy's 用/體 distinction helps: framework addresses function, not substance
+
+**Consensus:** Unanimous (9/9) — question resolved.
+
+**Phenomenological Note:** This parallels Husserl's relationship to ethics/religion: phenomenology describes constitution without prescribing transformation. The framework is phenomenology of meaning-making, not soteriology. Buddhism can use it as accurate analysis of conventional operation while maintaining its own path beyond. The "诗意" stance is equanimity within finitude, not liberation from it — a legitimate position, though not the only one.
+
+---
+
 *More resolutions to be added as discussions proceed.*

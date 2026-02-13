@@ -22,7 +22,7 @@ Aggregated from all 9 advisor rankings:
 | 9 | 17 | Thing-in-Itself Dissolution | 2/7 | 6Y/3N |
 | 10 | 14 | 道德仁義禮 Inversion | 1/8 (Framework) | 9Y/0N | ✅ RESOLVED |
 | 11 | 5 | Hard Problem: Sidestepped or Dissolved? | 9/0 (General) | 5Y/4N |
-| 12 | 6 | 诗意: Liberation or Refined Samsara? | 0/9 (Framework) | 1Y/8N |
+| 12 | 6 | 诗意: Liberation or Refined Samsara? | 0/9 (Framework) | 1Y/8N | ✅ RESOLVED |
 | 13 | 8 | Death and Heidegger | 4/5 | 9Y/0N |
 | 14 | 11 | Absence of Body/Embodiment | 5/4 | 9Y/0N |
 | 15 | 12 | Temporality: Discrete vs Continuous | 2/7 | 9Y/0N |
@@ -110,7 +110,7 @@ Does starting from phenomena sidestep or dissolve the hard problem? Does anātma
 
 ---
 
-## 6. 诗意: Liberation or Refined Samsara?
+## 6. 诗意: Liberation or Refined Samsara? — ✅ RESOLVED
 Is the poetic stance genuine liberation, or sophisticated engagement *within* the dreamscape?
 
 **Participants:** Buddhism, Chinese Philosophy, Existentialism
@@ -120,6 +120,8 @@ Is the poetic stance genuine liberation, or sophisticated engagement *within* th
 - Buddhism: does this *liberate* from duḥkha or refine engagement *within* it?
 - Buddhist 方便 uses constructs as rafts to abandon; 诗意 accepts the raft as home
 - Parallels with Kierkegaard's stages — closer to religious (faith through groundlessness) than aesthetic (ironic play)?
+
+**Resolution (2026-02-12):** 诗意 may be **functional mokṣa** expressed in non-Buddhist vocabulary. Buddhism's verdict: engagement without grasping achieved through prajñā (not samādhi), absence of liberation vocabulary may evidence realization ("平常心是道"), essays function as upāya that transmit. Not "refined samsara" but potentially genuine liberation. **9/9 consensus.**
 
 ---
 

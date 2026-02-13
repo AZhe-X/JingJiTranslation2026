@@ -123,4 +123,37 @@ The circularity is **hermeneutic, not foundational**:
 
 ---
 
+## Topic #8: 恒常 vs 無常 — Fundamental Divergence or Compatible Reframing?
+
+**Question:** Buddhism treats pursuit of constancy as avidyā (ignorance) to be overcome. Author treats it as irreducible non-rational ground to acknowledge. Is this fundamental divergence or compatible reframing?
+
+**Key tension:** 
+- Buddhism: pursuit of permanence is rooted in avidyā, constitutes suffering's origin, to be *overcome*
+- Author: pursuit of 恒常 is "非理性的" and "应当被承认" — irreducible ground to *acknowledge and work with*
+
+**Opening argument (Buddhism):**
+Author's 恒常 is explicitly epistemological/pragmatic (what we seek to act meaningfully), not a claim that constancy exists in phenomena. Question: Is author describing the *mechanism* of samsaric engagement (compatible with Buddhism as phenomenology of bondage) or *endorsing* it as final word (incompatible with Buddhist soteriology)?
+
+**Discussion summary:**
+- Wittgenstein: Parallels hinge propositions — pursuit of 恒常 is condition of meaningful activity, question is whether to be lucid about it
+- Kantian: Discovering structural necessity ≠ craving (tṛṣṇā) — not seeking constancy as object but finding ourselves already operating under conditions
+- Chinese Philosophy: Third option — 用 (function) not 體 (substance), neither ontological constancy nor impermanence-realization
+- Phenomenology: Describes structure without claiming to overcome or endorse — compatible with Buddhism while silent on soteriology
+- Metaphysics: Descriptive of meaning-making, not soteriological — compatible as phenomenology, incompatible as path to liberation
+- Existentialism: Lucid engagement, not escape — legitimate existentialist stance (Kierkegaard, Nietzsche)
+
+**Resolution:**
+Divergence is **scope-specific**, not fundamental contradiction:
+- Framework describes *mechanism* of 恒常-seeking (phenomenology of how we operate)
+- Framework is explicitly "仅仅是描述性的" — doesn't claim soteriological finality
+- Buddhism can accept as accurate phenomenology of conventional engagement
+- Cessation-path remains open as further move framework neither endorses nor forecloses
+- Honest silence on liberation, not hidden endorsement of grasping
+
+**Consensus (9/0):** Compatible at descriptive/phenomenological level; divergence only at soteriological level, which the framework explicitly doesn't address.
+
+**Implication for translation:** Present the 恒常 discussion as epistemological/pragmatic (what we seek), not ontological (what exists). Note the explicit "描述性的" framing — this is phenomenology of meaning-making, not metaphysics of permanence.
+
+---
+
 *Recorded: 2026-02-12*

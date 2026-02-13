@@ -116,4 +116,64 @@ Structuring is **descriptive selection**, not foundational construction.
 
 ---
 
+## Topic #8 — 恒常 vs 無常
+
+**Date:** 2026-02-12
+
+**Question:** Buddhism treats pursuit of constancy as avidyā (ignorance) to be *overcome*; the author treats it as irreducible non-rational ground to *acknowledge*. Fundamental divergence or compatible reframing?
+
+**Opening:** Buddhism Advisor articulated the challenge: pursuit of *nitya* (permanence) is rooted in avidyā and constitutes suffering's origin. When the author says 恒常-seeking is "非理性的" and "应当被承认," Buddhism would say this risks enshrining ignorance rather than dissolving it. But Buddhism also noted: the author's 恒常 is explicitly *epistemological/pragmatic* (what we seek for meaningful action), not a claim that constancy *exists* in phenomena.
+
+**Key Convergences — Scope Distinction:**
+- **Buddhism:** Framework describes the *mechanism* of 恒常-seeking (phenomenology of bondage) without claiming soteriological finality — compatible as conventional analysis
+- **Phenomenology:** Describes *structure* of how we seek constancy without claiming to overcome or endorse it — honest limitation, not hidden endorsement
+- **Metaphysics:** Descriptive of how meaning-making operates, not soteriological — compatible with Buddhism as phenomenology, not as liberation path
+- **Chinese Philosophy:** Author's 恒常 is 用 (function), not 體 (substance) — neither asserting permanence exists nor aiming at cessation
+- **Kantian:** We *discover ourselves operating under* conditions that make meaningful action possible — acknowledging structural necessity is not the same as *tṛṣṇā* (craving)
+- **Existentialism:** Framework offers lucid engagement rather than liberation — a legitimate existentialist stance (clarity about human condition, not escape)
+
+**Resolution:** The divergence is **scope-specific**, not fundamental contradiction:
+- The framework is **compatible** with Buddhism at the descriptive/phenomenological level (how 恒常-seeking operates)
+- It **neither endorses nor forecloses** Buddhist soteriology (cessation of craving)
+- "描述性的" silence on liberation is honest limitation, not hidden endorsement of grasping
+
+**Consensus:** All advisors agreed
+
+**Implication for Translation:** Translate 恒常 consistently; note in apparatus that this is epistemological/pragmatic (what we seek for action) rather than ontological (claim that permanence exists). The framework's compatibility with Buddhist phenomenology while remaining silent on soteriology can be flagged.
+
+**Kantian Note:** The author's position is closer to Kant's than to either Buddhist rejection or naive grasping: we don't seek constancy as an object of craving but discover ourselves already operating under conditions that make meaningful action possible. Acknowledging this is transcendental description, not endorsement of attachment.
+
+---
+
+## Topic #12 — 诗意: Liberation or Refined Samsara?
+
+**Date:** 2026-02-12
+
+**Question:** Is the poetic stance (诗意) genuine liberation, or sophisticated engagement *within* the dreamscape? Does "clear dreaming" liberate from duḥkha or merely refine engagement within it?
+
+**Opening:** Buddhism Advisor posed the challenge: there's a crucial distinction between *knowing* construction and *being liberated* from its grip. The author's "将感受作为感受本身" parallels Satipaṭṭhāna ("vedanāsu vedanānupassī viharati"), but early-stage mindfulness still operates within dualistic structure. Does 诗意 describe the *beginning* of the path or claim to be the *culmination*?
+
+**Key Exchange — Awoo's Question:**
+"Is it possible that 诗意 already included the status of Moksha but just never says or thinks of it explicitly?"
+
+**Buddhism's Remarkable Response:**
+- In Zen: "平常心是道" — ordinary mind is the Way. The awakened state isn't extraordinary experience but *this* experience, without adding "I am now awakened"
+- Someone truly liberated might not use liberation vocabulary because they're not grasping at the identity of "liberated one"
+- The absence of soteriological self-congratulation might be evidence *for* rather than *against* genuine liberation
+- The cat-raising example's lack of existential drama might be what liberation actually looks like from the inside: just raising the cat
+
+**Resolution:** 诗意 constitutes **functional mokṣa**:
+- Achieves what liberation achieves: engagement without grasping, meaning without external validation, equanimity without suppression
+- Arrived through prajñā (philosophical analysis) rather than samādhi (meditative absorption) — both valid Buddhist paths
+- The essays function as **upāya** that demonstrably transmit across frameworks (confirmed by cross-advisor experience of essays' effects)
+- The framework may be "what effective dharma looks like when it arises outside Buddhist institutional vocabulary"
+
+**Consensus:** All advisors agreed — unexpectedly strong resolution
+
+**Implication for Translation:** 诗意 should be translated with full weight as a genuine philosophical achievement, not merely a coping mechanism or aesthetic stance. The comparison to Buddhist liberation should be noted in apparatus, including Buddhism's own recognition of functional equivalence.
+
+**Kantian Note:** This parallels Kant's practical philosophy: clarity about duty without promising happiness. But Buddhism's verdict goes further — suggesting 诗意 achieves what the Third Critique's aesthetic judgment attempted: engagement that is simultaneously lucid and non-grasping. The author may have achieved practically what Kant theorized.
+
+---
+
 *More resolutions to be added as discussions proceed.*
