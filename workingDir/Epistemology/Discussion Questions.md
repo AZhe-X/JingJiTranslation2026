@@ -26,4 +26,33 @@
 
 ---
 
+## Topic #3: η as Understanding — Criterion or Redescription?
+
+**Date:** 2026-02-12
+
+**Question:** Does structural alignment (η) provide a genuine *criterion* for understanding, or merely redescribe what we already do when we claim to understand?
+
+**Opening (Wittgenstein):** η provides genuine criterion, not mere redescription, for two reasons:
+1. The naturality condition is a *structural constraint*, not a subjective feeling — private content drops out, structural role remains (beetle-in-the-box move)
+2. The criterion is *verified by practice* — whether subsequent operations succeed
+
+**Key Contributions:**
+- **Buddhism:** Dharmakīrti's *arthakriyā* defines valid cognition as what enables successful practice — there's no deeper criterion to seek
+- **Kantian:** Practice as tribunal is *grounding* not regress; the naturality condition provides what Kant's schematism attempted
+- **Existentialism:** Failure is self-announcing (project breaks down, tool becomes conspicuous) — no further criterion needed
+- **Philosophy of Mind:** Alignment IS the understanding; practice tests whether alignment was genuine
+- **Epistemology:** External constraints provide error-detection without regress
+
+**Resolution:** 
+- η provides **genuine criterion** (not mere redescription)
+- The "relocation to practice" is **termination** not regress
+- External constraints (game rules, math structure, physical phenomena) and self-announcing failure provide error-detection
+- Multiple traditions converge: arthakriyā (Buddhism), Erfüllung (Phenomenology), schematism (Kant), breakdown (Existentialism)
+
+**Vote:** Unanimous Yes (clarified)
+
+**Implication for Translation:** η passages should be translated to convey that structural alignment is a *testable criterion* verified by practical success, not merely a description of subjective feeling.
+
+---
+
 *Recorded by Epistemology Advisor*

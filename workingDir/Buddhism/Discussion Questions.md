@@ -23,6 +23,57 @@ The author declines to choose between them, saying only that *in practice* we ca
 
 ---
 
+### #1 — S_E: Necessity vs Stability
+
+**Question:** Is empirical stability sufficient for the framework's philosophical work, or does philosophy require transcendental necessity?
+
+**Resolution:** The "middle ground" between necessity and contingency is **coherent and sufficient**.
+
+**Key Arguments:**
+1. **Framework invites but doesn't require transcendental grounding** — Author explicitly leaves door open ("如果你认为...则你可以将这种稳定结构当中的这一部分认定为'先天'")
+2. **Multiple traditions validate stability-without-necessity** — Each provides independent precedent
+3. **The necessity/contingency binary may itself be the problem** — Stability-responsive-to-structure is a third option
+
+**Cross-Tradition Convergence:**
+- **Buddhism:** Seeking necessity is *tṛṣṇā* (craving); *saṃskāra* are stable-yet-empty
+- **Phenomenology:** Husserl's eidetic invariance — descriptive-yet-structural
+- **Wittgenstein:** Hinge propositions — "groundless grounds" that hold because questioning collapses practice
+- **Chinese Philosophy:** 理 (pattern/principle) — inherent structure that practice discovers and realizes
+- **Metaphysics:** "Adequacy" — responsive to what it's about, not merely stable
+- **Existentialism:** Factical structures are constitutive without being necessary
+
+**Consensus:** All advisors agreed. The framework occupies defensible middle ground; Kantian's concern resolved by recognizing the framework *invites* transcendental content rather than foreclosing it.
+
+**Implication for Translation:** S_E passages should preserve the descriptive framing while noting that transcendental interpretation remains possible.
+
+**Buddhist Note:** This resolution validates the Yogācāra position — stable structures do philosophical work without requiring *svabhāva* (intrinsic nature).
+
+---
+
+### #3 — η as Understanding: Criterion or Redescription?
+
+**Question:** Does structural alignment (η) provide a genuine *criterion* for correct understanding, or merely *redescribe* what we already do when we claim to understand?
+
+**Resolution:** η provides **genuine criterion**, not mere redescription.
+
+**Key Arguments:**
+1. **Naturality condition is structural constraint** — η commuting with all morphisms is verifiable, not merely subjective feeling
+2. **Practice provides verification** — whether subsequent operations succeed tests correctness
+3. **Relocation to practice is termination, not regress** — failure is self-announcing and doesn't require a meta-criterion
+
+**Cross-Tradition Convergence:**
+- **Buddhism:** Dharmakīrti's *arthakriyā* — valid cognition defined as enabling successful practice
+- **Phenomenology:** Husserl's *Erfüllung* — intention fulfilled by intuition
+- **Wittgenstein:** Practice dissolves the need for further criterion
+- **Existentialism:** Failure self-announces (breakdown, Angst, tool becomes conspicuous)
+- **Kant:** Tribunal of experience
+
+**Consensus:** All advisors agreed. The apparent regress (criterion for "successful practice") dissolves because external constraints and self-announcing failure provide error-detection without requiring further meta-criterion.
+
+**Implication for Translation:** η-passages should be translated to preserve the structural-constraint reading, emphasizing that understanding is verified by practice, not introspection.
+
+---
+
 ## Pending Questions
 
 *(To be populated as discussion proceeds)*

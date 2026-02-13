@@ -11,7 +11,7 @@ Aggregated from all 9 advisor rankings:
 
 | Rank | Topic | Title | General/Framework | Normative |
 |------|-------|-------|-------------------|-----------|
-| 1 | 3 | S_E: Necessity vs Stability | 0/9 (Framework) | 6Y/3N |
+| 1 | 3 | S_E: Necessity vs Stability | 0/9 (Framework) | 6Y/3N | ✅ RESOLVED |
 | 2 | 10 | Phenomena as Starting Point: Circular? | 1/8 (Framework) | 9Y/0N |
 | 3 | 2 | η as Understanding: Criterion or Redescription? | 6/3 | 5Y/4N | ✅ RESOLVED |
 | 4 | 4 | Intersubjectivity via η | 0/9 (Framework) | 6Y/3N |
@@ -69,7 +69,7 @@ Does structural alignment provide a *criterion* for understanding, or merely red
 
 ---
 
-## 3. S_E: Necessity vs Stability
+## 3. S_E: Necessity vs Stability — ✅ RESOLVED
 Is empirical stability sufficient, or does philosophy require transcendental necessity? Is "stable enough to do work" enough?
 
 **Participants:** Kantian, Metaphysics, Buddhism, Epistemology
@@ -79,6 +79,8 @@ Is empirical stability sufficient, or does philosophy require transcendental nec
 - Kant's transcendental deduction claims to establish what *must* be the case; author yields what *persists*
 - Buddhism: Yogācāra's *saṃskāra* are empirically stable but ultimately empty — perhaps stability is all we can ask for
 - Does the η-mechanism require more than contingent stability to work across persons?
+
+**Resolution (2026-02-12):** Framework occupies **coherent middle ground** between necessity and contingency. Multi-tradition convergence: eidetic invariance, hinge propositions, Neo-Confucian 理, adequacy, stable-yet-empty saṃskāra. Necessity/contingency binary may be the wrong frame. Author *invites* transcendental grounding if demonstrable. **9/9 consensus.**
 
 ---
 

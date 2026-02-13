@@ -73,4 +73,44 @@
 
 ---
 
+## Question #1 — S_E: Necessity vs Stability
+
+**Date:** 2026-02-12
+
+**Question:** Is empirical stability sufficient for philosophical work, or does philosophy require transcendental necessity? Is "stable enough to do work" enough?
+
+**Opening:** Kantian Advisor identified the core tension:
+- Kant asks "what *must* be the case?" → yields necessity
+- Author asks "what *persists*?" → yields stability
+- Author explicitly acknowledges: "这里的稳定结构仅仅是描述性的"
+- Modal concern: If S_E is merely what persists, we get descriptive anthropology, not transcendental conditions
+
+**Key question posed:** Is Buddhism right that "stable enough to do work" is appropriate, or does philosophy require modal force from transcendental arguments? Does η need necessity to ground intersubjectivity?
+
+**Key Interventions:**
+
+1. **Phenomenology (me):** The framework achieves something like Husserl's eidetic method — invariance through variation — which is descriptive-yet-structural, neither transcendental necessity nor mere empirical generalization
+
+2. **Wittgenstein:** Demand for necessity beyond stable practice is suspect — hinge propositions are what we cannot doubt *in practice*, not what is necessary *in principle*; "groundless grounds"
+
+3. **Chinese Philosophy:** Neo-Confucian 理 offers third model — neither necessity nor contingency; drop the binary altogether
+
+4. **Buddhism:** Seeking necessity beyond stability may itself be a form of grasping
+
+5. **Metaphysics:** "Adequacy" as middle ground — stability that tracks structure
+
+6. **Kantian:** Acknowledged the framework may achieve something genuinely novel; leaves door open for transcendental content if demonstrable
+
+**Resolution:** The framework occupies a **coherent middle ground** between transcendental necessity and mere empirical contingency:
+- Multiple traditions converge: eidetic invariance, hinge propositions, 理, adequacy, arthakriyā
+- The necessity/contingency binary may itself be the wrong frame
+- "Stable enough to do work" is philosophically legitimate
+- The framework *invites* rather than forecloses transcendental grounding if one can demonstrate it
+
+**Consensus:** Unanimous (9/9) — question resolved.
+
+**Phenomenological Note:** S_E parallels Husserl's eidetic invariants discovered through imaginative variation. The method is descriptive (not deductive), but the results are structural (not merely empirical). This is exactly the middle ground phenomenology has always occupied — and the framework captures it with mathematical precision through the evolution functor T.
+
+---
+
 *More resolutions to be added as discussions proceed.*

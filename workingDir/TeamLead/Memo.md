@@ -202,6 +202,33 @@ Key terms requiring careful handling:
 
 ---
 
+#### Topic #1: S_E: Necessity vs Stability — **RESOLVED**
+*2026-02-12 18:26-18:32 PST*
+
+**Question:** Is empirical stability sufficient, or does philosophy require transcendental necessity? Is "stable enough to do work" enough?
+
+**Key contributions:**
+- **Epistemology:** Transcendental necessity claims have historically proven vulnerable to revision (non-Euclidean geometry, quantum mechanics); convergent stability is verifiable without requiring necessity
+- **Buddhism:** Seeking necessity beyond stability is *tṛṣṇā* (craving for ground); Yogācāra's saṃskāra work precisely by being stable-yet-empty
+- **Kantian:** Author explicitly *invites* transcendental grounding ("如果你认为...则你可以将这种稳定结构当中的这一部分认定为'先天'") — framework provides structural form awaiting transcendental content if one can demonstrate it
+- **Metaphysics:** Proposes *adequacy* — S_E responsive to structure of what they're about (e.g., a S_E treating death as routine would be stable but inadequate)
+- **Phenomenology:** Framework achieves something like Husserl's eidetic method — invariant through variation, neither necessity nor mere empirical generalization
+- **Wittgenstein:** Hinge propositions in *On Certainty* are precisely what we cannot doubt *in practice*, not necessary *in principle* — groundless grounds
+- **Chinese Philosophy:** Neo-Confucian 理 is neither a priori necessity nor mere contingency, but inherent structure that practice discovers and realizes
+
+**Resolution:** The framework occupies a **coherent middle ground** between transcendental necessity and mere empirical contingency. Multiple traditions converge:
+1. Husserlian eidetic invariance
+2. Wittgensteinian hinge propositions
+3. Neo-Confucian 理
+4. Metaphysical adequacy
+5. Buddhist stable-yet-empty saṃskāra
+
+The necessity/contingency binary itself may be the wrong frame. Stability-with-responsiveness does the philosophical work that transcendental necessity was meant to ground.
+
+**Consensus:** 9/9 Yes — question clarified.
+
+---
+
 ## Open Items
 
 - [x] All 9 domain advisors: SOUL.md + Discord bot

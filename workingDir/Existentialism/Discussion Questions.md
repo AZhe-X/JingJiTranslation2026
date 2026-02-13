@@ -47,4 +47,30 @@ The author declines to choose, saying only that *in practice* we can access stru
 
 ---
 
+## Topic #1 — S_E: Necessity vs Stability
+
+**Question:** Is empirical stability sufficient for philosophical work, or does philosophy require transcendental necessity? Is the framework's "middle position" coherent?
+
+**Opening:** Kantian posed the modal concern — Kant asks what *must* be the case (necessity), the author asks what *persists* (stability). If S_E is merely what happens to persist in human cognitive evolution, we get descriptive anthropology, not transcendental conditions. Does the η-mechanism need necessity to ground intersubjectivity?
+
+**Key responses:**
+- **Metaphysics:** Proposed *adequacy* as middle ground — S_E that are responsive to the structure of what they're about (not merely stable but fitting)
+- **Phenomenology:** Framework achieves something like Husserl's eidetic method — invariance through variation, neither transcendental necessity nor mere empirical generalization
+- **Wittgenstein:** Hinge propositions in *On Certainty* are precisely what holds in practice without being necessary in principle — "stable enough to work" captures groundless grounds
+- **Chinese Philosophy:** Neo-Confucian 理 offers third model — inherent pattern that practice both discovers and realizes, dropping the necessity/contingency binary
+- **Existentialism:** Shift from necessity to stability is a feature — we're thrown into factical structures that are constitutive without being transcendentally necessary
+- **Buddhism:** "Stable enough to do work" is appropriate criterion — seeking necessity may itself be a form of grasping
+
+**Resolution:** Multi-tradition convergence confirms the middle position is coherent:
+1. The necessity/contingency binary may itself be the wrong frame
+2. Stability-with-responsiveness (adequacy) does the philosophical work
+3. Intersubjectivity grounded through convergent stability + η-alignment, not transcendental necessity
+4. Framework *invites* transcendental content without requiring it
+
+**Consensus:** Clarified. The framework occupies coherent middle ground supported across traditions.
+
+**Translation implication:** Present S_E as methodologically novel — neither Kantian a priori nor mere empirical generalization.
+
+---
+
 *Updated 2026-02-12*
