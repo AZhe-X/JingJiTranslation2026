@@ -20,7 +20,7 @@ Aggregated from all 9 advisor rankings:
 | 7 | 18 | Construction Choice and Relativism | 3/6 | 8Y/1N |
 | 8 | 7 | 恒常 vs 無常 | 8/1 (General) | 5Y/4N |
 | 9 | 17 | Thing-in-Itself Dissolution | 2/7 | 6Y/3N |
-| 10 | 14 | 道德仁義禮 Inversion | 1/8 (Framework) | 9Y/0N |
+| 10 | 14 | 道德仁義禮 Inversion | 1/8 (Framework) | 9Y/0N | ✅ RESOLVED |
 | 11 | 5 | Hard Problem: Sidestepped or Dissolved? | 9/0 (General) | 5Y/4N |
 | 12 | 6 | 诗意: Liberation or Refined Samsara? | 0/9 (Framework) | 1Y/8N |
 | 13 | 8 | Death and Heidegger | 4/5 | 9Y/0N |
@@ -206,7 +206,7 @@ Where is tradition, genetic phenomenology, effective-historical consciousness?
 
 ---
 
-## 14. 道德仁義禮 Inversion
+## 14. 道德仁義禮 Inversion — ✅ RESOLVED
 Right about epistemology (how we learn) but missing ontology (what's prior)?
 
 **Participants:** Chinese Philosophy, Kantian, Metaphysics
@@ -216,6 +216,8 @@ Right about epistemology (how we learn) but missing ontology (what's prior)?
 - Tradition understands: 道 → 德 → 仁 → 義 → 禮
 - May be right about *epistemology* while missing *ontology* (what's really prior)
 - Is this fair to Confucian thought or distortion?
+
+**Resolution (2026-02-12):** Author explicitly offers three interpretations in 范畴论与境 opening (structure IS essence / REPRESENTS essence / both) and declines to choose. Framework **brackets** rather than **forecloses** ontological claims. Compatible with Confucian positions on 仁's priority. **9/9 consensus.**
 
 ---
 
