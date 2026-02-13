@@ -178,6 +178,30 @@ Key terms requiring careful handling:
 
 ---
 
+#### Topic #3: η as Understanding: Criterion or Redescription? — **RESOLVED**
+*2026-02-12 17:55-18:15 PST*
+
+**Question:** Does η provide a criterion for *correct* understanding, or just characterize what we already do when we say "I understand"? Does relocating normativity to structural alignment satisfy or evade the demand for justification?
+
+**Opening:** Wittgenstein (won STV vote 5/9 first preferences)
+
+**Key contributions:**
+- **Wittgenstein:** η's correctness isn't determined by introspecting content but by whether alignment *holds up* in continued practice — public criterion, not private mental state
+- **Epistemology:** Relocation to practice *dissolves* rather than relocates the problem — practice is the *terminus* where external constraints resist arbitrary construction
+- **Buddhism:** Dharmakīrti's *arthakriyā* defines valid cognition as what enables successful practice — there's no deeper criterion to seek
+- **Phenomenology:** Erfüllung doesn't require external validation because evidence is self-legitimating; practical success is itself further η-alignment
+- **Philosophy of Mind:** η identifies understanding WITH phenomenal experience of structural alignment — practical success tests whether alignment was genuine
+- **Chinese Philosophy:** Resonates with 知行合一 but notes Confucian 知 also transforms the knower (dimension η may not capture)
+
+**Resolution:** η provides **genuine criterion** (not mere redescription). Relocation to practice is **grounding, not regress**, because:
+1. Failure is self-announcing (no meta-criterion needed)
+2. External constraints provide error-detection
+3. Convergent support from multiple traditions (arthakriyā, Erfüllung, existential breakdown, Kantian tribunal)
+
+**Consensus:** 9/9 Yes — question clarified.
+
+---
+
 ## Open Items
 
 - [x] All 9 domain advisors: SOUL.md + Discord bot

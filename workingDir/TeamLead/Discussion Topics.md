@@ -13,7 +13,7 @@ Aggregated from all 9 advisor rankings:
 |------|-------|-------|-------------------|-----------|
 | 1 | 3 | S_E: Necessity vs Stability | 0/9 (Framework) | 6Y/3N |
 | 2 | 10 | Phenomena as Starting Point: Circular? | 1/8 (Framework) | 9Y/0N |
-| 3 | 2 | η as Understanding: Criterion or Redescription? | 6/3 | 5Y/4N |
+| 3 | 2 | η as Understanding: Criterion or Redescription? | 6/3 | 5Y/4N | ✅ RESOLVED |
 | 4 | 4 | Intersubjectivity via η | 0/9 (Framework) | 6Y/3N |
 | 5 | 9 | Non-Rationality as Foundation | 6/3 | 9Y/0N |
 | 6 | 1 | Category Theory: Essential or Dispensable? | 7/2 | 8Y/1N |
@@ -54,7 +54,7 @@ Does the formalism do essential philosophical work, or could insights survive wi
 
 ---
 
-## 2. η as Understanding: Criterion or Redescription?
+## 2. η as Understanding: Criterion or Redescription? — ✅ RESOLVED
 Does structural alignment provide a *criterion* for understanding, or merely redescribe what we already do? Can it bear epistemic weight?
 
 **Participants:** Wittgenstein, Epistemology, Buddhism, Phenomenology, Philosophy of Mind
@@ -64,6 +64,8 @@ Does structural alignment provide a *criterion* for understanding, or merely red
 - Does relocating normativity to structural alignment satisfy or evade the demand for justification?
 - Parallels with Dharmakīrti's *arthakriyā* (causal efficacy as validation)
 - Is structural alignment sufficient for genuine phenomenological evidence (Erfüllung)?
+
+**Resolution (2026-02-12):** η provides **genuine criterion** (not mere redescription). Relocation to practice is **grounding, not regress** — failure is self-announcing, external constraints provide error-detection. Convergent support from arthakriyā, Erfüllung, existential breakdown, Kantian tribunal. **9/9 consensus.**
 
 ---
 
