@@ -12,7 +12,7 @@ Aggregated from all 9 advisor rankings:
 | Rank | Topic | Title | General/Framework | Normative |
 |------|-------|-------|-------------------|-----------|
 | 1 | 3 | S_E: Necessity vs Stability | 0/9 (Framework) | 6Y/3N | ✅ RESOLVED |
-| 2 | 10 | Phenomena as Starting Point: Circular? | 1/8 (Framework) | 9Y/0N |
+| 2 | 10 | Phenomena as Starting Point: Circular? | 1/8 (Framework) | 9Y/0N | ✅ RESOLVED |
 | 3 | 2 | η as Understanding: Criterion or Redescription? | 6/3 | 5Y/4N | ✅ RESOLVED |
 | 4 | 4 | Intersubjectivity via η | 0/9 (Framework) | 6Y/3N |
 | 5 | 9 | Non-Rationality as Foundation | 6/3 | 9Y/0N |
@@ -162,7 +162,7 @@ Is acknowledging non-rational ground (恒常-pursuit) honest or resignation? How
 
 ---
 
-## 10. Phenomena as Starting Point: Circular?
+## 10. Phenomena as Starting Point: Circular? — ✅ RESOLVED
 Does taking phenomena as 第一实在 presuppose structuring capacities it claims to ground?
 
 **Participants:** Metaphysics, Epistemology, Phenomenology
@@ -171,6 +171,8 @@ Does taking phenomena as 第一实在 presuppose structuring capacities it claim
 - Selecting phenomena as objects, associations as morphisms already presupposes structuring capacities
 - Is this circular, or is the circularity benign?
 - Author's move: "当我们提出第〇实在时，这个我们所提出的东西就是第二实在"
+
+**Resolution (2026-02-12):** Circularity is **hermeneutic** (description ↔ described), not **foundational** (ground ↔ grounded). 𝔓 posited as "无结构的大集类" with 𝓔 as descriptive *selection*. Cross-tradition convergence: hermeneutic circle, transcendental analysis, 格物致知, language-games, Abhidharma. **9/9 consensus.**
 
 ---
 

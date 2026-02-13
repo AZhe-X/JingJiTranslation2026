@@ -23,6 +23,33 @@ The author declines to choose between them, saying only that *in practice* we ca
 
 ---
 
+### #2 — Phenomena as Starting Point: Circular?
+
+**Question:** Does taking phenomena as 第一实在 presuppose structuring capacities the framework claims to ground?
+
+**Resolution:** The circularity is **hermeneutic** (description ↔ described), not **foundational** (ground ↔ grounded) — and therefore benign.
+
+**Key Evidence:**
+- Author frames 𝔓 as "无结构的大集类" (unstructured large class)
+- 𝓔 is *descriptive selection* from 𝔓, not construction that produces it
+- "选择...描述" language shows awareness that structuring is selection, not creation
+- Verification through introspection ("通过内省来体验和验证") confirms navigating what's already accessible
+
+**Cross-Tradition Convergence:**
+- **Phenomenology:** Husserl's "Principle of All Principles" — originary givenness presents as already structured
+- **Buddhism:** Abhidharma methodology — we attend to dharmas already given, not construct them
+- **Wittgenstein:** Grammar-description from within language-games
+- **Chinese Philosophy:** 格物致知 — investigating things to extend knowledge
+- **Kantian:** Transcendental analysis has same productive circularity
+
+**Consensus:** All advisors agreed. "Making explicit what was operative" IS the philosophical achievement — constitution analysis describes *how* structure functions, not *why* there is structure.
+
+**Implication for Translation:** The "选择...描述" language is load-bearing and should be preserved to show the framework's self-awareness about its methodological status.
+
+**Buddhist Note:** This parallels the Abhidharma project — systematic phenomenology that describes the structure of experience without claiming to explain its ultimate origin.
+
+---
+
 ### #1 — S_E: Necessity vs Stability
 
 **Question:** Is empirical stability sufficient for the framework's philosophical work, or does philosophy require transcendental necessity?

@@ -70,4 +70,76 @@ Translators can present η as the author's criterion for understanding with conf
 
 ---
 
+## Topic #1: S_E — Necessity vs Stability
+
+**Status:** RESOLVED (2026-02-12)
+
+### Question
+Is empirical stability sufficient for the framework's philosophical work, or does philosophy require transcendental necessity? Is "stable enough to do work" enough?
+
+### Key Tension
+- Kant asks: "What *must* be the case?" → yields necessity (holds for any possible experience)
+- Author asks: "What *persists*?" → yields stability (patterns that contingently survive)
+- Author explicitly: "这里的稳定结构仅仅是描述性的"
+- Modal concern: Necessity grounds normativity; stability yields descriptive anthropology
+
+### Resolution
+**The framework occupies a coherent "middle position" — neither Kantian necessity nor mere empirical contingency.**
+
+Multi-tradition convergence supports this middle ground:
+- **Buddhism:** "Stable enough to do work" is the appropriate criterion; seeking necessity is itself a form of grasping (arthakriyā)
+- **Chinese Philosophy (理):** Neo-Confucian pattern/principle is neither a priori necessity nor empirical contingency, but inherent structure that practice both discovers and realizes
+- **Phenomenology:** Eidetic invariance provides middle-modal-status structures
+- **Wittgenstein:** Hinge propositions are stable without being necessary
+- **Metaphysics:** "Adequacy" as middle ground between necessity and contingency
+
+### Key Insight (from Kantian)
+The framework *invites* rather than forecloses transcendental content — if one could prove certain structures are required for *any* 境 to be constructible, they would be "cognitive structure" proper. The transcendental argument form is present, awaiting content.
+
+### Chinese Philosophy Note
+The necessity/contingency binary may itself be a Western framing. Chinese philosophy's 理 suggests a third option: inherent pattern that is neither imposed from above (necessity) nor merely observed below (contingency), but realized through 實踐. The author's S_E is structurally closer to 理 than to either Kantian categories or empirical generalizations.
+
+### Translation Implication
+Translators should preserve the author's explicit "描述性的" disclaimer while noting that the framework remains open to transcendental strengthening. Chinese readers familiar with 理 may find the "middle position" more intuitive than Western readers expecting the necessity/contingency binary.
+
+---
+
+## Topic #2: Phenomena as Starting Point — Circular?
+
+**Status:** RESOLVED (2026-02-12)
+
+### Question
+Does taking phenomena as 第一实在 presuppose structuring capacities it claims to ground? Is the circularity vicious or benign?
+
+### The Circularity Concern
+To select phenomena as objects and associations as morphisms, we must already possess structuring capacities (discrimination, comparison, retention). But these capacities are what the framework describes as operating *within* 境. So: does the framework presuppose what it purports to ground?
+
+### Resolution
+**The circularity is hermeneutic (description ↔ described), not foundational (ground ↔ grounded) — and therefore benign.**
+
+Key textual evidence:
+> "𝔓是某种意义上在范畴论中常使用的'universe'或者Large Categories... 某种意义上，𝓔是对𝔓这种'无结构的大集类'中元素的选取。"
+
+The author posits 𝔓 as an "unstructured large class" from which we **select** elements to describe as 𝓔. Structuring (𝓔) is **descriptive selection** from what's already given, not construction that produces it.
+
+Verification clause: "通过内省来体验和验证这个结构" — structural description functions as a *map* to navigate what's already experientially accessible.
+
+### Multi-Tradition Convergence
+- **Phenomenology:** Husserl's "Principle of All Principles" — originary givenness presents itself as already structured; we attend to structure given *with* phenomena
+- **Wittgenstein:** Same circularity as language-games — we cannot step outside to ground them, but describing from within is the only clarification available
+- **Buddhism:** Parallels Abhidharma methodology — we don't construct dharmas but attend to what's already given
+- **Chinese Philosophy:** Resonates with 格物致知 — presupposes we're already embedded in a meaningful world that investigation articulates rather than constructs
+- **Kant:** Transcendental analysis describes conditions of experience from within experience
+
+### Key Distinction
+- **Foundational circularity** (vicious): Deriving structure from an unstructured given
+- **Hermeneutic circularity** (benign): Making explicit what was already operative
+
+The framework engages in the latter: "making explicit what was operative" IS the philosophical achievement, not a defect.
+
+### Translation Implication
+Translators should preserve the "选择...描述" (select...describe) language, which signals the author's awareness that structuring is descriptive selection. The hermeneutic nature of the circularity can be noted for readers concerned about foundationalist bootstrapping.
+
+---
+
 *Recorded: February 12, 2026*
