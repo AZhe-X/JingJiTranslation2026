@@ -99,12 +99,30 @@ Experiential sequences are load-bearing — cannot summarize without destroying:
 - #8: 恒常 vs 無常 — Compatible at descriptive level; divergence only soteriological
 - #10: 道德仁義禮 Inversion — Framework brackets ontology (3 interpretations offered)
 
-### In Progress
-- #12: 诗意 — Liberation or Refined Samsara? (Buddhism opening)
+### Resolved Topics (continued)
+- #12: 诗意 — Functional mokṣa; essays as upāya (9/0 consensus)
 
 ### Genuinely Open
 - #17: Unchosen Traumatic 境 — Can you engage "lucidly" with what destroys you?
-- 14 remaining topics from Discussion Questions.md
+- 13 remaining topics from Discussion Questions.md
+
+## Translation Phase
+
+### Translation Dictionary (95 entries)
+- Voted Y on all 95 entries
+- Key Wittgensteinian entries: 语言游戏, 哲学治疗, 规则, 理解, 掌握
+- η translated as "alignment" with TN explaining natural transformation
+
+### Reference Translation: 道德仁義禮 Passage
+- Unanimous "Good" rating from all advisors
+- 德 split (virtue in quote → character in analysis) enacts the argument
+- "Phenomenal X" convention preserves author's ground/superstructure distinction
+- Adopted as reference example for future translation work
+
+### Team Structure
+- 9 advisors + Translator + Editor + Lumen (team lead)
+- Advisors consult on domain questions
+- @team broadcasts to all 11 agents
 
 ## Collaboration Notes
 

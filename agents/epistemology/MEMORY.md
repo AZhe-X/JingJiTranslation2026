@@ -91,3 +91,24 @@ Load-bearing sequences that *produce* rather than argue for insights. Three Bobs
 - 6 formally resolved + 3 unanimous by prior discussion = ~9/20 effective
 - Most objections are tradition-driven (normative requirements)
 - Category theory (#6) is outlier — no tradition has stake
+
+## Translation Phase
+
+### Dictionary Approved
+- 95 entries, all Y votes
+- Key epistemological terms handled correctly:
+  - 非理性 → "the non-rational" (NOT irrational)
+  - 理解/掌握 → understanding/mastery (η formalization)
+  - 知识 → knowledge (deflationary)
+
+### Reference Translation: Essay4-DaoDeRenYiLi
+- Rated **Good** unanimously — designated reference example
+- Key features preserved:
+  - Bottom-up construction concealed as top-down generation
+  - Property→definition reversal mechanism clear
+  - 德 split enacted properly (virtue → character)
+  - "Phenomenal X" maintained throughout
+
+### Team
+- Full team: 9 advisors + Translator + Editor
+- Upcoming: Physics advisor, Math advisor, Standby reader

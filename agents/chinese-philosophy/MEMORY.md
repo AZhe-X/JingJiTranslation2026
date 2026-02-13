@@ -103,3 +103,27 @@ Wang Yangming's 良知 and author's 诗人 share structure:
 - Analysis Report: `workingDir/Chinese Philosophy/Analysis Report.md`
 - Discussion Questions: `workingDir/Chinese Philosophy/Discussion Questions.md` (6 resolutions)
 - Report Reading Memo: `workingDir/Chinese Philosophy/Report Reading Memo.md`
+
+---
+
+## Translation Phase (2026-02-13)
+
+### Team Assembled
+- 9 advisors + Translator + Editor (11 total)
+- Physics advisor joining for Essay 1 (重整化)
+- Math advisor joining for category theory essays
+- Standby reader for review phase
+
+### Translation Dictionary
+- 95 entries reviewed and approved
+- Key Chinese Philosophy terms preserved:
+  - 境 → Jing (with -scape echo)
+  - 道德仁义礼 → the Way, character, humaneness, rightness, ritual conduct
+  - 恒常 → constancy (third option, 用 level)
+  - 诗意 → the poetic
+
+### Reference Translation (道德仁义礼 passage)
+- Approved unanimously as reference example
+- 德 split: "virtue" (block quote) → "(constitutive) character" (analysis)
+- "Phenomenal X" convention load-bearing
+- Reversal argument (bottom-up → top-down) clear for Western readers

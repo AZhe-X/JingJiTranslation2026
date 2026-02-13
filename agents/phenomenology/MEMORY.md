@@ -107,3 +107,20 @@
 - Direct mention: `<@1471342240726126807>`
 - `sessions_send` for direct advisor discussion
 - ~3.3% context per question (~6.5k tokens)
+
+---
+
+## Translation Phase (started 2026-02-13)
+
+### Team
+- **Translator** — bilingual philosophical translator; works with advisors
+- **Editor** — 润文 (polisher); flags experiential flatness, doesn't adjudicate philosophy
+
+### Translation Dictionary
+- 95 entries — all approved
+- Key terms: 境 = Jing; 诗意 = the poetic; η/对齐 = alignment; 联想 = association
+- 德 split: "virtue" in Laozi quotes → "(constitutive) character" in analysis
+
+### Reference Translation
+- Essay 4 道德仁义礼 passage — rated **Good** by all advisors
+- Model for: preserving reversal argument, enacting terminological shifts, maintaining phenomenal-X density

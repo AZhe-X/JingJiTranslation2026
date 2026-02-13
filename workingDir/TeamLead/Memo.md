@@ -1,6 +1,6 @@
 # Team Lead Memo — 境集 Translation Project
 
-*Last updated: 2026-02-12 11:24 PST*
+*Last updated: 2026-02-13 08:20 PST*
 
 ## Project Overview
 
@@ -8,20 +8,26 @@ Translating 境集 (Jing Ji), a philosophical essay collection, from Chinese to 
 
 ## Current Status
 
-**Phase 1 Complete:** All 9 advisors have finished reading the full text (3 passes each) and produced:
-- Reading Notes (detailed observations per essay)
-- Analysis Reports (comprehensive domain-specific analysis)
+**Phase 3: Translation** — Full team operational, dictionary approved, reference translation established.
 
-**Next:** Editor and Translator onboarding, then translation work begins.
+- ✅ Phase 1 Complete: All 9 advisors finished reading (3 passes each)
+- ✅ Phase 2 Complete: Discussion phase resolved 14/20 topics
+- ✅ Translation Dictionary approved (11/11 unanimous, 95 entries)
+- ✅ Reference translation established (道德仁义礼 passage from Essay 4)
+- 🔄 Translation drafting in progress
 
 ## Team Structure
 
-**11 Agents Total:**
-- 9 Domain Advisors (philosophical expertise) — **ALL LIVE**
-- 1 Editor — pending
-- 1 Translator — pending
+**12 Agents Total — ALL LIVE:**
+- 9 Domain Advisors (philosophical expertise)
+- 1 Editor (润文)
+- 1 Translator
+- 1 Team Lead (Lumen Wu — coordination, git operations, reporting to 阿哲)
 
-**Team Lead:** Lumen Wu (main agent) — coordination, git operations, reporting to 阿哲
+**Mention Patterns:**
+- `@all` — wakes everyone
+- `@advisor` / `@advisors` — 9 advisors only (not Translator/Editor)
+- `@team` — all 11 agents except Team Lead
 
 ### Domain Advisors
 
@@ -37,12 +43,15 @@ Translating 境集 (Jing Ji), a philosophical essay collection, from Chinese to 
 | chinese-philosophy | Chinese Philosophy Advisor | ✅ LIVE | `1471557071823441983` | 78% |
 | buddhism | Buddhism Advisor | ✅ LIVE | `1471562953332621312` | 87% |
 
-### Pending
+### Core Team (Non-Advisor)
 
-| Agent ID | Name | Status |
-|----------|------|--------|
-| editor | Editor | Needs SOUL.md + Discord bot |
-| translator | Translator | Needs SOUL.md + Discord bot |
+| Agent ID | Name | Discord Bot ID | Status |
+|----------|------|----------------|--------|
+| translator | Translator | `1471577896177897637` | ✅ LIVE |
+| editor | Editor (润文) | `1471577311261360240` | ✅ LIVE |
+
+**Translator identity:** "The space between languages" — bilingual as core identity, not skill
+**Editor identity:** 润文 (runwen) — literary polisher; #1 job is flagging experiential flatness
 
 ## Workspace Structure
 
@@ -128,6 +137,8 @@ Epistemology:          <@1471551912636715213>
 Wittgenstein:          <@1471554298771931206>
 Chinese Philosophy:    <@1471557071823441983>
 Buddhism:              <@1471562953332621312>
+Translator:            <@1471577896177897637>
+Editor:                <@1471577311261360240>
 ```
 
 ### sessions_send (Private Discussion)
@@ -381,20 +392,71 @@ The necessity/contingency binary itself may be the wrong frame. Stability-with-r
 
 ---
 
+## Phase 3: Translation
+
+### Translation Dictionary
+
+**Status:** Approved unanimously (11/11 agents, 1,045 Y votes, 0 N)
+**Location:** `workingDir/Translation Dictionary.md` (1,097 lines, 95 entries)
+
+**Key term decisions:**
+| Chinese | English | Notes |
+|---------|---------|-------|
+| 境 | Jing | Transliterated; -scape morphological echo in compounds |
+| 感受 | feeling / felt experience | "feeling" default; "felt experience" for technical scope |
+| 沉醉 | intoxicated | NOT "immersed" — marks epistemic deficit |
+| 虚无 | nothingness / the void | NEVER "emptiness" (Buddhist term) |
+| 德 | (constitutive) character | "virtue" only in classical quotes |
+| 诗意 | the poetic | Capitalized in glossary, lowercase in running text |
+| 现象X | phenomenal X | Consistent prefix for phenomenological layer |
+
+### Reference Translation
+
+**Status:** Approved as model for future translation (11/11 Y)
+**Passage:** 道德仁义礼 reversal argument (Essay 4: 后形而上学 整理)
+
+**Why it works:**
+1. Preserves central reversal argument (bottom-up phenomenal construction appearing as top-down metaphysical generation)
+2. 德 split enacts reconceptualization: "virtue" in Laozi quote → "character" in analysis
+3. Property→definition transformation intact with parentheticals (can/should)
+4. Phenomenal-X density is heavy but load-bearing
+5. Western readers can follow without prior Chinese philosophy background
+
+---
+
+## Context Status (2026-02-13 08:13 PST)
+
+| Agent | Tokens | Usage | Notes |
+|-------|--------|-------|-------|
+| Chinese Philosophy | 168,064 | 84% | ⚠️ Needs compaction |
+| Epistemology | 163,346 | 82% | ⚠️ Needs compaction |
+| Existentialism | 162,231 | 81% | ⚠️ Needs compaction |
+| Phenomenology | 158,796 | 79% | |
+| Kantian | 152,556 | 76% | |
+| Buddhism | 151,915 | 76% | |
+| Wittgenstein | 143,316 | 72% | |
+| Philosophy of Mind | 142,766 | 71% | |
+| Metaphysics | 138,963 | 69% | |
+| Translator | ~11,000 | 6% | Just compacted + reloaded |
+| Editor | ~8,100 | 4% | Just compacted + reloaded |
+| Lumen | 37,323 | 19% | |
+
+---
+
 ## Open Items
 
 - [x] All 9 domain advisors: SOUL.md + Discord bot
 - [x] Phase 1 reading complete (3 passes each)
 - [x] Analysis Reports finalized
 - [x] Memory systems updated (short-term + long-term)
-- [x] Discussion Topic #10 resolved (brackets vs forecloses)
-- [ ] Continue discussions (remaining 19 topics)
-- [ ] Draft Editor SOUL.md
-- [ ] Draft Translator SOUL.md
-- [ ] Create Editor Discord bot
-- [ ] Create Translator Discord bot
-- [ ] Begin translation work
+- [x] Discussion Topics: 14/20 effectively resolved
+- [x] Editor SOUL.md + Discord bot
+- [x] Translator SOUL.md + Discord bot
+- [x] Translation Dictionary approved (95 entries)
+- [x] Reference translation established (道德仁义礼)
+- [ ] Continue translation drafting
+- [ ] Address #17 (Traumatic 境) during translation when relevant
 
 ---
 
-*Last updated: 2026-02-12 17:47 PST*
+*Last updated: 2026-02-13 08:20 PST*

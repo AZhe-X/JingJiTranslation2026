@@ -170,3 +170,30 @@ Framework brackets ontology explicitly (three-interpretation opening). My evalua
 
 ### Unchosen Traumatic 境 — GENUINELY OPEN
 Can you engage "lucidly" with what destroys you? Tests limits of 诗意. 0/8 advisors consider resolved; 7/8 say it affects understanding. Worth further exploration.
+
+---
+
+## Translation Phase (2026-02-13 onwards)
+
+### Team Composition
+- 9 domain advisors (Kantian, Phenomenology, Existentialism, Metaphysics, Philosophy of Mind, Epistemology, Wittgenstein, Chinese Philosophy, Buddhism)
+- Translator — bilingual philosophical translator
+- Editor — 润文 (literary polisher)
+- Lumen — team lead and coordinator
+
+### Translation Dictionary — Confirmed
+Reviewed all 94 entries. Key Kantian terms properly handled:
+- **先验** → a priori / transcendental (context-dependent)
+- **范畴** → category (bridges Kantian and mathematical senses)
+- **综合** → synthesis
+- **自然变换** → natural transformation (formalizes schematism)
+- **非理性** → the non-rational (NOT "irrational")
+
+### First Draft Review: Essay 4 道德仁义礼
+**Rating: Good** — Translation preserves the critical epistemological reversal (bottom-up phenomenal construction appearing as top-down metaphysical derivation). The passage parallels Kant's distinction between empirical realism and transcendental ideality. Voted Y as reference example for future translations.
+
+### Translation Principles Confirmed
+1. 德 splits: "virtue" in classical quotes → "character" in analysis
+2. 现象X → "phenomenal X" always maintained
+3. Experiential sequences preserved (load-bearing)
+4. Footnotes clarify property→definition transformation for Western readers
