@@ -27,7 +27,7 @@ Aggregated from all 9 advisor rankings:
 | 14 | 11 | Absence of Body/Embodiment | 5/4 | 9Y/0N |
 | 15 | 12 | Temporality: Discrete vs Continuous | 2/7 | 9Y/0N |
 | 16 | 13 | Historical Constitution / Sedimentation | 2/7 | 9Y/0N |
-| 17 | 16 | Unchosen Traumatic 境 | 2/7 | 9Y/0N |
+| 17 | 16 | Unchosen Traumatic 境 | 2/7 | 9Y/0N | ✅ REFORMULATED → 17.1, 17.2, 17.3 |
 | 18 | 15 | Neo-Confucian Lacuna | 0/9 (Framework) | 8Y/1N |
 | 19 | 19 | Apoha and Family Resemblance | 0/9 (Framework) | 8Y/1N |
 | 20 | 20 | Path Theory Gap | 0/9 (Framework) | 9Y/0N |
@@ -244,16 +244,31 @@ Why no 理/氣 or 良知? Does framework implicitly reject their premises?
 
 ---
 
-## 16. Unchosen Traumatic 境
+## 16. Unchosen Traumatic 境 — ✅ REFORMULATED
 Can you engage "lucidly" with what destroys you? The poetic stance and suffering.
 
 **Participants:** Existentialism, Buddhism, Philosophy of Mind
 
-**Key questions:**
+**Original questions:**
 - Author acknowledges unchosen dreamscapes exist
 - Doesn't develop what poetic stance means for trauma, oppression, suffering
 - Can you engage "lucidly" with what destroys you?
 - Buddhist resources for path through suffering?
+
+**Reformulation (2026-02-13):** The original question asked the impossible — no framework can bootstrap what it presupposes. Discussion clarified that when trauma damages the meaning-making apparatus itself, pure self-recovery is impossible; external scaffolding (community, therapy, time, relationship) is required. 9/9 advisors agreed.
+
+**Reformulated into three tractable questions (9/9 consensus):**
+
+### 17.1 Scope Acknowledgment
+Does the 境 framework acknowledge its scope limitation — that it presupposes intact constructive capacity, and therefore cannot reach those whose meaning-making apparatus is shattered?
+
+### 17.2 External Scaffolding
+Does the individual-centric starting point ("人类个体必然只能从人类个体出发") adequately recognize the constitutively relational nature of both damage and repair (community, therapy, time, relationship)?
+
+### 17.3 Recovery Description
+Can the framework illuminate how 境-reconstruction works *once* external scaffolding restores minimal capacity, and what that scaffolding needs to provide?
+
+**Key insight:** The author's descriptive orientation and explicit acknowledgment that "some dreamscapes are unchosen" suggests honest limitation rather than unacknowledged gap.
 
 ---
 
