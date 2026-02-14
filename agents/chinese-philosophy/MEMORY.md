@@ -84,8 +84,21 @@ Wang Yangming's 良知 and author's 诗人 share structure:
 - Question is lucidity/recognition, not acquisition
 - 工夫論 accommodates this: there was never anywhere else to go
 
-### Open Question
-- #17 Unchosen Traumatic 境: Tests limits of lucid engagement — can you engage "lucidly" with what destroys you?
+### Resolved Question (formerly Open)
+**#17 Unchosen Traumatic 境** — Original question ("Can you engage lucidly with what destroys you?") was clarified as asking the impossible of any framework.
+
+**Key clarifications from discussion:**
+- Pure self-bootstrapping impossible when apparatus is damaged
+- Chinese philosophy never assumed isolated self-sufficiency (五倫, 傳承)
+- Framework is descriptive, not standalone therapeutic tool
+- "Honest limitation, not unacknowledged gap"
+
+**Reformulated into three tractable questions:**
+- **17.1 Scope Acknowledgment**: Does framework acknowledge it presupposes intact constructive capacity?
+- **17.2 External Scaffolding**: Does individual-centric starting point adequately recognize relational nature of damage/repair?
+- **17.3 Recovery Description**: Can it illuminate how 境-reconstruction works once scaffolding restores minimal capacity?
+
+**My contribution**: Chinese philosophy's constitutively relational self (五倫, 傳承) shows pure bootstrapping is "modern individualist fantasy"; Zhuangzi at wife's grave distinguishes unchosen event from mode of dwelling, but presupposes enough self survives to dwell differently.
 
 ---
 

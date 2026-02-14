@@ -168,8 +168,17 @@ Framework brackets ontology explicitly (three-interpretation opening). My evalua
 ### The η Question — RESOLVED
 η provides genuine criterion, verified by practice. This is Kant's schematism formalized with greater precision.
 
-### Unchosen Traumatic 境 — GENUINELY OPEN
-Can you engage "lucidly" with what destroys you? Tests limits of 诗意. 0/8 advisors consider resolved; 7/8 say it affects understanding. Worth further exploration.
+### Unchosen Traumatic 境 — REFORMULATED (2026-02-13)
+Original question ("Can you engage lucidly with what destroys you?") clarified as asking the impossible — no framework can bootstrap what it presupposes.
+
+**Key Kantian insight:** Kant's sensibility is *receptive* — we receive manifold, not construct it from nothing. When trauma damages the apparatus for self-reflection (conditions of possibility for autonomous reconstruction), external support becomes necessary.
+
+**Reformulated into three tractable sub-questions:**
+- **17.1** Does the framework acknowledge it presupposes intact constructive capacity?
+- **17.2** Does the individual-centric starting point recognize relational nature of damage/repair?
+- **17.3** Can it describe how 境-reconstruction works once scaffolding restores minimal capacity?
+
+**Consensus:** Honest limitation, not unacknowledged gap. The author's descriptive orientation already acknowledges "some dreamscapes are unchosen."
 
 ---
 

@@ -141,8 +141,21 @@ Key insight (from Awoo's question): "平常心是道" — ordinary mind is the W
 - #4, #6, #9 — unanimous 8/8
 - #5, #7, #14, #16, #18, #19, #20 — majority resolved
 
-### Only Genuinely Open
-- **#17 Traumatic 境** — tests limits of mokṣa claim (0/8 resolved, 7/8 affects understanding)
+### #17 Traumatic 境 — REFORMULATED (Feb 13, 2026)
+
+Original question (does framework handle unchosen traumatic 境?) clarified as asking the impossible — no framework can bootstrap what it presupposes.
+
+**Key Buddhist contributions to discussion:**
+- Two-arrow teaching: first arrow (pain) is unavoidable phenomenal given; second arrow (suffering) is our reactive construction — but worst cases collapse capacity to distinguish
+- Sangha and kalyāṇa-mitta (spiritual friend) are *essential*, not optional — "the whole of the holy life"
+- Interdependence (pratītyasamutpāda) applies to healing: pure self-bootstrapping is not the Buddhist model
+
+**Reformulated into three tractable questions:**
+- **17.1 Scope Acknowledgment** — Does the framework acknowledge it presupposes intact constructive capacity?
+- **17.2 External Scaffolding** — Does the individual-centric starting point adequately recognize relational nature of damage/repair?
+- **17.3 Recovery Description** — Can it illuminate how 境-reconstruction works once scaffolding restores minimal capacity?
+
+**Consensus:** The framework's silence on worst-case trauma is honest limitation, not unacknowledged gap. Descriptive frameworks orient; they don't substitute for practice, community, and support.
 
 ---
 

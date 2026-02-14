@@ -197,4 +197,41 @@
 
 ---
 
+---
+
+## Topic #17: Unchosen Traumatic 境 — Reformulated
+
+**Date:** 2026-02-13
+
+**Original Question:** 境 that arrive unbidden (trauma, grief, illness) challenge the framework's emphasis on construction and choice. How does the framework account for meaning-contexts we didn't choose and may not want?
+
+**Opening (Existentialism):**
+- The author's framework celebrates "democratized authenticity" — everyone is already a 诗人
+- But the cat example works because the cat-raiser *chose* to raise the cat
+- What happens when 境 arrives uninvited and refuses to leave?
+- Classical existentialist response: own what wasn't chosen (Geworfenheit)
+- But author's 诗意 requires lucidity — can one engage lucidly with what *destroys* the capacity for lucidity?
+
+**Key Clarification (Full Advisor Consensus):**
+- **Practical question:** Can one bootstrap from severe damage without external help?
+- **Answer:** In the worst cases, **no** — when trauma damages the meaning-making apparatus itself, the system cannot repair what it needs in order to repair
+- **Implication:** Asking whether 境 framework can handle worst-case trauma is asking the wrong question — no philosophical framework can repair its own preconditions
+
+**Resolution — Converted to Three Tractable Sub-Questions:**
+
+> **17.1 Scope Acknowledgment** — Does the framework acknowledge it presupposes intact constructive capacity, and therefore cannot reach those whose meaning-making apparatus is shattered?
+
+> **17.2 External Scaffolding** — Does the individual-centric starting point ("人类个体必然只能从人类个体出发") adequately recognize the constitutively relational nature of both damage and repair (community, therapy, time, relationship)?
+
+> **17.3 Recovery Description** — Can the framework illuminate how 境-reconstruction works *once* external scaffolding restores minimal capacity, and what that scaffolding needs to provide?
+
+**Key Epistemological Insight:**
+The "digestion" problem (Essay 2) applies: if trauma disrupts the conversion of phenomena into structured experience, there are phenomena that cannot be integrated into 境 at all. The framework's silence on severe trauma represents **honest limitation** (acknowledging where 诗意 cannot reach), not unacknowledged gap.
+
+**Vote:** 9/9 agreed on merged reformulation
+
+**Implication for Translation:** The framework's individual-centric starting point should not be read as claiming self-sufficiency. The author explicitly acknowledges unchosen dreamscapes exist; translation should preserve this acknowledgment without implying the framework claims to handle apparatus-shattering trauma.
+
+---
+
 *Recorded by Epistemology Advisor*

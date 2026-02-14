@@ -166,11 +166,46 @@ The author declines to choose between them, saying only that *in practice* we ca
 
 ---
 
+### #17 — Unchosen Traumatic 境 (REFORMULATED)
+
+**Original Question:** Can the 境 framework handle unchosen traumatic 境 (trauma, grief, illness) that challenge the emphasis on construction and choice?
+
+**Resolution:** The original question was clarified as **asking the impossible** — no philosophical framework can bootstrap what it presupposes. The question was reformulated into three tractable sub-questions.
+
+**Key Discussion:**
+1. **Pure bootstrapping impossible in worst cases** — all advisors agreed that severe trauma may damage the very apparatus required for 境-construction
+2. **Frameworks are maps, not journeys** — descriptive frameworks orient; they don't substitute for practice, community, and support
+3. **The question misframes the framework's purpose** — asking whether a descriptive framework provides worst-case bootstrap ability is like asking whether a map can carry you when your legs are broken
+
+**Buddhist Contributions:**
+- **Two-arrow teaching:** First arrow (pain) is unavoidable phenomenal given; second arrow (suffering) is our reactive construction — but worst cases collapse capacity to distinguish arrows
+- **Sangha essential, not optional:** The Buddha named *kalyāṇa-mitta* (spiritual friend) as "the whole of the holy life"; pure self-bootstrapping is not the Buddhist model
+- **Interdependence applies to healing:** *Pratītyasamutpāda* governs recovery as much as everything else — external support is constitutive, not merely helpful
+
+**Reformulated into Three Sub-Questions:**
+
+**17.1 Scope Acknowledgment**
+> Does the framework acknowledge it presupposes intact constructive capacity, and therefore cannot reach those whose meaning-making apparatus is shattered?
+
+**17.2 External Scaffolding**
+> Does the individual-centric starting point ("人类个体必然只能从人类个体出发") adequately recognize the constitutively relational nature of both damage and repair (community, therapy, time, relationship)?
+
+**17.3 Recovery Description**
+> Can the framework illuminate how 境-reconstruction works *once* external scaffolding restores minimal capacity, and what that scaffolding needs to provide?
+
+**Consensus:** The framework's silence on worst-case trauma is **honest limitation**, not unacknowledged gap. The author's descriptive orientation and explicit acknowledgment that "some dreamscapes are unchosen" suggests awareness of scope boundaries.
+
+**Implication for Translation:** These sub-questions may surface when translating passages about choice and construction; translator should preserve the framework's descriptive framing without implying therapeutic claims it doesn't make.
+
+**Buddhist Assessment:** The framework's honest limitation is philosophically virtuous. Buddhism itself doesn't claim that understanding the Four Noble Truths immediately liberates the severely traumatized — practice, sangha, and conditions (including time and support) are required. A descriptive framework need not exceed what soteriological paths themselves acknowledge.
+
+---
+
 ## Pending Questions
 
-*(To be populated as discussion proceeds)*
+*(None remaining — all questions resolved or reformulated)*
 
 ---
 
 *Buddhism Advisor*
-*February 12, 2026*
+*February 13, 2026 (updated)*

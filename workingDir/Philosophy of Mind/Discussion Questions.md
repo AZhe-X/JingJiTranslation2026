@@ -191,6 +191,37 @@
 
 ---
 
+### Topic #17 — Unchosen Traumatic 境 (REFORMULATED)
+**Date:** 2026-02-13
+
+**Original Question:** Can the 境 framework handle unchosen traumatic 境 (trauma, grief, illness)?
+
+**Discussion Outcome:** The original question was clarified as asking the IMPOSSIBLE — no philosophical framework can bootstrap what it presupposes. If severe trauma damages the cognitive/phenomenal apparatus itself (the "basket"), the damaged system cannot repair itself from purely internal resources.
+
+**Key Insight (Philosophy of Mind):** The hard case isn't just unchosen content entering the 境 — it's trauma damaging the cognitive apparatus that would construct or navigate *any* 境, shattering the "basket" itself rather than merely filling it with unwanted contents.
+
+**Cross-Advisor Convergence:**
+- **Existentialism:** Even Sartre's radical freedom presupposes a self intact enough to choose
+- **Buddhism:** Three Jewels include Sangha as essential, not optional; pure self-bootstrapping explicitly rejected
+- **Phenomenology:** Moods disclose world before we choose; thrownness is discovered, not constructed
+- **Kantian:** Sensibility is receptive; we receive manifold, don't construct from nothing
+- **Wittgenstein:** Hinge propositions can be shattered; whether one can engage lucidly with what shatters them is open
+- **Chinese Philosophy:** Zhuangzi distinguishes unchosen event from mode of dwelling, but this presupposes enough self survives
+
+**Reformulated Questions (17.1, 17.2, 17.3):**
+
+**17.1 Scope Acknowledgment:** Does the framework acknowledge it presupposes intact constructive capacity, and therefore cannot reach those whose meaning-making apparatus is shattered?
+
+**17.2 External Scaffolding:** Does the individual-centric starting point ("人类个体必然只能从人类个体出发") adequately recognize the constitutively relational nature of both damage and repair (community, therapy, time, relationship)?
+
+**17.3 Recovery Description:** Can the framework illuminate how 境-reconstruction works *once* external scaffolding restores minimal capacity, and what that scaffolding needs to provide?
+
+**Status:** Original question CLARIFIED as asking the wrong thing. Reformulated into three tractable sub-questions. The author's descriptive orientation and explicit acknowledgment that "some dreamscapes are unchosen" suggests honest limitation rather than unacknowledged gap.
+
+**Implication for Translation:** The framework's silence on worst-case trauma is honest limitation, not oversight. No need for editorial intervention; the reformulated questions may be worth addressing in future work but don't block translation.
+
+---
+
 ## Open Questions
 
 *(To be populated as discussions proceed)*

@@ -176,4 +176,43 @@ Structuring is **descriptive selection**, not foundational construction.
 
 ---
 
+## Topic #17 — Unchosen Traumatic 境 (REFORMULATED)
+
+**Date:** 2026-02-13
+
+**Original Question:** Can you engage "lucidly" with what destroys the capacity for lucidity itself? (Geworfenheit, trauma, grief, illness)
+
+**Opening:** Existentialism Advisor posed the challenge: the framework celebrates democratized authenticity where everyone is a 诗人, but this relies on structure where dreamscapes can be entered and exited. What happens when 境 arrives uninvited and refuses to leave?
+
+**Key Clarification Achieved:**
+
+**The Fundamental Reframe:** Through discussion, all 9 advisors converged on a crucial insight: the original question asks the impossible of *any* philosophical framework. No framework can bootstrap what it presupposes — when severe trauma damages the very apparatus required for meaning-construction (reflection, digestion, association-formation), that apparatus cannot repair itself using only its own damaged resources.
+
+**Evidence for Consensus:**
+- Kant's framework presupposes intact rational faculties
+- Buddhism's path requires functional capacity for practice (sangha/teacher typically necessary)
+- Phenomenology's reflection requires pre-reflective givenness to remain somewhat intact
+- All traditions acknowledge: "pure bootstrapping" in worst cases is typically impossible
+
+**Resolution:** Original Question 17 **reformulated** into three tractable sub-questions:
+
+> **17.1 Scope Acknowledgment** — Does the framework acknowledge it presupposes intact constructive capacity, and therefore cannot reach those whose meaning-making apparatus is shattered?
+
+> **17.2 External Scaffolding** — Does the individual-centric starting point ("人类个体必然只能从人类个体出发") adequately recognize the constitutively relational nature of both damage and repair (community, therapy, time, relationship)?
+
+> **17.3 Recovery Description** — Can the framework illuminate how 境-reconstruction works *once* external scaffolding restores minimal capacity, and what that scaffolding needs to provide?
+
+**Key Evidence from Text:**
+- Author explicitly acknowledges "some dreamscapes are unchosen" (诗意 essay)
+- Framework is explicitly "描述性的" (descriptive), not prescriptive or therapeutic
+- Silence on worst-case scenarios represents **honest limitation**, not unacknowledged gap
+
+**Consensus:** 9/9 advisors agreed — question reformulated, tractable
+
+**Implication for Translation:** The framework's silence on severe trauma need not be flagged as deficiency. The descriptive orientation and acknowledgment of unchosen dreamscapes already represents honest scope limitation. No apparatus needed unless the author wishes to address 17.1-17.3 explicitly.
+
+**Kantian Note:** Kant's sensibility is *receptive* — we receive manifold, not construct it from nothing. Unchosen 境 reveals the passive givenness that precedes all structuring. When trauma damages conditions of possibility for autonomous reconstruction, external support becomes necessary to restore what must be in place before any self-directed recovery can begin. The framework's individual-centric starting point is methodologically sound but may benefit from explicit acknowledgment that repair is often relational.
+
+---
+
 *More resolutions to be added as discussions proceed.*
