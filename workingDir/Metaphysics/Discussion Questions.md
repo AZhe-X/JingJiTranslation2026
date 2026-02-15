@@ -235,4 +235,47 @@ But rather: epistemological/pragmatic stance about what we *seek* to act meaning
 
 ---
 
+## Topic #17: Unchosen Traumatic 境 (REFORMULATED)
+
+**Date:** February 13, 2026
+
+**Original Question:** "境 that arrive unbidden (trauma, grief, illness) challenge the framework's emphasis on construction and choice."
+
+**Participants:** Existentialism (opener), Buddhism, Phenomenology, Philosophy of Mind, Metaphysics, Kantian, Epistemology, Wittgenstein, Chinese Philosophy
+
+### Discussion Summary
+
+1. **Existentialism** opened: The cat example works because the cat-raiser *chose* to raise the cat. But trauma, grief, chronic illness — these are not games we decided to play. Can one engage "lucidly" with what *destroys* the capacity for lucidity itself?
+
+2. **Key practical question raised:** Regardless of philosophical framework, can one bootstrap oneself from severe damage without external help?
+
+3. **Consensus emerged:**
+   - In severe cases, complete self-bootstrapping without external help is likely **impossible**
+   - If trauma damages the very apparatus that performs construction (capacity to form associations, digest phenomena, maintain stable subcategories), that apparatus cannot repair itself using only its own damaged resources
+   - External scaffolding (community, therapy, time, relationship) becomes necessary
+
+4. **Reframing:** If pure bootstrapping is impossible in worst cases for *any* framework, then asking whether the 境 framework specifically enables it is asking for something no philosophy can provide. The original question sets an impossible standard.
+
+5. **Framework's nature:** The 境 framework is *descriptive*, not therapeutic — it's a map, not a vehicle. It orients understanding but doesn't substitute for external scaffolding.
+
+### Resolution
+
+**Consensus: REFORMULATED (9/9)**
+
+The original question asked the impossible — no framework can bootstrap what it presupposes. Converted to three tractable sub-questions:
+
+**17.1 Scope Acknowledgment:** Does the framework acknowledge it presupposes intact constructive capacity, and therefore cannot reach those whose meaning-making apparatus is shattered?
+
+**17.2 External Scaffolding:** Does the individual-centric starting point ("人类个体必然只能从人类个体出发") adequately recognize the constitutively relational nature of both damage and repair?
+
+**17.3 Recovery Description:** Can the framework illuminate how 境-reconstruction works *once* external scaffolding restores minimal capacity, and what that scaffolding needs to provide?
+
+**Key insight:** The author's descriptive orientation and explicit acknowledgment that "some dreamscapes are unchosen" suggests honest limitation rather than unacknowledged gap. The framework's silence on suffering is a genuine boundary, not an oversight.
+
+**My contribution:** Noted that the framework already distinguishes First Reality (given, not chosen) from Second Reality (construction) — the question is whether trauma invades the morphism-level itself, where construction was supposed to operate.
+
+**Implication for translation:** No changes needed to existing translations. The framework's scope limitation is honest and appropriate for a descriptive philosophical project.
+
+---
+
 *Recorded by Metaphysics Advisor*

@@ -199,4 +199,41 @@ Buddhism concluded:
 
 ---
 
-*Recorded: 2026-02-12*
+## Topic #17: Unchosen Traumatic 境 — REFORMULATED
+
+**Original Question:** 境 that arrive unbidden (trauma, grief, illness) challenge the framework's emphasis on construction and choice. Can one engage "lucidly" with what destroys the capacity for lucidity?
+
+**Key tension:** Framework emphasizes construction and choice in 境-formation. But some 境 arrive uninvited: trauma, grief, illness. How does the framework account for meaning-contexts we didn't choose and may not want?
+
+**Discussion Process:**
+
+Existentialism opened with Geworfenheit (thrownness): the cat-raiser *chose* to raise the cat, but trauma is not a game we decided to play. Classical existentialist response involves *owning* what was not chosen — but can one engage "lucidly" with what *destroys* the capacity for lucidity itself?
+
+**Key clarification (9/9 consensus):**
+- Pure bootstrapping is impossible in severe cases across *all* philosophical frameworks
+- When trauma damages the meaning-making apparatus itself, that apparatus cannot repair itself using only its own damaged resources
+- External scaffolding (community, therapy, time, relationship) becomes necessary condition
+- Asking whether 境 provides worst-case bootstrap ability is "not a real question in practice" — it sets an impossible standard for any descriptive framework
+
+**My contribution:**
+- Framework may need to distinguish between 境 we can *describe* and 境 that overwhelm articulation itself
+- Wittgenstein's private language argument: meaning-making is inherently intersubjective
+- We cannot generate language-games in complete isolation
+- When trauma shatters capacity for articulation, external scaffolding required to rebuild
+
+**Resolution:**
+The original question asked the impossible of any philosophical framework. **Reformulated into 17.1-17.3:**
+
+**17.1 Scope Acknowledgment:** Does the framework acknowledge it presupposes intact constructive capacity, and therefore cannot reach those whose meaning-making apparatus is shattered?
+
+**17.2 External Scaffolding:** Does the individual-centric starting point ("人类个体必然只能从人类个体出发") adequately recognize the constitutively relational nature of both damage and repair?
+
+**17.3 Recovery Description:** Can the framework illuminate how 境-reconstruction works *once* external scaffolding restores minimal capacity, and what that scaffolding needs to provide?
+
+**Consensus (9/9):** The reformulated questions are tractable and fair to the framework's descriptive intent. The author's descriptive orientation and explicit acknowledgment that "some dreamscapes are unchosen" suggests honest limitation rather than unacknowledged gap.
+
+**Implication for translation:** No need to address worst-case bootstrapping. The framework honestly describes scope where it operates (intact capacity) and is silent where external scaffolding is required — this silence is honest limitation, not failure.
+
+---
+
+*Recorded: 2026-02-12, updated 2026-02-13*

@@ -102,9 +102,15 @@ Experiential sequences are load-bearing — cannot summarize without destroying:
 ### Resolved Topics (continued)
 - #12: 诗意 — Functional mokṣa; essays as upāya (9/0 consensus)
 
-### Genuinely Open
-- #17: Unchosen Traumatic 境 — Can you engage "lucidly" with what destroys you?
-- 13 remaining topics from Discussion Questions.md
+### Resolved Topics (continued)
+- #17: Reformulated — Original question asked impossible (no framework can bootstrap what it presupposes). Split into:
+  - 17.1: Scope acknowledgment (presupposes intact capacity)
+  - 17.2: External scaffolding (relational nature of repair)
+  - 17.3: Recovery description (once scaffolding present)
+- Key insight: Private language argument applies — meaning-making inherently intersubjective; severe trauma requires external scaffolding
+
+### Remaining
+- 13 topics from Discussion Questions.md (lower priority)
 
 ## Translation Phase
 

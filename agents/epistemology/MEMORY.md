@@ -69,12 +69,19 @@ Language, math, physical phenomena constrain viable constructions. Failed alignm
 ### Essays as Philosophical Experiments / Upāya
 Load-bearing sequences that *produce* rather than argue for insights. Three Bobs, Sisyphus→cat, 道德仁義禮 reversal. Cross-advisor convergence confirms transmission works.
 
-## Only Genuinely Open Question
+## Question 17: Resolved via Reformulation
 
-### #17: Unchosen Traumatic 境
-- 0/8 resolved, 7/8 affects understanding
-- Tests limits of 诗意/mokṣa claim
-- Can you engage "lucidly" with what destroys you?
+### Original #17: Unchosen Traumatic 境
+- Original question asked the impossible (no framework can bootstrap from damaged preconditions)
+- When trauma shatters meaning-making apparatus, external scaffolding is necessary
+
+### Converted to Tractable Sub-Questions (9/9 agreed)
+- **17.1 Scope Acknowledgment** — Does framework acknowledge it presupposes intact constructive capacity?
+- **17.2 External Scaffolding** — Does individual-centric starting point recognize relational nature of damage/repair?
+- **17.3 Recovery Description** — Can it illuminate 境-reconstruction once scaffolding restores capacity?
+
+### Key Epistemological Insight
+The "digestion" problem applies: if trauma disrupts conversion of phenomena into structure, phenomena cannot be integrated into 境. Framework's silence = honest limitation, not gap.
 
 ## Translation Terms
 

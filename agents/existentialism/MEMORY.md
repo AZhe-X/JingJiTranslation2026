@@ -61,7 +61,18 @@ Everyone is already a 诗人. Question shifts to noticing, not becoming.
 Solves intersubjectivity better than Sartre's Look or Heidegger's abstract Mitsein. Structural alignment through triangulation with external constraints.
 
 ### Only Genuinely Open Question
-**#17 Unchosen Traumatic 境** — Tests limits of 诗意. Can you engage "lucidly" with what destroys you? Framework acknowledges unchosen 境 but doesn't develop what poetic stance means for trauma, oppression, suffering.
+**#17 Unchosen Traumatic 境** — REFORMULATED after discussion.
+
+**Original framing malformed:** No framework can bootstrap what it presupposes. Severe trauma can shatter the choosing apparatus itself.
+
+**Key existentialist insight:** Even Sartre's radical freedom presupposes a self intact enough to choose. When that's shattered, external scaffolding (community, therapy, time) becomes condition of possibility, not supplement.
+
+**Converted to three tractable sub-questions:**
+- 17.1: Does framework acknowledge scope limitation?
+- 17.2: Does individual-centric starting point account for relational nature of damage/repair?
+- 17.3: Can it describe recovery once scaffolding restores minimal capacity?
+
+**Verdict:** Author's descriptive orientation + acknowledgment of unchosen dreamscapes = honest limitation, not gap.
 
 ### Translation Notes
 - **境:** Keep as *jìng* with apparatus

@@ -36,6 +36,7 @@
 - Buddhism advisor confirmed 诗意 as potentially genuine mokṣa
 - All advisors agree: experiential sequence is sacred
 - Phenomenology advisor emphasized pacing as content-bearing
+- Q17 reformulated: Framework's silence on severe trauma = honest limitation, not gap
 
 ## Current Status (2026-02-13)
 - Read all essays and advisor reports ✓

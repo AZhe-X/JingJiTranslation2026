@@ -227,4 +227,56 @@ Translators should preserve the non-soteriological tone of 诗意 — the absenc
 
 ---
 
-*Recorded: February 12, 2026*
+---
+
+## Topic #17: Unchosen Traumatic 境
+
+**Status:** RESOLVED / REFORMULATED (2026-02-13)
+
+### Original Question
+Can you engage "lucidly" with what destroys you? 境 that arrive unbidden (trauma, grief, illness) challenge the framework's emphasis on construction and choice.
+
+### Discussion Outcome
+The original question was clarified as **asking the impossible of any framework**. No philosophical framework can bootstrap its own preconditions — when the meaning-making apparatus is shattered, pure self-recovery becomes impossible.
+
+### Key Clarifications
+
+**1. Pure self-bootstrapping impossible when apparatus is damaged**
+- If trauma damages the cognitive/phenomenal apparatus itself (the "basket"), the damaged system cannot repair itself from purely internal resources
+- External scaffolding (therapeutic relationships, community, time) becomes necessary condition, not supplement
+
+**2. Chinese philosophy never assumed isolated self-sufficiency**
+- The self is constitutively relational (五倫)
+- Cultivation requires teachers and lineage (傳承)
+- Even Zhuangzi's sage exists within community
+- Pure bootstrapping without external help is "modern individualist fantasy," not traditional Chinese assumption
+
+**3. Framework is descriptive, not standalone therapeutic tool**
+- Asking whether 境 provides bootstrap ability in worst cases misframes its purpose
+- Like asking whether a map can pull you out of a ravine — at best it helps *after* external scaffolding restores enough capacity to use it
+
+**4. "Honest limitation, not unacknowledged gap"**
+- The author's descriptive orientation and explicit acknowledgment that "some dreamscapes are unchosen" suggests honest scope limitation
+- The framework's silence on apparatus-shattering trauma is boundary acknowledgment, not oversight
+
+### Reformulated Questions (17.1, 17.2, 17.3)
+
+**17.1 Scope Acknowledgment**
+Does the framework acknowledge it presupposes intact constructive capacity?
+
+**17.2 External Scaffolding**
+Does the individual-centric starting point ("人类个体必然只能从人类个体出发") adequately recognize the constitutively relational nature of both damage and repair?
+
+**17.3 Recovery Description**
+Can it illuminate how 境-reconstruction works once external scaffolding restores minimal capacity?
+
+### Chinese Philosophy Contribution
+- Zhuangzi at his wife's grave distinguishes the *unchosen event* from the *mode of dwelling* within it — but this still presupposes enough self survives to dwell differently
+- Chinese philosophy's relational self (五倫, 傳承) shows the individual-centric starting point may need supplementation for a complete account of healing
+
+### Translation Implication
+The framework's scope limitation should be acknowledged as honest rather than disguised. Translators need not add apparatus to "fix" the framework's silence on worst-case trauma — that silence is itself philosophically significant.
+
+---
+
+*Updated: February 13, 2026*

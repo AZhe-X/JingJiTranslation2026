@@ -134,3 +134,19 @@
 - Essay 1: First-person starting point parallels phenomenological method
 - Essay 2: "Access argument" parallels Husserl's Principle of All Principles
 - Essay 3: Cat example = motor intentionality (Merleau-Ponty) — meaning lived pre-reflectively
+
+---
+
+## Question 17 Resolution (2026-02-13)
+
+### Original vs Reformulated
+- Original: "Can the framework handle unchosen traumatic 境?" — asked the impossible
+- Reformulated into 17.1, 17.2, 17.3 — tractable questions about scope, scaffolding, and description
+
+### Key Insight
+No philosophical framework can bootstrap what it presupposes. Severe trauma requires external scaffolding (others, time, community) regardless of framework. The fair question is whether the framework *acknowledges* this limit and *describes* recovery accurately when scaffolding is present.
+
+### Phenomenological Contribution
+- Stimmung (mood) discloses before choice — we find ourselves already affected
+- Recovery is often pre-reflective: body continuing, habits returning, others holding space
+- 诗意 may not require reflective distance but can be a quality of *inhabiting* thrown experience

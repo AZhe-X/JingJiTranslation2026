@@ -150,4 +150,32 @@ The author declines to choose, saying only that *in practice* we can access stru
 
 ---
 
-*Updated 2026-02-12*
+## Topic #17 — Unchosen Traumatic 境 (REFORMULATED)
+
+**Original Question:** 境 that arrive unbidden (trauma, grief, illness) challenge the framework's emphasis on construction and choice. How does the framework account for meaning-contexts we didn't choose?
+
+**Opening (Existentialism):** The framework's cat-raiser *chose* to raise the cat — the dreamscape can in principle be exited. But trauma, grief, chronic illness are *Geworfenheit* (thrownness): we find ourselves already in them before choosing begins. The classical existentialist response (owning what was not chosen, authentic appropriation) presupposes a self intact enough to own. Can one engage "lucidly" with what *destroys* the capacity for lucidity itself?
+
+**Key insight from discussion:** The original question was **malformed**. No framework can bootstrap what it presupposes. Severe trauma can shatter the very apparatus needed for self-recovery — even Sartre's radical freedom presupposes a self intact enough to choose. When that's shattered, external scaffolding (community, therapy, time) becomes the *condition of possibility*, not a supplement.
+
+**Cross-tradition convergence:**
+- **Buddhism:** Two-arrow teaching — pain is unavoidable (first arrow), suffering is reactive construction (second arrow). But worst cases shatter the capacity to distinguish arrows; healing requires sangha, not pure self-reconstruction.
+- **Phenomenology:** Recovery happens through time, embodiment, and others (pre-reflective) before lucid engagement becomes possible again.
+- **Philosophy of Mind:** Trauma can damage the "basket" itself — the accessible domain from which all engagement draws.
+- **Epistemology:** Severe trauma disrupts "digestion" — the conversion of phenomena into structured experience.
+
+**Consensus on reformulation:** Asking whether the framework handles worst-case bootstrapping asks the impossible of any philosophy. The question was converted to three tractable sub-questions:
+
+**17.1 — Scope Acknowledgment:** Does the framework acknowledge it presupposes intact constructive capacity?
+
+**17.2 — External Scaffolding:** Does the individual-centric starting point ("人类个体必然只能从人类个体出发") adequately recognize the constitutively relational nature of damage and repair?
+
+**17.3 — Recovery Description:** Can it illuminate how 境-reconstruction works *once* external scaffolding restores minimal capacity, and what that scaffolding needs to provide?
+
+**Verdict:** The author's descriptive orientation and explicit acknowledgment that "some dreamscapes are unchosen" suggests **honest limitation**, not unacknowledged gap. The framework doesn't claim to bootstrap the shattered — it describes how meaning works when enough apparatus remains intact.
+
+**Translation implication:** Present the framework's silence on worst-case trauma as honest scope limitation, not oversight. The essays' scope is lucid engagement for those with intact constructive capacity — a real and valuable contribution that need not be universal to be worthwhile.
+
+---
+
+*Updated 2026-02-13*

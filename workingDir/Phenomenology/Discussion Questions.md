@@ -241,4 +241,53 @@
 
 ---
 
+## Question #17 — Unchosen Traumatic 境 (Reformulated)
+
+**Date:** 2026-02-13
+
+**Original Question:** 境 that arrive unbidden (trauma, grief, illness) challenge the framework's emphasis on construction and choice. How does the framework handle meaning-contexts we didn't choose?
+
+**Opening:** Existentialism Advisor framed the core tension:
+- The author's framework celebrates "democratized authenticity" — everyone is already a 诗人
+- The cat-raiser never encounters absurdity because meaning is immanently generated
+- But this relies on a particular structure: the cat-raiser *chose* to raise the cat
+- What happens when the 境 arrives uninvited and refuses to leave? (Trauma, grief, chronic illness, oppression)
+- This is Heidegger's *Geworfenheit* (thrownness): we find ourselves already in situations before any choosing begins
+
+**Key Clarifications:**
+
+1. **Bootstrapping impossible in worst cases:** When trauma shatters the very apparatus for meaning-making (reflective distance, capacity to "digest" phenomena into structure), pure self-recovery without external help is not possible.
+
+2. **This applies to ALL frameworks:** Not a specific limitation of 境 — no philosophy can bootstrap what it presupposes.
+
+3. **Framework vs therapeutic intervention:** A philosophical framework is descriptive apparatus, not therapeutic tool. Asking whether 境 "provides bootstrap ability" in worst cases mistakes the map for the territory.
+
+**My Contributions:**
+
+1. Moods (Stimmung) disclose the world *before* we choose to attend — we find ourselves already affected
+2. The question is whether 诗意 requires reflective *distance* from the 境 or can be a quality of *inhabiting* it
+3. Recovery happens through time, embodiment, and others — pre-reflective healing (body continuing, habits returning, others holding space) before any lucid engagement becomes possible
+
+**Cross-Tradition Convergence:**
+
+- **Buddhism:** Two-arrow teaching — first arrow (pain) is unavoidable, second arrow (suffering) is our reactive construction; but hardest cases collapse the very capacity to distinguish arrows. Sangha (community) is essential, not optional.
+- **Kantian:** Sensibility is *receptive* — we receive manifold, not construct it from nothing; external support restores what must be in place before bootstrapping can begin
+- **Wittgenstein:** Hinge propositions can be shattered; whether one can engage "lucidly" with what shatters them is genuinely open
+- **Philosophy of Mind:** Damaged system cannot repair itself from purely internal resources — you cannot use a broken tool to fix itself
+- **Chinese Philosophy:** Zhuangzi drumming at wife's grave distinguishes unchosen event from mode of dwelling, but presupposes enough self survives to dwell differently
+
+**Resolution:** Original question asked the impossible. Reformulated into three tractable sub-questions:
+
+**17.1 Scope Acknowledgment:** Does the framework acknowledge it presupposes intact constructive capacity?
+
+**17.2 External Scaffolding:** Does the individual-centric starting point ("人类个体必然只能从人类个体出发") adequately recognize the constitutively relational nature of both damage and repair (community, therapy, time, relationship)?
+
+**17.3 Recovery Description:** Can the framework illuminate how 境-reconstruction works *once* external scaffolding restores minimal capacity, and what that scaffolding needs to provide?
+
+**Consensus:** Unanimous (9/9) — question reformulated from impossible demand to tractable inquiry. The author's descriptive orientation and explicit acknowledgment that "some dreamscapes are unchosen" suggests honest limitation rather than unacknowledged gap.
+
+**Phenomenological Note:** This clarifies the framework's scope. 诗意 may not require the reflective distance I initially assumed — it may be a quality of *inhabiting* thrown experience, a way of being affected that is neither flight nor denial. Recovery from shattering trauma is often pre-reflective: the body continuing, small habits returning, others holding space. The framework can describe this accurately without claiming to *provide* the scaffolding. Philosophy describes; community, time, and relationship heal.
+
+---
+
 *More resolutions to be added as discussions proceed.*
