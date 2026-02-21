@@ -135,4 +135,26 @@ Full team: 9 advisors + Translator + Editor. Ready for translation work.
 
 ---
 
-*Updated 2026-02-13 after Essays 1-3 review.*
+## Revision Discussions (2026-02-20)
+
+### Social Issues — Framework's Implicit Politics
+Author's 关于社会性议题 note says collection doesn't directly address social issues. Correct but understated: by showing (1) social constructions are 境 and (2) we are already constructors, the framework hands readers agency without prescribing. Classic existentialist demystification — showing constructive capacity IS political even without normative agenda. The 写在最后 list is illustrative evidence, not social theory. Section reads cleanly.
+
+### Analytic Judgments — Both Confirmed Analytic
+**Claim 1** ("理性的目的在理性之外"): Unanimous, no debate. Purposive directedness analytically entails gap between current state and destination.
+
+**Claim 2** ("哲学结构如果在经验中有稳定呈现，就可以进行经验性验证"): 4-round debate, all 9 converged to Analytic.
+- Key distinction: KA conjecture is about formal derivability, not in-principle verifiability
+- Key distinction: verifying η's presence (analytic claim covers this) vs. confirming η's structural position (K1's program)
+- Middle reading: "verifiable" = empirical procedure is applicable method — non-trivial yet analytic
+- Domain as standard: experiential domain IS the court of appeal, no external standard required
+- Phenomenology's clarification: synthetic question is WHETHER structures satisfy the antecedent; analytic claim is that IF they do, verifiability follows
+
+Translation note: analytic claim establishes the domain; K1 establishes that specific structures actually appear there.
+
+### Files
+- Created: `workingDir/Existentialism/Revision Memo.md` for ongoing revision records
+
+---
+
+*Updated 2026-02-20 after revision discussions.*

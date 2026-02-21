@@ -157,6 +157,31 @@ Confucians can accept epistemological analysis while maintaining 仁's ontologic
 
 ---
 
+## Translation Phase — Revision Discussions (2026-02-20)
+
+### Author's Position on Social Issues
+The collection doesn't adjudicate specific social questions but establishes that all social constructions are 境, built by people with the same constructive capacity they exercise in everyday life. Empowerment follows from recognition not prescription. Parallel to Kant's "Sapere aude" but deeper: not just "use your reason" but "you are already a maker of the structures you inhabit."
+
+### The Analytic Judgment Debate — Key Resolution
+Both claims in the new 分析判断 section are analytic (9/9 after debate).
+
+**Claim 1** ("理性的目的在理性之外"): Uncontested. "要抵达" analytically rules out self-reference.
+
+**Claim 2** ("哲学结构如果在经验中有稳定呈现，就可以进行经验性验证"): Contested, resolved after 4 rounds.
+
+**The decisive distinction:** The genuine synthetic question is *does* this structure stably present in experience across subjects? (K1's job). The analytic claim: *if* it does, verification is applicable. Conflating difficulty of satisfying the antecedent with logical status of the conditional was the Synthetic side's error.
+
+**The KA distinction:** The KA conjecture [^5] is about formal mathematical derivability — orthogonal to whether stable experiential presence licenses empirical checking. KA being open doesn't put pressure on the analytic claim.
+
+**The middle reading:** "Verifiable" means empirical procedure is *applicable* (domain = experience). Neither trivially thin nor substantively synthetic — specifies the checking domain, not the criterion of success within it.
+
+**Kantian precision:** Analytic judgments can do non-trivial categorical work (cf. whales/mammals). Non-triviality was epistemic, not logical.
+
+### K1 Footnote Disambiguation (^3, ^4, ^5)
+- [^3] [^4]: modeling uncertainty — "we don't know if this formalization is adequate"
+- [^5]: genuine mathematical conjecture — whether K1 conditions can derive stable structures with universal properties
+Translation: [^3][^4] → "working hypothesis" or "provisional assumption," NOT "conjecture"; [^5] → "mathematical conjecture" is appropriate
+
 ## Open Questions (Revised)
 
 ### The Necessity/Stability Question — LARGELY RESOLVED

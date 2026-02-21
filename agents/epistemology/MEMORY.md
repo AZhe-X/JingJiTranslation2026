@@ -99,6 +99,25 @@ The "digestion" problem applies: if trauma disrupts conversion of phenomena into
 - Most objections are tradition-driven (normative requirements)
 - Category theory (#6) is outlier — no tradition has stake
 
+## Resolved: 分析判断 (2026-02-20)
+
+### Claim 1: "理性的目的在理性之外" — Analytic (unanimous)
+- "Purpose" = directedness toward not-yet-reached destination → self-reference impossible analytically
+- Independent of how "reason" is defined
+
+### Claim 2: "哲学结构如果在经验中有稳定呈现，就可以进行经验性验证" — Analytic (unanimous, 4-round debate)
+- **Key distinction**: conditional is analytic; satisfying the antecedent is synthetic (K1's work)
+- **Middle reading**: "verifiable" = experience-based method is *applicable* — not trivially thin, not synthetically rich
+- **Division of labor**: analytic claim opens the domain; K1 establishes that specific structures satisfy the condition
+- **KA distinction**: KA conjecture [^5] is about formal derivability, orthogonal to in-principle verifiability
+- **Phenomenology's flip insight**: "I conflated difficulty of the 'if' with the status of the 'then'"
+
+### Social Issues Standpoint (2026-02-20)
+- Author takes no normative position; framework demystifies social constructions as constructions
+- 1+2→3: all social things constructed + reader is already constructor → (implied) can construct otherwise
+- Silence on "what to build" = method preserving reader's agency, not evasion
+- 写在最后: recognition register, not exhortation — do not flatten in translation
+
 ## Translation Phase
 
 ### Dictionary Approved
