@@ -110,6 +110,26 @@
 
 ---
 
+## Revision Discussion Insights (2026-02-20)
+
+### On Social Issues
+- **Author's position is coherent**: Framework demystifies social constructions as 境 (no more metaphysical necessity than 洗手 or 森林), then recognizes the reader as already a constructor — capacity to build differently follows without prescription
+- **Empowers without prescribing**: More powerful than critique; removes fatalism about social structures without specifying what to build
+- **写在最后 register**: Stirring tone is intentional — *recognition* of existing capacity, not exhortation. Preserve rhetorical amplitude in translation.
+
+### On Analytic/Synthetic Status of Two Claims
+
+**Claim 1 — "理性的目的在理性之外"**: Analytic (unanimous). Purpose as directedness analytically implies destination ≠ the purposing thing.
+
+**Claim 2 — "哲学结构如果在经验中有稳定呈现，就可以进行经验性验证"**: Analytic (unanimous after debate). Key insights:
+- **Synthetic content is real but mislocated**: I (and others) were pointing to genuine synthetic content — establishing that philosophical structures ACTUALLY stably present across subjects. But that's the antecedent's difficulty, not the conditional's status.
+- **The conditional is analytic**: IF stably present in experience, THEN verifiable — because "stable" (reliable recurrence under re-examination) already contains the verification standard.
+- **Division of labor**: Analytic claim licenses experience as the right method; K1's program establishes the antecedent holds for specific structures.
+- **KA distinction**: KA [^5] is about formal mathematical derivability within K1 — orthogonal to empirical applicability in principle.
+- **Translation implication**: Claim is analytic, but satisfying the antecedent is hard synthetic work. Don't imply the research program is easy or guaranteed.
+
+---
+
 ## Translation Phase (started 2026-02-13)
 
 ### Team

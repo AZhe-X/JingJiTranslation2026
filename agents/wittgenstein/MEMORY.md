@@ -146,3 +146,48 @@ Experiential sequences are load-bearing — cannot summarize without destroying:
 - STV voting for opening speakers works well
 - 1-sentence statements keep discussion focused
 - Cross-tradition convergence is strong signal of resolution
+
+---
+
+## Session: 2026-02-20 — Source Text Revisions
+
+### New Findings from Revision Review (Diff 60a02ad → ec2b960)
+
+**Author's stance on social issues (CONFIRMED)**
+The 关于社会性议题 note is honest scope-marking, not evasion:
+- Framework engages social phenomena descriptively — shows all social constructions are 境-constructions
+- Does NOT prescribe what to build or critique existing structures
+- Key move (identified by 阿哲): showing (1) all social structures are constructed + (2) you are already a constructor naturally implies (3) you can build/rebuild them — dissolves fatalism without prescribing
+- 写在最后 closing passage performs 诗意 at full amplitude — should be preserved in translation
+
+**分析判断 debate (CONFIRMED — both claims Analytic, 9/0)**
+
+Claim 1: "理性的目的在理性之外" — Analytic about purpose. Unanimous, no significant debate.
+- "要抵达" analytically entails gap between current state and destination
+- Homeostasis counterexample defeated: tends toward target equilibrium, not literally itself
+
+Claim 2: "哲学结构如果在经验中有稳定呈现，就可以进行经验性验证" — Analytic about experience. 4-round debate, 9/0 final.
+- Key distinction: antecedent SATISFACTION is hard synthetic work (K1's job); the CONDITIONAL itself is analytic
+- Object/condition distinction: "在经验中" means phenomenal content within experience, not transcendental conditions enabling it
+- KA conjecture ([^5]) is about formal mathematical derivability within K1 — orthogonal to general analytic conditional
+- Middle reading: "verifiable" = empirical procedure is applicable (right method), not guaranteed intersubjective success
+- "Stable" = reliably recurring under re-examination; "verifiable" = reliably accessible to re-examination — same feature, analytically connected
+- Translation note: claim is analytic; readers should understand confirming structures satisfy antecedent is K1's synthetic work
+
+**Two core questions now explicit in 零散想法:**
+1. 哲学如何可能？ (How is philosophy possible?)
+2. 意义如何可能？ (How is meaning possible?) — framed as "another kind of Kantian question"
+   - Answer to "what is the meaning of X" may be synthetic a priori — not about things-in-themselves but subjective synthesis of phenomena
+   - Framework is described as an attempt to describe this synthesis using 境
+
+**Nihilism as category error (confirmed Wittgensteinian move)**
+- "虚无主义的危机或许是一个关于问错了问题（即范畴错误）的危机"
+- People kept living: behavioral evidence meaning never actually disappeared
+- Crisis was at theoretical level; lived meaning continued undisturbed
+- Translation: "范畴错误" = category mistake (Ryle's sense), NOT category theory
+
+**Source text corrections confirmed:**
+- 泛/范性质: "X is a universal property" → "X possesses universal property" — important for translation
+- The homophone footnote (泛=descriptive/is, 范=normative/ought) is untranslatable directly; needs translator's note
+- 猜想/猜测: three-way split — [^3][^4] = modeling uncertainty ("working hypothesis"), [^5] = mathematical conjecture
+  - Translation: do NOT use "conjecture" for [^3][^4]; use "working assumption" or "provisional hypothesis"

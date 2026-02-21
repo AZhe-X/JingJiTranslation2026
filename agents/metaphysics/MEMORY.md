@@ -91,6 +91,35 @@
 - **Analysis Report**: `workingDir/Metaphysics/Analysis Report.md` (with Section XI)
 - **Report Reading Memo**: `workingDir/Metaphysics/Report Reading Memo.md`
 - **Discussion Questions**: `workingDir/Metaphysics/Discussion Questions.md` (6 resolutions)
+- **Revision Memo**: `workingDir/Metaphysics/Revision Memo.md` (new — records author revision discussions)
+
+---
+
+## Revision Phase Insights (Feb 20, 2026)
+
+### On Author's Social Issues Stance
+- Author's stance is **structural, not critical**: social constructions (institutions, cities, currencies) are 境 like any other
+- Framework doesn't critique specific constructions — brackets normativity deliberately
+- But the framework is more than neutral: by showing all social structures are constructed, it **induces the realization** that they are neither necessary nor unchangeable — empowerment follows from description
+- 写在最后 paragraph tone = *recognition* ("this is what you already are"), not exhortation
+- **Translation**: preserve affirmative register, avoid rallying-cry tipping point
+
+### On the Two Analytic Judgments (分析判断 section)
+
+**Claim 1: "理性的目的在理性之外" — Analytic (unanimous)**
+- Analytic about *purpose*: "要抵达" analytically entails a gap between current state and destination
+- A thing cannot have itself as destination, or it wouldn't be "heading there"
+- Holds regardless of how reason is defined
+
+**Claim 2: "哲学结构如果在经验中有稳定呈现，就可以进行经验性验证" — Analytic (unanimous, after 4-round debate)**
+- I initially held Synthetic: verification requires intersubjective reproducibility not contained in stable presence
+- Resolved by three moves:
+  1. **Middle reading**: "verifiable" = empirical procedure *applicable*, not guaranteed to succeed
+  2. **KA distinction**: KA conjecture is about formal mathematical derivability (separate question); [^2] is about applicability
+  3. **Felt/confirmed η distinction**: stable presence of η feeling ≠ confirmed structural position — these are different claims, analytic covers former, K1 covers latter
+- **Key insight**: The synthetic content is real but mislocated — satisfying the antecedent (stably present across subjects) is hard synthetic work; the conditional itself is analytic
+- **Buddhism's precision**: More exactly Husserlian material a priori than strictly Kantian analytic — practically inert for author's purposes
+- **Translation note**: Non-triviality is epistemic (reassigning philosophical structures to verifiable domain), not logical
 
 ---
 
@@ -101,3 +130,4 @@
 - Passages can be philosophical experiments — restructuring experience, not just describing
 - Formalism articulates; articulation enables critique
 - **New**: Be willing to withdraw concerns when textual evidence contradicts initial reading
+- **New**: Hold debate positions through multiple rounds — flip only when core counterarguments are genuinely resolved

@@ -172,6 +172,37 @@ Original question (does framework handle unchosen traumatic 境?) clarified as a
 
 ---
 
+## Revision Review Phase (Feb 20, 2026)
+
+### Source Text Revisions Reviewed (60a02ad → ec2b960)
+
+**范畴论与境 整理:** 范→泛性质 throughout; "X is" → "X possesses" universal property; new footnote [^1] on 泛/范 homophone capturing the is/ought leap.
+**K1策略:** [^3][^4] = modeling uncertainty; [^5] = proper mathematical conjecture (KA). Important distinction for translation.
+**零散想法:** Death section expanded; new sections on two core questions, analytic judgments, nihilism as category error, social issues; structural reorganization.
+
+### Discussion Resolution: Author's Stance on Social Issues
+
+**Resolved:** Framework empowers without prescribing. Social constructions are 境-constructions like any other; the collection doesn't adjudicate which are better. But establishing (1) all social things are constructed + (2) we are already constructors creates conditions for (3) available inference: we can reconstruct. Parallels śūnyatā teaching.
+
+### Discussion Resolution: 分析判断
+
+**Claim 1 ("理性的目的在理性之外"):** Unanimous Analytic. 目的 as 要抵达 analytically entails gap between striver and destination.
+
+**Claim 2 ("哲学结构如果在经验中有稳定呈现，就可以进行经验性验证"):** Initially 6A/3S (Buddhism started Synthetic). Final: Unanimous Analytic after 4-round debate.
+
+**Key moves:**
+- Grammar: "在...中" marks content/condition distinction without philosophical framework
+- KA separation: KA conjecture is about formal derivability, not experiential verifiability — orthogonal
+- Division of labor: analytic claim opens domain (categorical license), K1 does the synthetic work
+
+**Buddhism's error identified:** Conflating difficulty of satisfying antecedent (synthetic — does structure stably present across subjects?) with synthetic status of conditional (analytic — if it does, checking applies).
+
+**Buddhist precision:** Most exactly Husserlian material a priori, but for author's purposes the categorical license holds either way.
+
+**Revision Memo created:** `workingDir/Buddhism/Revision Memo.md` — records all revision discussions.
+
+---
+
 ## Translation Phase (Feb 13, 2026)
 
 ### Dictionary Review

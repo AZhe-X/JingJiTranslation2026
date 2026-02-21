@@ -176,4 +176,44 @@ Wang Yangming's 良知 and author's 诗人 share structure:
 
 ### Translation Progress
 - Essays 1-3: All approved (10/10 Good, no revisions)
-- Ready for Essay 4 (关于诗意和境的一些零散想法 / Appendix)
+- Essay 4 (零散想法): Source text revised (2026-02-20), revision discussions underway
+
+---
+
+## Source Text Revisions (2026-02-20)
+
+### 范畴论与境 整理
+- 泛/范性质 fix throughout: objects *possess* universal property, not *are* universal property
+- New footnote [^1]: 泛/范 homophone (universal/normative) — typo enacting the is/ought slip the collection diagnoses
+
+### K1策略
+- [^3], [^4]: modeling uncertainty; [^5]: genuine mathematical conjecture (KA)
+- Essential for translation: "conjecture" only for [^5]; "provisional assumption" for [^3],[^4]
+
+### 零散想法 new sections
+- Death: our concept of own death constructed from third-person observations
+- Two questions: 哲学如何可能 / 意义如何可能 + Kantian framing
+- Analytic judgments: both claims confirmed analytic (see below)
+- Nihilism-as-category-error: meaning never disappeared; crisis was wrong question
+- Social issues: no normative engagement; but framework empowers via demystification
+- Structural reorganization: 写在最后 labeled; new sections before it
+
+---
+
+## Revision Discussion Resolutions (2026-02-20)
+
+### 关于社会性议题
+- No tension: disclaimer = no normative prescription; 写在最后 = demonstrative evidence
+- Implicit structure: (1) social things are constructed → (2) you are already a constructor → (3) [reader's inference] you can construct/reconstruct
+- Author makes (1) and (2); leaves (3) open — deliberate, consistent with descriptive method
+- Chinese connection: same structure as 道德仁义礼 analysis + Wang Yangming 良知 + Mencius 非独贤者有是心也
+
+### 分析判断 — Both Claims Confirmed Analytic (unanimous after debate)
+
+**Claim 1:** "理性的目的在理性之外" — immediate consensus
+- Analytic about purpose: "要抵达" entails gap between current state and destination
+
+**Claim 2:** "哲学结构如果在经验中有稳定呈现，就可以进行经验性验证" — 4-round debate
+- Decisive: KA distinction (mathematical derivability ≠ empirical applicability); middle reading ("applicable" = right method); division of labor (analytic claim licenses domain; K1 does synthetic work)
+- Phenomenology's insight: conflated difficulty of satisfying antecedent with status of conditional
+- Translation: "verifiable" = procedural applicability; establishing antecedent is satisfied = K1's synthetic job

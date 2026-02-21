@@ -1,6 +1,6 @@
 # Team Lead Memo — 境集 Translation Project
 
-*Last updated: 2026-02-13 08:20 PST*
+*Last updated: 2026-02-20 17:15 PST*
 
 ## Project Overview
 
@@ -14,7 +14,10 @@ Translating 境集 (Jing Ji), a philosophical essay collection, from Chinese to 
 - ✅ Phase 2 Complete: Discussion phase resolved 14/20 topics
 - ✅ Translation Dictionary approved (11/11 unanimous, 95 entries)
 - ✅ Reference translation established (道德仁义礼 passage from Essay 4)
-- 🔄 Translation drafting in progress
+- ✅ Essays 1-3 translated, reviewed (10/10 Good each), committed
+- ✅ Source text revisions reviewed by advisors (2026-02-20)
+- 🔄 Translation drafting in progress (Essay 4+ remaining)
+- 🔄 Source text revision discussions ongoing
 
 ## Team Structure
 
@@ -424,22 +427,87 @@ The necessity/contingency binary itself may be the wrong frame. Stability-with-r
 
 ---
 
-## Context Status (2026-02-13 08:13 PST)
+## Phase 4: Source Text Revision Review (2026-02-20)
+
+Author revised three source files since last session. Advisors reviewed full diff (`60a02ad..ec2b960`).
+
+### Source Text Changes
+
+**范畴论与境 整理:**
+- 泛/范性质 terminology: "X is a universal property" → "X has/possesses a universal property" (throughout)
+- New footnote [^1]: 泛/范 homophone — accidental is→ought mirror
+- Typo fixes: Top-dowm→Top-down, Bottoom-up→Bottom-up, 自上下而上→自下而上
+
+**K1策略:**
+- Three new footnotes disambiguating 猜想/猜测:
+  - [^3], [^4]: modeling uncertainty ("we don't know if this approach adequately describes...")
+  - [^5]: mathematical conjecture (KA猜想 — can K1 conditions derive universal-property structures?)
+
+**零散想法 (Scattered Thoughts):**
+- Death section expanded: our concept of death built from others' deaths via 形而上
+- New section: Two core questions (哲学如何可能? / 意义如何可能?)
+- New section: Analytic judgments (two claims identified)
+- New section: Nihilism-as-category-error
+- New section: Social issues acknowledgment
+- Structural reorganization (写在最后 section added)
+
+### Revision Discussions
+
+#### Social Issues Section — **RESOLVED**
+**Consensus:** Section is an honest scope acknowledgment, not a limitation. Framework's individual starting point ("人类个体必然只能从人类个体出发") doesn't preclude social analysis — it provides the foundation for one.
+
+#### 分析判断 — Claim 1: "理性的目的在理性之外" — **RESOLVED**
+**Verdict: Analytic (9/9 unanimous)**
+- "要抵达" analytically entails a gap between current state and destination
+- A thing already at its destination wouldn't be "arriving"
+- Holds regardless of how you define reason
+
+#### 分析判断 — Claim 2: "哲学结构如果在经验中有稳定呈现，就可以进行经验性验证" — **RESOLVED**
+**Verdict: Analytic (9/9 final, after 4-round debate)**
+- Initial split: 6 Analytic / 3 Synthetic (Metaphysics, Phenomenology, Buddhism)
+- Synthetic side correctly identified real content in the antecedent (what counts as "stable presence"? what counts as "experience"?)
+- **Key resolution:** The synthetic content lives in the *antecedent* ("if X stably presents in experience"), not in the *conditional* (if→then). The conditional itself is analytic.
+- All three Synthetic voters flipped after this distinction was articulated
+
+#### Death Section — Footnote Proposed to Author
+**Status:** 9/9 confirmed, ready to send
+
+Advisors discussed whether the revised death section's critique of Heidegger's being-toward-death is clear enough without a concrete example. Consensus: the *mechanism* (third-person → phenomenal basis → structural self-application) is clear, but the *anti-Heideggerian force* needs a comparator case to block the response "yes, but death is still ontologically unique."
+
+**Proposed footnote (9/9 approved):**
+> For Heidegger, death is Dasein's ownmost, non-relational, certain-yet-indefinite possibility: it will happen to me (not to Dasein-in-general), no one can take it over for me, and its constant imminence (rather than its eventual arrival) is what structures authentic existence as being-toward-death. However, death is never unique in that sense. Consider this example: I am a young boy. I have been told that one day I will fall in love with a girl, and I believe this deeply, since I see it as the pattern for every boy around me. I can therefore say, at this moment: it will happen to me, no one can take it over for me, and its constant imminence is what structures authentic existence as being-toward-girl. Notice that my certainty about my own death has exactly the same epistemological structure as this boy's certainty about his first love.
+
+**Key editorial decision:** Existentialism Advisor recommended removing "once I fall in love, the old me will never exist again" — it concedes ontological ground to Heidegger by trying to make first love death-like. The example is stronger as purely epistemological parallel.
+
+**Placement:** After "遵循某种结构推广而应用于自己身上" in the death section of 零散想法.
+
+### Translation Implications from Revisions
+- 泛性质 phrasing: "has/possesses universal property" (not "is")
+- 猜想 disambiguation: "conjecture" (math) vs. "hypothesis" or "speculation" (modeling)
+- 泛/范 footnote: preserve homophone observation in TN
+- 经验性验证: careful register — "empirical verification" vs "experiential validation"
+
+## Context Status (2026-02-20 11:35 PST)
 
 | Agent | Tokens | Usage | Notes |
 |-------|--------|-------|-------|
-| Chinese Philosophy | 168,064 | 84% | ⚠️ Needs compaction |
-| Epistemology | 163,346 | 82% | ⚠️ Needs compaction |
-| Existentialism | 162,231 | 81% | ⚠️ Needs compaction |
-| Phenomenology | 158,796 | 79% | |
-| Kantian | 152,556 | 76% | |
-| Buddhism | 151,915 | 76% | |
-| Wittgenstein | 143,316 | 72% | |
-| Philosophy of Mind | 142,766 | 71% | |
-| Metaphysics | 138,963 | 69% | |
-| Translator | ~11,000 | 6% | Just compacted + reloaded |
-| Editor | ~8,100 | 4% | Just compacted + reloaded |
-| Lumen | 37,323 | 19% | |
+| Chinese Philosophy | 170k | 85% | Just compacted → ~12% |
+| Wittgenstein | 166k | 83% | Just compacted → ~11% |
+| Kantian | 166k | 83% | Just compacted → ~11% |
+| Buddhism | 166k | 83% | Just compacted → ~11% |
+| Phenomenology | 162k | 81% | Just compacted → ~11% |
+| Lumen | 159k | 79% | |
+| Phil of Mind | 159k | 79% | |
+| Metaphysics | 155k | 78% | |
+| Epistemology | 153k | 77% | |
+| Existentialism | 153k | 76% | |
+| Translator | 58k | 29% | |
+| Editor | 53k | 27% | |
+
+**Model config (since 2026-02-18):**
+- Lumen: Claude Opus 4.6
+- All 11 agents: Claude Sonnet 4.6
+- Context cap: 200k (1M not available with current auth)
 
 ---
 
@@ -454,9 +522,14 @@ The necessity/contingency binary itself may be the wrong frame. Stability-with-r
 - [x] Translator SOUL.md + Discord bot
 - [x] Translation Dictionary approved (95 entries)
 - [x] Reference translation established (道德仁义礼)
-- [ ] Continue translation drafting
-- [ ] Address #17 (Traumatic 境) during translation when relevant
+- [ ] Continue translation drafting (Essay 4+)
+- [x] Question 17 reformulated into 17.1/17.2/17.3 (9/9 consensus)
+- [x] Source text revisions reviewed (2026-02-20)
+- [x] Social issues section discussed and resolved
+- [x] Both analytic judgment claims discussed and resolved
+- [x] Death section discussed — footnote proposed to author (9/9 confirmed)
+- [ ] Remaining revision topics from diff (nihilism, two questions) — not yet formally discussed
 
 ---
 
-*Last updated: 2026-02-13 08:20 PST*
+*Last updated: 2026-02-20 17:15 PST*
