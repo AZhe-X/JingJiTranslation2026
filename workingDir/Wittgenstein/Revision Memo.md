@@ -79,6 +79,37 @@ The Synthetic side was tracking something real but mislocating it. The genuine s
 
 ---
 
+---
+
+## 2026-02-20 — Death Section Expansion
+
+### Topic 3: Expanded 关于死亡 §2 in 零散想法
+
+**Change reviewed:**
+
+Old: "自己的死亡对于自己是超越性的。因此不可能向死而生。因为这里向的死，是自己所以为的死，根据不同的形而上学对死亡的理解不同，这里背后其实就有形而上学的价值观。"
+
+New: Inserts explicit epistemological mechanism — "我们从未体验过死亡，我们对死亡的感受、理解（例如认为死亡作为生命必然发生的终点），都来源于我们所见的（不是自己的）死亡，并以这些现象为基础构建形而上，并遵循某种结构推广而应用于自己身上。"
+
+**Key philosophical finding:**
+
+The revision supplies the mechanism behind the bare assertion. Our concept of our own death is derived entirely from third-person observations (others' deaths), processed as phenomena, abstracted into 形而上, and applied to ourselves by structural extension — "遵循某种结构推广而应用于自己身上." This is the same concept-formation pattern described throughout the collection (礼→仁→义→德→道), now applied to death.
+
+**Philosophy of language contribution:**
+"My death" as a first-person concept has no first-person phenomenal anchor. Unlike pain or grief, where first-person access partly grounds the first-person use, "my death" is borrowed from a language-game built around third-person cases. The very features Heidegger uses to uniquify death (ownmost, non-relational, certain) are themselves properties attributed through this inferential chain — not features accessible prior to it.
+
+**Proposed footnote (approved by all advisors, to be sent to author):**
+
+> For Heidegger, death is Dasein's ownmost, non-relational, certain-yet-indefinite possibility: it will happen to me (not to Dasein-in-general), no one can take it over for me, and its constant imminence (rather than its eventual arrival) is what structures authentic existence as being-toward-death. However, death is never unique in that sense. Consider this example: I am a young boy. I have been told that one day I will fall in love with a girl, and I believe this deeply, since I see it as the pattern for every boy around me. I can therefore say, at this moment: it will happen to me, no one can take it over for me, and its constant imminence is what structures authentic existence as being-toward-girl. Notice that my certainty about my own death has exactly the same epistemological structure as this boy's certainty about his first love.
+
+**Rationale for footnote:** The revised text states the mechanism clearly but doesn't defamiliarize it. The example shows the same three-step structure (observe pattern in others → construct 形而上 → apply to self) in a non-death case, making visible that Heidegger's criteria for death's uniqueness are reproducible from the same inferential mechanism — which is the implicit anti-Heideggerian argument the revision carries.
+
+**Note on footnote editorial:** An earlier draft included "once I fall in love, the old 'me' will never exist again" — this was cut as it concedes ontological ground to Heidegger (inviting the response that death requires irreversibility to match). The final version rests entirely on the epistemological parallel.
+
+**Translation implication:** The parenthetical "例如认为死亡作为生命必然发生的终点" does real philosophical work — it shows that even "neutral" descriptive claims about death are metaphysical constructions. Preserve this in translation; do not render it as a mere clarification.
+
+---
+
 ### Translation Implications for 分析判断 Section
 
 **Claim 1:** Translate straightforwardly as analytic about purpose. No translator's note needed.

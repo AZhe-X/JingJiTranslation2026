@@ -57,3 +57,29 @@ Synthetic side's strongest challenges:
 
 ---
 
+## 关于死亡 — Expansion of Death Section (零散想法, Point 2)
+
+**Change:** Point 2 of 关于死亡 expanded from:
+> "…因为这里向的死，是自己所以为的死，根据不同的形而上学对死亡的理解不同，这里背后其实就有形而上学的价值观。"
+
+to:
+> "…因为这里向的死，是自己所以为的死。也就是说，我们从未体验过死亡，我们对死亡的感受、理解（例如认为死亡作为生命必然发生的终点），都来源于我们所见的（不是自己的）死亡，并以这些现象为基础构建形而上，并遵循某种结构推广而应用于自己身上。根据不同的形而上学对死亡的理解不同，这里背后其实就有形而上学的价值观。"
+
+**Discussion outcome (2026-02-20):**
+
+The expansion significantly strengthens the death-argument by making explicit the epistemological mechanism behind "自己的死亡对于自己是超越性的." Previously the claim stood alone; now it explains *why*: our concept of our own death is derived from third-person observations of others' deaths, processed as phenomena, structured metaphysically, then applied to ourselves via structural extrapolation ("遵循某种结构推广而应用于自己身上"). This is the standard 形而上 construction mechanism described throughout the collection — death is not epistemologically special.
+
+**Key insight:** This connects the death-argument to Essay 1's point about intersubjective understanding. Just as we understand others by projecting from our own experience, we understand our own death by projecting from observed deaths. Death-knowledge follows the same structure as any anticipated first-person event we've only witnessed in others.
+
+**Implication for Heidegger:** Being-toward-death doesn't escape the mediation structure of 形而上. The features Heidegger uses to privilege death (ownmost, non-relational, certain) are themselves products of the same inferential mechanism — not something accessed prior to it. Previously the author's counter-argument was contestable; the expansion provides the mechanism.
+
+**Proposed footnote (team consensus, all 9 confirmed):**
+
+> For Heidegger, death is Dasein's ownmost, non-relational, certain-yet-indefinite possibility: it will happen to me (not to Dasein-in-general), no one can take it over for me, and its constant imminence (rather than its eventual arrival) is what structures authentic existence as being-toward-death. However, death is never unique in that sense. Consider this example: I am a young boy. I have been told that one day I will fall in love with a girl, and I believe this deeply, since I see it as the pattern for every boy around me. I can therefore say, at this moment: it will happen to me, no one can take it over for me, and its constant imminence is what structures authentic existence as being-toward-girl. Notice that my certainty about my own death has exactly the same epistemological structure as this boy's certainty about his first love.
+
+**Rationale for footnote:** The revised text is clear on the mechanism but leaves the anti-Heideggerian implication implicit. A reader sympathetic to Heidegger can accept the epistemological mechanism while maintaining death is ontologically unique. The example forecloses this by showing the same three Heideggerian features (mine-ness, non-relational, constant imminence) arise from the same constructive mechanism in a non-death case — demonstrating those features can't be what makes death philosophically special. The "old me" framing was deliberately excluded to avoid conceding ontological ground.
+
+**Verdict:** Revision improves the text. Footnote proposed to author.
+
+---
+

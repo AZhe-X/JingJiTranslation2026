@@ -74,3 +74,25 @@ The 写在最后 closing paragraph should feel like *recognition*, not exhortati
 The claim is analytic, but readers should understand that confirming philosophical structures actually satisfy the antecedent — that they genuinely and stably present across subjects — is the hard synthetic work K1's experimental program is designed to do. The analytic claim establishes the categorical license; K1 establishes that specific structures satisfy the condition. Do not conflate the two in translation apparatus.
 
 ---
+
+## Topic: 死亡 Section — Expansion of Point #2
+
+**Revision:** Point #2 in the 死亡 section of 零散想法 expanded with explicit epistemological mechanism.
+
+**What was added:** "也就是说，我们从未体验过死亡，我们对死亡的感受、理解（例如认为死亡作为生命必然发生的终点），都来源于我们所见的（不是自己的）死亡，并以这些现象为基础构建形而上，并遵循某种结构推广而应用于自己身上。"
+
+**What the revision adds:**
+The original asserted framework-dependence of death-conceptions. The revision supplies the epistemological mechanism: all our phenomenal access to death is *third-person* (we've only witnessed others' deaths, never our own), and our concept of own-death is constructed from that third-person base via structural extrapolation. This directly applies the collection's access-based methodology (Essay 2) to the case of death.
+
+**Key implication:** Being-toward-death (Heidegger's 向死而生) operates entirely within a metaphysically constructed framework built from watching others die — no privileged first-person epistemic access exists. The revision makes this structural argument explicit where before it was only gestured at.
+
+**Team discussion — proposed footnote to author:**
+The revised text is clear about the mechanism but leaves implicit that death lacks epistemic uniqueness. A comparison case makes this explicit. Team confirmed the following for proposal to the author:
+
+> *For Heidegger, death is Dasein's ownmost, non-relational, certain-yet-indefinite possibility: it will happen to me (not to Dasein-in-general), no one can take it over for me, and its constant imminence (rather than its eventual arrival) is what structures authentic existence as being-toward-death. However, death is never unique in that sense. Consider this example: I am a young boy. I have been told that one day I will fall in love with a girl, and I believe this deeply, since I see it as the pattern for every boy around me. I can therefore say, at this moment: it will happen to me, no one can take it over for me, and its constant imminence is what structures authentic existence as being-toward-girl. Notice that my certainty about my own death has exactly the same epistemological structure as this boy's certainty about his first love.*
+
+**Footnote rationale:** The example provides a comparison case with identical epistemological structure but without death's apparent uniqueness, foreclosing the Heideggerian retreat to "but death is still ontologically special." The "old me who has never known love" line was deliberately excluded to avoid conceding ontological ground (irreversibility) that would let Heidegger distinguish the cases.
+
+**Status:** Footnote confirmed unanimously. Awoo to email to author.
+
+---

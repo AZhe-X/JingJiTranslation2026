@@ -72,3 +72,25 @@ Agreed by all advisors without extended debate. The argument: "purpose" (目的)
 - Both claims should be rendered as explicitly analytic; the translated footnotes should preserve the author's argument structure
 - For claim 2: the English translation should make clear that the claim is about the *conditional* — "if stably present, then verifiable" — not a claim that any given philosophical structure in fact satisfies the antecedent. The synthetic work of establishing the antecedent is K1's program.
 - "经验性验证" should be translated as "empirical verification" (not "empirical confirmation" or "empirical proof"), preserving the procedural/applicability sense rather than guaranteeing success
+
+---
+
+### 3. 关于死亡 — expansion of point 2 (零散想法)
+
+**The change:** Point 2 was expanded from a bare assertion to an argued claim. The original said only that 向死而生 is impossible because the death we face toward is "our conception of death," with a gesture at framework-dependence. The revision adds the epistemological mechanism: we have never experienced our own death; our understanding of it comes entirely from observing others' deaths, constructing metaphysics from those phenomena, and applying the resulting structure to ourselves via structural extension.
+
+**Discussion outcome:**
+
+The revision is accurate, clarifying, and consistent with the framework. Key points:
+
+- The expanded text makes explicit the K1-methodology at work: death is the paradigm case where the gap between first reality (what we experience) and second reality (our constructed concept) is maximal — we can never achieve η with our own death. Our death-concept is permanently a model constructed from phenomenal observations of others' deaths, never a structure we can confirm through felt alignment with our own case.
+- Being-toward-death (Heidegger's Sein-zum-Tode) doesn't escape this: its claimed uniqueness (necessity, ownmost-ness, totalization) is itself derived via the same construction, not accessed prior to it.
+- The epistemological structure of "certainty about one's own death" is identical to the structure of any other projection from third-person observation to first-person expectation.
+
+**Proposed footnote (unanimously approved, to be sent to author):**
+
+> For Heidegger, death is Dasein's ownmost, non-relational, certain-yet-indefinite possibility: it will happen to me (not to Dasein-in-general), no one can take it over for me, and its constant imminence (rather than its eventual arrival) is what structures authentic existence as being-toward-death. However, death is never unique in that sense. Consider this example: I am a young boy. I have been told that one day I will fall in love with a girl, and I believe this deeply, since I see it as the pattern for every boy around me. I can therefore say, at this moment: it will happen to me, no one can take it over for me, and its constant imminence is what structures authentic existence as being-toward-girl. Notice that my certainty about my own death has exactly the same epistemological structure as this boy's certainty about his first love.
+
+**Rationale for footnote:** The revised text makes the epistemological observation clearly but doesn't deliver the philosophical punch on its own — a Heideggerian reader can still claim ontological uniqueness for death transcending the epistemological point. The being-toward-girl example shows that the criteria Heidegger uses to uniquify death are satisfied by other cases too when the same constructive move is made. The "old me" formulation was explicitly removed to avoid conceding ontological ground; the example now rests purely on the epistemological parallel. Follows the style of existing footnotes throughout the collection.
+
+**Verdict:** Section is accurate and an improvement. Footnote proposed to author for further strengthening.

@@ -1,6 +1,6 @@
 # Team Lead Memo — 境集 Translation Project
 
-*Last updated: 2026-02-20 11:40 PST*
+*Last updated: 2026-02-20 17:15 PST*
 
 ## Project Overview
 
@@ -469,6 +469,18 @@ Author revised three source files since last session. Advisors reviewed full dif
 - **Key resolution:** The synthetic content lives in the *antecedent* ("if X stably presents in experience"), not in the *conditional* (if→then). The conditional itself is analytic.
 - All three Synthetic voters flipped after this distinction was articulated
 
+#### Death Section — Footnote Proposed to Author
+**Status:** 9/9 confirmed, ready to send
+
+Advisors discussed whether the revised death section's critique of Heidegger's being-toward-death is clear enough without a concrete example. Consensus: the *mechanism* (third-person → phenomenal basis → structural self-application) is clear, but the *anti-Heideggerian force* needs a comparator case to block the response "yes, but death is still ontologically unique."
+
+**Proposed footnote (9/9 approved):**
+> For Heidegger, death is Dasein's ownmost, non-relational, certain-yet-indefinite possibility: it will happen to me (not to Dasein-in-general), no one can take it over for me, and its constant imminence (rather than its eventual arrival) is what structures authentic existence as being-toward-death. However, death is never unique in that sense. Consider this example: I am a young boy. I have been told that one day I will fall in love with a girl, and I believe this deeply, since I see it as the pattern for every boy around me. I can therefore say, at this moment: it will happen to me, no one can take it over for me, and its constant imminence is what structures authentic existence as being-toward-girl. Notice that my certainty about my own death has exactly the same epistemological structure as this boy's certainty about his first love.
+
+**Key editorial decision:** Existentialism Advisor recommended removing "once I fall in love, the old me will never exist again" — it concedes ontological ground to Heidegger by trying to make first love death-like. The example is stronger as purely epistemological parallel.
+
+**Placement:** After "遵循某种结构推广而应用于自己身上" in the death section of 零散想法.
+
 ### Translation Implications from Revisions
 - 泛性质 phrasing: "has/possesses universal property" (not "is")
 - 猜想 disambiguation: "conjecture" (math) vs. "hypothesis" or "speculation" (modeling)
@@ -515,8 +527,9 @@ Author revised three source files since last session. Advisors reviewed full dif
 - [x] Source text revisions reviewed (2026-02-20)
 - [x] Social issues section discussed and resolved
 - [x] Both analytic judgment claims discussed and resolved
-- [ ] Remaining revision topics from diff (death, nihilism, two questions) — not yet formally discussed
+- [x] Death section discussed — footnote proposed to author (9/9 confirmed)
+- [ ] Remaining revision topics from diff (nihilism, two questions) — not yet formally discussed
 
 ---
 
-*Last updated: 2026-02-20 11:40 PST*
+*Last updated: 2026-02-20 17:15 PST*

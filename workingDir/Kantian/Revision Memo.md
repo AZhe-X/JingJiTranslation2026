@@ -66,4 +66,32 @@ The Synthetic position identified something real but mislocated it. The genuine 
 
 ---
 
+## 3. 关于死亡 — Section Expansion (零散想法)
+
+**The revision:** Point 2 in the death section was expanded from a bare assertion to a mechanistic account.
+
+**Old text (condensed):** "自己的死亡对于自己是超越性的。因此不可能向死而生。因为这里向的死，是自己所以为的死，根据不同的形而上学对死亡的理解不同，这里背后其实就有形而上学的价值观。"
+
+**New text adds:** An explicit account of *why* — we have never experienced our own death; our understanding of it comes entirely from third-person observations (others' deaths), which we process phenomenally, abstract into metaphysical concepts, and apply to ourselves through structural generalization.
+
+**The philosophical contribution of the revision:**
+
+The expansion makes explicit the epistemic mechanism that the old version only asserted. The mechanism is the same one the framework uses everywhere (礼→仁→德→道): third-person observation → phenomenal base → metaphysical construction → structural self-application. The revision shows that our concept of "my own death" has this structure — which means the "death" oriented toward in "向死而生" is not death itself but a metaphysically constructed projection from witnessed deaths.
+
+**Kantian resonance:** Structurally parallel to Kant's Paralogisms — just as "I" as subject cannot appear to itself as an object (the self is never available as a thing-in-itself), "my death" cannot appear within my domain of possible experience. Both involve a limit on first-person access that cannot be overcome by any inferential procedure.
+
+**The Heidegger critique:**
+
+The revision constitutes an implicit but precise critique of Heidegger's *Sein-zum-Tode* (being-toward-death). Heidegger claims death is Dasein's *ownmost*, non-relational, certain-yet-indefinite possibility — uniquely individuating and authenticating. The author's revision shows that the epistemic structure underlying this claim (third-person-derived certainty applied to self) is not unique to death.
+
+**Proposed footnote (approved by all advisors):**
+
+> For Heidegger, death is Dasein's ownmost, non-relational, certain-yet-indefinite possibility: it will happen to me (not to Dasein-in-general), no one can take it over for me, and its constant imminence (rather than its eventual arrival) is what structures authentic existence as being-toward-death. However, death is never unique in that sense. Consider this example: I am a young boy. I have been told that one day I will fall in love with a girl, and I believe this deeply, since I see it as the pattern for every boy around me. I can therefore say, at this moment: it will happen to me, no one can take it over for me, and its constant imminence is what structures authentic existence as being-toward-girl. Notice that my certainty about my own death has exactly the same epistemological structure as this boy's certainty about his first love.
+
+**Why the example works:** It isolates the purely epistemological structure — pattern observed in others → construction → "mine-ness" by self-application — and shows it generates Heidegger's three claimed features (ownmost, non-relational, certain-yet-indefinite) in a case where no one would claim ontological uniqueness. The "old me" clause was removed from an earlier draft to avoid conceding ontological ground to Heidegger.
+
+**Status:** Proposed to author for addition as footnote to Point 2 of the death section. All 9 advisors confirmed.
+
+---
+
 *More revisions to be recorded as discussions proceed.*

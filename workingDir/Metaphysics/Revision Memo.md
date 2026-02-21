@@ -55,3 +55,37 @@ The synthetic content is real but in the wrong place. The synthetic question is:
 **Translation implication:** The claim is analytic, but the apparatus should note that confirming specific structures actually satisfy the antecedent (stably present across subjects) is hard empirical work — not assumed by the analytic claim but required before it applies. The claim's non-triviality is *epistemic* (moving philosophical structures out of the pure-reason domain) rather than *logical*.
 
 ---
+
+## 关于死亡 — Point 2 Expansion (零散想法)
+
+### What changed
+
+Old text: "自己的死亡对于自己是超越性的。因此不可能向死而生。因为这里向的死，是自己所以为的死，根据不同的形而上学对死亡的理解不同，这里背后其实就有形而上学的价值观。"
+
+New text adds: "也就是说，我们从未体验过死亡，我们对死亡的感受、理解（例如认为死亡作为生命必然发生的终点），都来源于我们所见的（不是自己的）死亡，并以这些现象为基础构建形而上，并遵循某种结构推广而应用于自己身上。"
+
+### What the revision does
+
+The revision supplies the epistemological *mechanism* behind the bare assertion. The original said "向死而生" is impossible because our concept of death is framework-dependent. The revision explains *why*: we have never experienced our own death; our entire understanding of it is constructed from observed *others'* deaths (third-person phenomena), then extrapolated structurally to ourselves.
+
+This connects the death section directly to the framework's core First/Second Reality distinction: the First Reality of death is always someone else's dying; one's own death is irreducibly Second Reality, a construction generalized from third-person observation.
+
+### Philosophical significance
+
+- Direct application of the 第一/第二实在 schema to self-mortality
+- Makes explicit the implicit critique of Heidegger's "向死而生" (*Sein-zum-Tode*): death cannot be "ownmost" (eigenst) because our access to it is constitutively third-person
+- The parenthetical example ("认为死亡作为生命必然发生的终点") does real work: even apparently basic claims about death are metaphysical constructions, not neutral observations
+
+### Proposed footnote (approved by all advisors, to be submitted to author)
+
+During discussion, Awoo proposed a clarifying footnote to be added to the text, addressing Heidegger directly. Final approved version:
+
+> "For Heidegger, death is Dasein's ownmost, non-relational, certain-yet-indefinite possibility: it will happen to me (not to Dasein-in-general), no one can take it over for me, and its constant imminence (rather than its eventual arrival) is what structures authentic existence as being-toward-death. However, death is never unique in that sense. Consider this example: I am a young boy. I have been told that one day I will fall in love with a girl, and I believe this deeply, since I see it as the pattern for every boy around me. I can therefore say, at this moment: it will happen to me, no one can take it over for me, and its constant imminence is what structures authentic existence as being-toward-girl. Notice that my certainty about my own death has exactly the same epistemological structure as this boy's certainty about his first love."
+
+**Rationale:** The boy example defamiliarizes the epistemic structure (third-person observation → construction → self-application) by showing it applies equally to anticipated non-death events. It keeps the argument purely epistemological without conceding ontological ground (the "once I fall in love the old me is gone" framing was removed for this reason). The final sentence closes the argument precisely.
+
+**Status:** Ready to submit to author.
+
+**Translation implication:** The revised text and proposed footnote together make the death section philosophically robust. Preserve the mechanism sentence carefully; the parenthetical ("例如认为死亡作为生命必然发生的终点") is philosophically load-bearing and should not be simplified away.
+
+---

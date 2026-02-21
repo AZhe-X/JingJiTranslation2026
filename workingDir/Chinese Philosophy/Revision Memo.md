@@ -4,6 +4,41 @@ Records of structured revision discussions, one topic at a time.
 
 ---
 
+## 2026-02-20 · Topic 3: 关于死亡 — Expansion of the Death Section
+
+### What was changed
+零散想法, section 2 of 关于死亡. The original read:
+
+> 自己的死亡对于自己是超越性的。因此不可能向死而生。因为这里向的死，是自己所以为的死，根据不同的形而上学对死亡的理解不同，这里背后其实就有形而上学的价值观。
+
+The revision expanded this to:
+
+> 自己的死亡对于自己是超越性的。因此不可能向死而生。因为这里向的死，是自己所以为的死。**也就是说，我们从未体验过死亡，我们对死亡的感受、理解（例如认为死亡作为生命必然发生的终点），都来源于我们所见的（不是自己的）死亡，并以这些现象为基础构建形而上，并遵循某种结构推广而应用于自己身上。** 根据不同的形而上学对死亡的理解不同，这里背后其实就有形而上学的价值观。
+
+### What was added
+The epistemological mechanism is now explicit: we have never experienced our own death; our understanding of death is derived from observing others' deaths (third-person), and we construct a metaphysical framework from those phenomena and apply it to ourselves via structural extension (遵循某种结构推广而应用于自己身上).
+
+### Discussion consensus
+
+**The revision transforms the claim from assertion to argument.** The original "不可能向死而生" was a bare claim; the revision supplies the philosophical argument using the framework's own tools.
+
+**Key insight:** All frameworks that make death a central organizing concept (Heidegger's 向死而生, Buddhist 死随念, Confucian 事死如事生) are, within this framework, 境-constructions built from third-person observations and projected inward — not first-person phenomenal access to one's own death. The revision doesn't invalidate those frameworks; it clarifies their ontological status.
+
+**Chinese philosophy connection:** Resonates with Confucius's 未知生，焉知死 but goes deeper — not merely pragmatic bracketing, but an epistemological explanation of why first-person access to own-death is structurally unavailable. Zhuangzi singing at his wife's grave enacts the correct stance: engaging third-person death without pretending it gives access to one's own.
+
+### Proposed footnote (consensus approved — to be sent to author)
+
+The team discussed whether the epistemological argument is clear without a concrete parallel case. Conclusion: clear on the mechanism, but a reader with Heideggerian commitments could still hold that death is ontologically unique. The following footnote was drafted, debated, and unanimously approved for proposal to the author:
+
+> For Heidegger, death is Dasein's ownmost, non-relational, certain-yet-indefinite possibility: it will happen to me (not to Dasein-in-general), no one can take it over for me, and its constant imminence (rather than its eventual arrival) is what structures authentic existence as being-toward-death. However, death is never unique in that sense. Consider this example: I am a young boy. I have been told that one day I will fall in love with a girl, and I believe this deeply, since I see it as the pattern for every boy around me. I can therefore say, at this moment: it will happen to me, no one can take it over for me, and its constant imminence is what structures authentic existence as being-toward-girl. Notice that my certainty about my own death has exactly the same epistemological structure as this boy's certainty about his first love.
+
+**Why the footnote works:** The example rests entirely on the epistemological parallel (observed pattern → constructed belief → self-application) without conceding ontological ground. Cutting the "old me who has never known love will never exist again" line was essential — that line would have invited the Heideggerian response that death requires irreversibility to make the comparison work.
+
+### Translation note
+The passage's key phrase "遵循某种结构推广而应用于自己身上" is philosophically load-bearing — it names the structural extension move. Translators should preserve this precision rather than paraphrasing as "apply to ourselves."
+
+---
+
 ## 2026-02-20 · Topic 2: 分析判断 — The Two Analytic Judgment Claims
 
 ### What was added

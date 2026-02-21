@@ -80,4 +80,34 @@ Clarification of what the Synthetic position was actually tracking: the syntheti
 
 ---
 
+## 3. Death Section Expansion (关于死亡 §2)
+
+**Relevant diff:** 关于诗意和境的一些零散想法.md — §2 of 关于死亡 expanded
+
+**Old text (abbreviated):** "不可能向死而生。因为这里向的死，是自己所以为的死，根据不同的形而上学对死亡的理解不同，这里背后其实就有形而上学的价值观。"
+
+**New text adds:** "也就是说，我们从未体验过死亡，我们对死亡的感受、理解（例如认为死亡作为生命必然发生的终点），都来源于我们所见的（不是自己的）死亡，并以这些现象为基础构建形而上，并遵循某种结构推广而应用于自己身上。"
+
+**What the revision does:**
+
+The old version asserted that "being-toward-death" is framework-dependent; the new version supplies the epistemological *mechanism*: we have never experienced our own death; our entire understanding of it is constructed from third-person observations (others' deaths), processed into metaphysics, then projected onto ourselves via structural extension. This transforms an assertion into an argument.
+
+**Key insight (cross-advisor):**
+
+The parenthetical ("例如认为死亡作为生命必然发生的终点") is doing real philosophical work — it shows that even seemingly neutral, descriptive concepts of death are metaphysical constructions, not naive observations. The critique of Heidegger's 向死而生 is now structurally precise: our concept of our own death has the same epistemic origin as any other concept built from watching others, which means "being-toward-death" always operates within a 境 constructed from third-person phenomena — not from privileged first-person access.
+
+**Levinas parallel:** Author arrives independently at a position close to Levinas (*Le Temps et l'Autre*): death is first encountered as the death of the Other; our own death-concept is intersubjectively constituted before it becomes the object of first-person anticipation.
+
+**Proposed footnote (confirmed by all advisors, to be emailed to author):**
+
+> For Heidegger, death is Dasein's ownmost, non-relational, certain-yet-indefinite possibility: it will happen to me (not to Dasein-in-general), no one can take it over for me, and its constant imminence (rather than its eventual arrival) is what structures authentic existence as being-toward-death. However, death is never unique in that sense. Consider this example: I am a young boy. I have been told that one day I will fall in love with a girl, and I believe this deeply, since I see it as the pattern for every boy around me. I can therefore say, at this moment: it will happen to me, no one can take it over for me, and its constant imminence is what structures authentic existence as being-toward-girl. Notice that my certainty about my own death has exactly the same epistemological structure as this boy's certainty about his first love.
+
+**Placement:** After "遵循某种结构推广而应用于自己身上" — the point where the mechanism is complete and the example crystallizes it.
+
+**Reasoning for footnote over main text:** The collection uses footnotes for philosophical asides that would interrupt the main argument (cf. 泛/范 footnote, 分析判断 footnotes). The example is not essential to follow the text but delivers the anti-Heideggerian force as felt experience rather than mere understanding.
+
+**Note on the "old me" line:** An earlier draft of the footnote included "once I fall in love, the old 'me' who has never known love will never exist again" — this was removed because it concedes ontological ground (making first love death-like), which allows a Heideggerian to say death remains uniquely totalizing. The final version rests purely on epistemological parallel, which is the author's actual point.
+
+---
+
 *Further entries to be added as revision discussions continue.*

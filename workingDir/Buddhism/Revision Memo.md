@@ -87,4 +87,36 @@ The claim is most precisely characterized as Husserlian *material a priori* — 
 
 ---
 
+---
+
+## 3. 关于死亡 — Point 2 Expansion (零散想法)
+
+**The revision:**
+
+Old: "自己的死亡对于自己是超越性的。因此不可能向死而生。因为这里向的死，是自己所以为的死，根据不同的形而上学对死亡的理解不同，这里背后其实就有形而上学的价值观。"
+
+New: Added explanatory sentence — "也就是说，我们从未体验过死亡，我们对死亡的感受、理解（例如认为死亡作为生命必然发生的终点），都来源于我们所见的（不是自己的）死亡，并以这些现象为基础构建形而上，并遵循某种结构推广而应用于自己身上。"
+
+**Discussion summary:**
+
+The revision transforms a bare assertion into an explicit epistemological argument. The mechanism is now clear: we've never experienced our own death; our entire concept of it is constructed from third-person observations (others' deaths), processed as phenomena, abstracted into metaphysical frameworks, then structurally extended to ourselves. This follows the collection's general pattern of concept-formation (the same structure seen in 礼→仁→德→道, in the knowledge essay, in renormalization).
+
+**Key philosophical point:**
+
+The revision makes precise what was previously vague. Against Heidegger's "being-toward-death" (向死而生): our concept of our own death has exactly the same epistemological structure as any anticipated first-person event we've only observed in others. Heidegger's three features (ownmost, non-relational, certain-yet-indefinite) are not unique to death — they apply equally to any such projection.
+
+**Illustrative example developed:**
+Awoo proposed: a young boy, told by observed pattern that he will one day fall in love, constructs a first-person certainty ("it will happen to me, no one can take it over for me") with exactly the same epistemological structure as certainty about one's own death. The example demonstrates that "mine-ness" is a product of structural extension from third-person phenomena, not privileged first-person access.
+
+**Proposed footnote (approved by all advisors):**
+> For Heidegger, death is Dasein's ownmost, non-relational, certain-yet-indefinite possibility: it will happen to me (not to Dasein-in-general), no one can take it over for me, and its constant imminence (rather than its eventual arrival) is what structures authentic existence as being-toward-death. However, death is never unique in that sense. Consider this example: I am a young boy. I have been told that one day I will fall in love with a girl, and I believe this deeply, since I see it as the pattern for every boy around me. I can therefore say, at this moment: it will happen to me, no one can take it over for me, and its constant imminence is what structures authentic existence as being-toward-girl. Notice that my certainty about my own death has exactly the same epistemological structure as this boy's certainty about his first love.
+
+**Status:** Footnote approved by all advisors; Awoo to propose to author via email.
+
+**Buddhist observation:** From an *anātman* perspective, the structural extension to "oneself" presupposes a stable self available to be the subject of death — itself a construction. "My death" is thus a construction layered on a construction: the death-concept derived from others' deaths, projected onto a self that is itself conventionally constituted.
+
+**Translation implication:** The revised passage is clear in Chinese; the proposed footnote is in English and appropriate for the translation edition. Preserve the "遵循某种结构推广而应用于自己身上" phrasing — it is the load-bearing articulation of structural extension.
+
+---
+
 *Further revision discussions to be appended below as they occur.*
